@@ -1,0 +1,2059 @@
+{"id":5702030,"lat":46.6805465,"lon":7.8274119,"name":"Migrol"}
+{"id":5702071,"lat":46.6834149,"lon":7.8445587,"name":"Avia"}
+{"id":17407058,"lat":47.0547266,"lon":7.6253785,"name":"Moveri Burgdorf"}
+{"id":27069561,"lat":47.3963906,"lon":8.6233174,"name":"SOCAR Zur Schmiede"}
+{"id":27125026,"lat":47.4010933,"lon":8.6199554,"name":"BP Garage Tresch"}
+{"id":29881492,"lat":47.686119,"lon":8.621418,"name":"Shell Rheinfall"}
+{"id":29885121,"lat":47.6773289,"lon":8.6005845,"name":"Wegm\u00fcller"}
+{"id":30011079,"lat":47.714297,"lon":8.5161525,"name":"B\u00e4r - Benzin und Diesel"}
+{"id":33157581,"lat":47.1554377,"lon":9.038236,"name":"BP"}
+{"id":33593043,"lat":47.1327975,"lon":9.0875692,"name":"Garage J\u00f6rg AG"}
+{"id":34026947,"lat":47.1782564,"lon":9.0513173,"name":"BP"}
+{"id":34026949,"lat":47.2112768,"lon":9.0283638,"name":"Agrola"}
+{"id":34078845,"lat":47.4956958,"lon":8.7129812,"name":"Migrol Service Z\u00fcrcherstrasse"}
+{"id":47744371,"lat":47.3995257,"lon":8.4973287,"name":"Coop Tankstelle H\u00f6ngg"}
+{"id":52741787,"lat":47.3815928,"lon":8.5095448,"name":"Shell Hardau"}
+{"id":54754456,"lat":47.1211551,"lon":9.122469,"name":"Eni"}
+{"id":59185470,"lat":47.2376219,"lon":8.7276971,"name":"AVIA"}
+{"id":73124669,"lat":47.3811098,"lon":8.4921479,"name":"Migrol Service Flurstrasse"}
+{"id":82462301,"lat":47.6556089,"lon":8.857671,"name":"Keusch"}
+{"id":82462303,"lat":47.6577964,"lon":8.8533445,"name":"Kofi's"}
+{"id":83423432,"lat":47.3374315,"lon":8.5302419,"name":"Shell Wollishofen"}
+{"id":83424882,"lat":47.3398175,"lon":8.5298146,"name":"Avia Service Wollishofen"}
+{"id":84513888,"lat":47.3236425,"lon":8.5187472,"name":"Eni Sihltalstrasse"}
+{"id":86035999,"lat":47.0242031,"lon":8.2963023,"name":"Agip"}
+{"id":89266715,"lat":47.1832564,"lon":7.9810905,"name":"Agrola"}
+{"id":94628702,"lat":47.0265599,"lon":8.2991398,"name":"Shell Kriens"}
+{"id":95582040,"lat":47.0495135,"lon":9.0600281,"name":"Avia"}
+{"id":98838885,"lat":47.0678093,"lon":9.0577963,"name":"Coop Tankstelle"}
+{"id":98838886,"lat":47.0725304,"lon":9.0560821,"name":"SOCAR Glarnerland"}
+{"id":98838887,"lat":47.0950062,"lon":9.0680391,"name":"Oil"}
+{"id":101392168,"lat":47.3890134,"lon":8.695437,"name":"AVIA"}
+{"id":102726613,"lat":47.2169721,"lon":8.5763211,"name":"Migrol Service Sihlbrugg"}
+{"id":103096904,"lat":47.3459074,"lon":8.534658,"name":"Avia Wollishofen Franz"}
+{"id":103102957,"lat":47.3485725,"lon":8.5340966,"name":"BP Service Wollishofen"}
+{"id":110964235,"lat":47.5278765,"lon":7.7003458,"name":"BP"}
+{"id":111247327,"lat":47.5080581,"lon":8.5437196,"name":"Migrol Tankstelle AMAG Bachenb\u00fclach"}
+{"id":125683037,"lat":47.5250153,"lon":7.6900191,"name":"BP"}
+{"id":130216563,"lat":47.4804183,"lon":8.2358504,"name":"AVIA"}
+{"id":130216565,"lat":47.4811412,"lon":8.2391514,"name":"Shell"}
+{"id":130216566,"lat":47.4842929,"lon":8.242173,"name":"BP"}
+{"id":135633811,"lat":47.3980896,"lon":8.5399105,"name":"Migrol Tankstelle Milchbuck"}
+{"id":148213917,"lat":47.0067564,"lon":7.1099653,"name":"Avia"}
+{"id":148466650,"lat":47.4387423,"lon":8.3478347,"name":"Shell W\u00fcrenlos-Wald"}
+{"id":148466654,"lat":47.4383077,"lon":8.3470877,"name":"Shell W\u00fcrenlos-Limmat"}
+{"id":153289980,"lat":47.5389027,"lon":7.7343968,"name":"Coop Tankstelle"}
+{"id":171100087,"lat":47.2028273,"lon":9.0072882,"name":"Kessler Garage"}
+{"id":179047160,"lat":47.2327033,"lon":8.6143556,"name":"Tankstelle Svabic"}
+{"id":190344999,"lat":47.3795583,"lon":9.5445168,"name":"Sch\u00f6ntalgarage"}
+{"id":194647104,"lat":47.4149012,"lon":9.6323521,"name":"Coop pronto, Heerbrugg"}
+{"id":201387216,"lat":47.4352023,"lon":9.1387028,"name":"Coop Tankstelle"}
+{"id":208814607,"lat":47.1958318,"lon":7.6992632,"name":"Landi"}
+{"id":213320801,"lat":47.2291296,"lon":9.0232582,"name":"Shell"}
+{"id":220030470,"lat":47.5023332,"lon":8.0316396,"name":"Tamoil"}
+{"id":220830818,"lat":47.2190519,"lon":7.7873795,"name":"Migrol Service Langenthal"}
+{"id":243881645,"lat":47.5882149,"lon":8.8857991,"name":"AVIA"}
+{"id":244479991,"lat":46.8164575,"lon":9.2670205,"name":"Coop"}
+{"id":246650988,"lat":47.2300466,"lon":8.9620388,"name":"Migrol Service Schmerikon"}
+{"id":247345256,"lat":47.2269883,"lon":7.8404587,"name":"Eni"}
+{"id":247702040,"lat":47.7046119,"lon":8.8205492,"name":"Migrol Service Ramsen"}
+{"id":247702174,"lat":47.706782,"lon":8.820345,"name":"Migrol Tankstelle Ramsen"}
+{"id":247702175,"lat":47.7092628,"lon":8.8208431,"name":"Eni"}
+{"id":248973336,"lat":47.200788,"lon":9.3375706,"name":"Avia"}
+{"id":249500787,"lat":47.374827,"lon":8.6428183,"name":"SOCAR F\u00e4llanden"}
+{"id":251364446,"lat":47.5659008,"lon":9.0967582,"name":"Coop Tankstelle"}
+{"id":251364447,"lat":47.5629712,"lon":9.1047017,"name":"Migrol Service Weinfelden"}
+{"id":253239439,"lat":46.9650682,"lon":7.4638599,"name":"Shell"}
+{"id":254289007,"lat":47.2259769,"lon":8.2621212,"name":"Scherer Hitzkirch"}
+{"id":255007349,"lat":47.4436565,"lon":8.465643,"name":"Coop Tankstelle Regensdorf"}
+{"id":256757662,"lat":46.7809278,"lon":7.6041999,"name":"Tamoil"}
+{"id":257281284,"lat":47.1884095,"lon":8.396334,"name":"Auto Suter"}
+{"id":258875594,"lat":47.1913959,"lon":8.8947716,"name":"Avia"}
+{"id":260443215,"lat":47.5809034,"lon":7.5942068,"name":"Migrol Service Kleinh\u00fcningen"}
+{"id":261741477,"lat":47.0254724,"lon":6.8895249,"name":"Le Pit-Stop"}
+{"id":263923036,"lat":47.3555523,"lon":8.3260826,"name":"Shell Fohlenweide"}
+{"id":264065504,"lat":47.4155139,"lon":8.5903409,"name":"Shell Wallisellen Zentrum"}
+{"id":264073160,"lat":47.4665171,"lon":8.2915271,"name":"coop pronto"}
+{"id":264529525,"lat":46.9715008,"lon":9.5513162,"name":"Coop"}
+{"id":264771144,"lat":47.3450623,"lon":7.9074428,"name":"Migrol Service Olten"}
+{"id":264794355,"lat":47.4128994,"lon":8.6168482,"name":"Coop Tankstelle Dietlikon"}
+{"id":264889459,"lat":47.3042342,"lon":8.6906319,"name":"Avia"}
+{"id":265569040,"lat":47.2742006,"lon":8.7248486,"name":"Avia"}
+{"id":265627180,"lat":46.9590478,"lon":7.4559202,"name":"Migrol Breitenrain"}
+{"id":265718046,"lat":46.9435757,"lon":6.8301809,"name":"Les Tilles"}
+{"id":265823655,"lat":47.0779673,"lon":7.5746866,"name":"Coop"}
+{"id":266285284,"lat":47.4502033,"lon":8.2907357,"name":"SOCAR D\u00e4ttwil"}
+{"id":266285329,"lat":47.4518737,"lon":8.2897349,"name":"Tamoil"}
+{"id":266542839,"lat":46.5458,"lon":6.5871529,"name":"BP"}
+{"id":266542840,"lat":46.548827,"lon":6.5799914,"name":"Tamoil"}
+{"id":266542843,"lat":47.0977652,"lon":6.8367095,"name":"Tamoil"}
+{"id":266561086,"lat":47.3232719,"lon":7.8042047,"name":"Tamoil"}
+{"id":266825152,"lat":47.1812476,"lon":8.8976164,"name":"Agrola"}
+{"id":266953468,"lat":47.2531303,"lon":8.6194521,"name":"Avia"}
+{"id":267053552,"lat":46.5535448,"lon":6.5707336,"name":"Migrol"}
+{"id":267053810,"lat":46.505564,"lon":6.4859824,"name":"Eni"}
+{"id":267053813,"lat":46.50091,"lon":6.4844802,"name":"Eni"}
+{"id":267211865,"lat":46.4744222,"lon":6.4131575,"name":"BP"}
+{"id":267924554,"lat":47.3971141,"lon":8.0409728,"name":"Ruedi R\u00fcssel"}
+{"id":268469414,"lat":47.3695212,"lon":8.5107127,"name":"Tankstelle Wyss"}
+{"id":268742610,"lat":47.4048172,"lon":8.0919529,"name":"Tamoil"}
+{"id":268893437,"lat":46.76141,"lon":7.6272964,"name":"Grabengut"}
+{"id":269059096,"lat":46.778549,"lon":6.649017,"name":"Cuendet"}
+{"id":269120240,"lat":47.3521481,"lon":8.722673,"name":"Shell Im Brunnen"}
+{"id":269304240,"lat":46.5335973,"lon":6.5850826,"name":"Shell"}
+{"id":269304246,"lat":46.5345567,"lon":6.5652376,"name":"Shell"}
+{"id":269450517,"lat":47.5777955,"lon":7.5964463,"name":"Coop Tankstelle"}
+{"id":269654731,"lat":47.5484517,"lon":7.546409,"name":"Migrol Service Allschwil"}
+{"id":269665687,"lat":46.7140743,"lon":7.5662706,"name":"Agrola"}
+{"id":269952262,"lat":46.5098465,"lon":6.650494,"name":"Shell"}
+{"id":270051291,"lat":46.7283004,"lon":8.1836091,"name":"SOCAR"}
+{"id":270156438,"lat":47.0739754,"lon":8.2061972,"name":"Agrola"}
+{"id":270288402,"lat":46.9694323,"lon":8.3525486,"name":"Agrola TopShop"}
+{"id":270288802,"lat":46.9682968,"lon":8.3536859,"name":"Auto Wagner"}
+{"id":271223009,"lat":47.3534438,"lon":8.5768921,"name":"BP Balgrist"}
+{"id":272631681,"lat":47.1804162,"lon":7.6656035,"name":"Hostettler"}
+{"id":272725604,"lat":47.2258573,"lon":7.6161562,"name":"BP Deitingen S\u00fcd"}
+{"id":273223793,"lat":47.5615058,"lon":7.5994793,"name":"Migrol Service Riehenstrasse"}
+{"id":273529123,"lat":46.8487124,"lon":7.189576,"name":"Zentrum-Garage D\u00fcdingen AG"}
+{"id":273529124,"lat":46.8445768,"lon":7.1907102,"name":"Garage Vonlanthen AG"}
+{"id":274077459,"lat":47.0159124,"lon":6.9063136,"name":"Garage de la Station"}
+{"id":274592567,"lat":47.4896462,"lon":7.598234,"name":"Migrol Service Reinach BL"}
+{"id":274678779,"lat":47.5258531,"lon":7.6037741,"name":"SOCAR M\u00fcnchenstein"}
+{"id":274716746,"lat":47.4236549,"lon":7.5047201,"name":"Ecostop Tankstelle"}
+{"id":274815548,"lat":47.2466719,"lon":8.4610784,"name":"Avia Z\u00fcrichstrasse"}
+{"id":274978894,"lat":47.4832546,"lon":7.5461208,"name":"AVIA"}
+{"id":274980463,"lat":47.2980447,"lon":8.3164949,"name":"Migrol Service Boswil"}
+{"id":275422339,"lat":46.9454893,"lon":7.4712058,"name":"Shell"}
+{"id":276414834,"lat":47.1985651,"lon":7.7869265,"name":"Garage Brunnbach"}
+{"id":277469389,"lat":47.7030543,"lon":8.6453087,"name":"SOCAR Gruben"}
+{"id":278205001,"lat":47.2295962,"lon":8.8437234,"name":"SOCAR Jona"}
+{"id":278205018,"lat":47.2969244,"lon":8.8399034,"name":"Avia"}
+{"id":278232271,"lat":46.6047314,"lon":6.5270144,"name":"Eni"}
+{"id":278792162,"lat":46.9369824,"lon":7.4755179,"name":"Migrol"}
+{"id":279370610,"lat":47.4890282,"lon":8.28805,"name":"Freie Tankstelle Velo Meier"}
+{"id":279909825,"lat":47.2040191,"lon":8.7641063,"name":"Shell Freienbach"}
+{"id":280528115,"lat":46.9546702,"lon":7.4332051,"name":"Migrol"}
+{"id":281282674,"lat":46.2597266,"lon":6.947662,"name":"BP"}
+{"id":281283867,"lat":46.3018161,"lon":6.978265,"name":"BP"}
+{"id":281284025,"lat":46.3935598,"lon":6.921506,"name":"Shell"}
+{"id":281284791,"lat":46.1111272,"lon":7.077013,"name":"Station Tamoil Quartz"}
+{"id":281286146,"lat":46.109953,"lon":7.0773462,"name":"Station BP Martigny"}
+{"id":281291631,"lat":46.2362395,"lon":6.9265364,"name":"Garage Defago - Toyota"}
+{"id":281761432,"lat":46.898611,"lon":8.2506888,"name":"Socar"}
+{"id":282180757,"lat":47.4009426,"lon":7.5424953,"name":"Remo Schmid"}
+{"id":282439888,"lat":46.9732785,"lon":7.485325,"name":"Tamoil"}
+{"id":283045787,"lat":47.4079233,"lon":7.5421063,"name":"Garage Lantz"}
+{"id":283181019,"lat":47.3860523,"lon":8.5319464,"name":"Migrol Service Sihlquai"}
+{"id":283201896,"lat":47.2018784,"lon":8.790165,"name":"BP"}
+{"id":283213549,"lat":46.9368196,"lon":7.432424,"name":"Eni"}
+{"id":284931676,"lat":46.2304848,"lon":6.0849653,"name":"Shell"}
+{"id":286048215,"lat":47.1937469,"lon":7.4053771,"name":"SOCAR Grenchen"}
+{"id":286056220,"lat":47.3292879,"lon":8.2023524,"name":"Feldgarage"}
+{"id":286770232,"lat":46.752103,"lon":8.0483903,"name":"Socar"}
+{"id":286782225,"lat":47.7235876,"lon":8.6397406,"name":"Avia"}
+{"id":286879558,"lat":46.8866278,"lon":7.3890744,"name":"Agrola"}
+{"id":286879677,"lat":46.9250194,"lon":7.416907,"name":"Ruedi R\u00fcssel"}
+{"id":287320953,"lat":47.1023815,"lon":6.8333999,"name":"BP Shop"}
+{"id":287630914,"lat":47.1668796,"lon":9.4664798,"name":"Coop"}
+{"id":288557316,"lat":47.4898013,"lon":7.5896372,"name":"Avia"}
+{"id":288740214,"lat":46.7680292,"lon":7.3523004,"name":"Riffenmatt Garage GmbH"}
+{"id":291415329,"lat":47.6550521,"lon":9.1647784,"name":"SOCAR Kreuzlingen"}
+{"id":291769933,"lat":46.7707841,"lon":7.1634028,"name":"Garage du Tennis Marly SA"}
+{"id":292331528,"lat":47.5600805,"lon":9.1320734,"name":"Agrola"}
+{"id":292362274,"lat":46.7558732,"lon":7.1478931,"name":"Mini prix"}
+{"id":292507777,"lat":46.7802595,"lon":6.6533462,"name":"Garage Bel-Air"}
+{"id":293011493,"lat":47.5601728,"lon":8.4925388,"name":"Shell"}
+{"id":293030011,"lat":47.3450854,"lon":8.7019951,"name":"Lenzlinger S\u00f6hne AG"}
+{"id":293254091,"lat":46.818486,"lon":8.3979432,"name":"Shell"}
+{"id":293585451,"lat":47.4727471,"lon":7.7555382,"name":"Coop Tankstelle"}
+{"id":294055540,"lat":47.1102304,"lon":8.3211384,"name":"Migrol Tankstelle Emmen"}
+{"id":294055589,"lat":47.1216181,"lon":8.3416496,"name":"Avia"}
+{"id":295747025,"lat":47.119605,"lon":7.2429595,"name":"Socar"}
+{"id":296253069,"lat":47.0893332,"lon":6.8075691,"name":"Coop Pronto"}
+{"id":296941470,"lat":47.2140841,"lon":8.7004828,"name":"Avia"}
+{"id":296990388,"lat":47.4275979,"lon":7.7714448,"name":"Migrol"}
+{"id":297070232,"lat":46.7848989,"lon":6.6332171,"name":"Garage Bouby-Rolls"}
+{"id":297302039,"lat":47.4070106,"lon":8.7269393,"name":"Shell Illnau"}
+{"id":297993545,"lat":47.2299301,"lon":8.6671966,"name":"AVIA W\u00e4denswil"}
+{"id":298042177,"lat":47.5615782,"lon":7.5679874,"name":"BP"}
+{"id":298681614,"lat":47.4940397,"lon":9.4683968,"name":"Garage Zender"}
+{"id":298715804,"lat":47.4800585,"lon":9.0297703,"name":"BEBECO"}
+{"id":298873230,"lat":46.2339875,"lon":6.0545816,"name":"Socar Meyrin"}
+{"id":299311915,"lat":46.6246348,"lon":8.0304265,"name":"Oeltrans"}
+{"id":299363864,"lat":47.1790298,"lon":8.4317033,"name":"Agrola"}
+{"id":299364634,"lat":47.1795921,"lon":8.4338162,"name":"AutoSuter"}
+{"id":299752761,"lat":47.3803229,"lon":8.5463543,"name":"Scall"}
+{"id":299813447,"lat":47.2867307,"lon":8.5433519,"name":"Voegtlin-Meyer"}
+{"id":299813627,"lat":46.9685847,"lon":6.8482514,"name":"Miniprix"}
+{"id":300418712,"lat":47.393705,"lon":8.5059844,"name":"Avia Hardturmstrasse"}
+{"id":300514678,"lat":47.7921289,"lon":8.6128299,"name":"SOCAR Bargen"}
+{"id":300514679,"lat":47.7924263,"lon":8.6121257,"name":"Migrol Service Bargen"}
+{"id":301208147,"lat":47.3728411,"lon":8.5211422,"name":"BP Service Wiedikon"}
+{"id":301407672,"lat":47.4865145,"lon":8.2949688,"name":"Argovia Tankstelle"}
+{"id":303314859,"lat":47.3629959,"lon":9.0734928,"name":"BP"}
+{"id":303699177,"lat":47.4518342,"lon":8.7012565,"name":"BP Kemptthal Nord"}
+{"id":303844420,"lat":46.9713525,"lon":7.3553734,"name":"Agrola"}
+{"id":304014558,"lat":46.0872339,"lon":7.2068309,"name":"St Christophe"}
+{"id":304917714,"lat":47.4541266,"lon":8.4383363,"name":"SOCAR Buchs ZH"}
+{"id":304992273,"lat":47.4585509,"lon":8.4068901,"name":"Avia Harbernstrasse"}
+{"id":304993060,"lat":47.4460704,"lon":8.4631797,"name":"Agrola Regensdorf"}
+{"id":305469317,"lat":47.0012366,"lon":7.4619783,"name":"Avia"}
+{"id":305469322,"lat":47.0043064,"lon":7.4629537,"name":"SOCAR Zollikofen"}
+{"id":305701426,"lat":47.4448843,"lon":8.6233539,"name":"Avia Bassersdorf"}
+{"id":305707837,"lat":47.4445742,"lon":8.6251146,"name":"SOCAR Bassersdorf"}
+{"id":305765115,"lat":47.0631953,"lon":7.3348212,"name":"MACRO SWISS ENERGY AG"}
+{"id":306231847,"lat":46.7038,"lon":6.5687812,"name":"Simond"}
+{"id":306498031,"lat":46.5825559,"lon":6.6012717,"name":"Shell"}
+{"id":307028624,"lat":47.2111081,"lon":7.5442211,"name":"Migrol Tankstelle Solothurn"}
+{"id":307121153,"lat":47.4186697,"lon":8.6844858,"name":"AVIA"}
+{"id":307121156,"lat":47.4220428,"lon":8.6848857,"name":"Migrol Tankstelle Effretikon"}
+{"id":307363530,"lat":47.4620039,"lon":8.3353957,"name":"Coop"}
+{"id":307661791,"lat":47.2370963,"lon":8.6374727,"name":"Ruedi R\u00fcssel"}
+{"id":307662123,"lat":47.2375535,"lon":8.6452619,"name":"Winterberg"}
+{"id":307695032,"lat":47.2237124,"lon":7.7784468,"name":"AVIA"}
+{"id":307698374,"lat":47.234814,"lon":9.0216688,"name":"BP"}
+{"id":307821699,"lat":46.8623721,"lon":7.4607301,"name":"Ruedi R\u00fcssel"}
+{"id":308075661,"lat":46.9435046,"lon":7.3711499,"name":"Shell"}
+{"id":308077581,"lat":46.9069076,"lon":7.2358556,"name":"Agrola"}
+{"id":309112387,"lat":47.4344986,"lon":8.7635897,"name":"AVIA"}
+{"id":309425295,"lat":47.327756,"lon":8.7824754,"name":"BP Z\u00fcrcherstrasse"}
+{"id":309431866,"lat":47.0904271,"lon":6.8085505,"name":"Migrol"}
+{"id":309431882,"lat":47.093177,"lon":6.8150642,"name":"Entilles"}
+{"id":309765158,"lat":47.0636968,"lon":6.7607215,"name":"Socar"}
+{"id":309986668,"lat":46.0537291,"lon":8.9728703,"name":"Migrol"}
+{"id":310205995,"lat":47.3968963,"lon":8.4404596,"name":"BP"}
+{"id":310299936,"lat":47.2974998,"lon":7.9359255,"name":"SOCAR Oftringen"}
+{"id":310314796,"lat":47.4294761,"lon":8.6871544,"name":"SOCAR Effretikon"}
+{"id":310390136,"lat":46.0094621,"lon":8.9640309,"name":"Socar"}
+{"id":310567715,"lat":46.3199827,"lon":10.0592318,"name":"Migrol"}
+{"id":310668275,"lat":47.1057836,"lon":8.3795569,"name":"Agrola"}
+{"id":310668277,"lat":47.1167598,"lon":8.3914953,"name":"Centrum Garage Notter"}
+{"id":310875963,"lat":47.2302544,"lon":8.8481246,"name":"Migrol Tankstelle AMAG Jona"}
+{"id":311097320,"lat":46.889789,"lon":7.2243433,"name":"Avia"}
+{"id":311185159,"lat":47.4403024,"lon":9.4101696,"name":"BP"}
+{"id":311252839,"lat":46.4237682,"lon":6.2544241,"name":"Coop Pronto"}
+{"id":311319045,"lat":47.229728,"lon":8.4785611,"name":"Migrol Tankstelle Mettmenstetten"}
+{"id":311976893,"lat":47.4010238,"lon":8.4915916,"name":"Shell Winzerstrasse"}
+{"id":312012092,"lat":47.4141963,"lon":8.518214,"name":"Migrol Service Glaubten"}
+{"id":312365830,"lat":46.1281589,"lon":7.0600696,"name":"Shell"}
+{"id":312468153,"lat":47.1247819,"lon":7.2596305,"name":"Tamoil"}
+{"id":312630282,"lat":47.1296307,"lon":7.2547306,"name":"March\u00e9 Br\u00fcgg"}
+{"id":313192016,"lat":47.4305917,"lon":8.9564422,"name":"Landi"}
+{"id":313268393,"lat":47.3802915,"lon":8.4940158,"name":"Shell Rautistrasse"}
+{"id":313783389,"lat":46.4767158,"lon":6.4011642,"name":"Coop"}
+{"id":315513529,"lat":47.1008381,"lon":8.2673762,"name":"AVIA Tankstelle"}
+{"id":316022671,"lat":47.4616297,"lon":9.5963017,"name":"Avia"}
+{"id":316022885,"lat":47.4439922,"lon":9.5323785,"name":"BP"}
+{"id":317038642,"lat":47.1433014,"lon":7.3733308,"name":"Juragarage-Peter"}
+{"id":317045478,"lat":47.4712239,"lon":9.0585959,"name":"Avia"}
+{"id":317828998,"lat":46.1738259,"lon":6.1283334,"name":"BP"}
+{"id":318410355,"lat":47.419653,"lon":8.556201,"name":"Migrol Service Thurgauerstrasse"}
+{"id":319114593,"lat":46.3152191,"lon":6.1919134,"name":"BP"}
+{"id":319463995,"lat":47.4206438,"lon":9.36708,"name":"socar"}
+{"id":319504511,"lat":46.4897328,"lon":6.3989245,"name":"Tamoil"}
+{"id":320040835,"lat":47.4932576,"lon":8.8987116,"name":"Coop Tankstelle"}
+{"id":320040876,"lat":47.4935613,"lon":8.8982352,"name":"Ruedi R\u00fcssel"}
+{"id":320182673,"lat":47.4938451,"lon":8.546728,"name":"Migrol Tankstelle Winkel"}
+{"id":321271634,"lat":47.49898,"lon":8.7927573,"name":"AVIA"}
+{"id":321362564,"lat":47.3917824,"lon":8.5424928,"name":"Tamoil"}
+{"id":321853683,"lat":47.5062912,"lon":8.7141595,"name":"Avia"}
+{"id":321855166,"lat":47.5111545,"lon":8.7604652,"name":"BP"}
+{"id":322009546,"lat":46.1452015,"lon":6.1365929,"name":"Tamoil"}
+{"id":322913188,"lat":47.0426407,"lon":8.5512547,"name":"Ruedi-R\u00fcssel"}
+{"id":323236561,"lat":47.4948853,"lon":8.3401247,"name":"Avia"}
+{"id":324343384,"lat":47.3015936,"lon":8.4484256,"name":"Freie Tankstelle Z\u00fcrcherstrasse"}
+{"id":324648649,"lat":47.1858117,"lon":8.5209067,"name":"Migrol Service Baar"}
+{"id":325054969,"lat":47.510109,"lon":7.6205122,"name":"Ruedi R\u00fcssel"}
+{"id":325787263,"lat":46.2037166,"lon":7.167091,"name":"Combustia"}
+{"id":325851832,"lat":46.1848264,"lon":7.211407,"name":"Tamoil"}
+{"id":327282170,"lat":46.5668634,"lon":6.558821,"name":"Migrol avec Magasin"}
+{"id":328060238,"lat":45.9851267,"lon":8.936422,"name":"Shell"}
+{"id":330142805,"lat":47.524994,"lon":8.5392925,"name":"Soli-Tankstelle"}
+{"id":331317250,"lat":47.3674023,"lon":8.4943259,"name":"Migrol Service Triemli"}
+{"id":331337817,"lat":46.6640423,"lon":9.5713655,"name":"Agrola"}
+{"id":331589251,"lat":46.4711808,"lon":7.1281356,"name":"Agrola"}
+{"id":333771406,"lat":47.3083286,"lon":7.9261251,"name":"Coop"}
+{"id":334005113,"lat":47.4162331,"lon":9.3452637,"name":"Shell Service Waldau"}
+{"id":335477010,"lat":47.2669797,"lon":8.6508957,"name":"Avia"}
+{"id":335958350,"lat":47.390375,"lon":8.4913858,"name":"SOCAR Hohlstrasse"}
+{"id":336019729,"lat":47.5574974,"lon":7.5469471,"name":"Coop Tankstelle"}
+{"id":336601485,"lat":47.5995668,"lon":8.98116,"name":"Garage B\u00fcrki"}
+{"id":338639819,"lat":47.3812597,"lon":8.5377769,"name":"Avia Service HB"}
+{"id":339612237,"lat":47.2859721,"lon":8.5636417,"name":"Eni Thalwil"}
+{"id":339612238,"lat":47.2864826,"lon":8.565863,"name":"BP Service Thalwil"}
+{"id":339631367,"lat":47.2906713,"lon":8.4444262,"name":"Ruedi R\u00fcssel Ottenbacherstrasse"}
+{"id":339631500,"lat":47.2963684,"lon":8.4486157,"name":"Ruedi R\u00fcssel Affolternstrasse"}
+{"id":339957313,"lat":47.1966126,"lon":8.4810829,"name":"Avia"}
+{"id":340381113,"lat":47.1546449,"lon":8.5599052,"name":"Migrol Tankstelle Schmidtli"}
+{"id":343087168,"lat":47.6399737,"lon":9.2005165,"name":"Migrol Service Kreuzlingen"}
+{"id":344194669,"lat":47.3176278,"lon":8.6669872,"name":"Shell Heuberg"}
+{"id":344522057,"lat":46.5295496,"lon":9.8670469,"name":"bp"}
+{"id":345328505,"lat":46.5572631,"lon":9.6246372,"name":"AVIA"}
+{"id":345519391,"lat":47.1847934,"lon":8.683956,"name":"Ruedi R\u00fcssel"}
+{"id":346269257,"lat":47.4641549,"lon":8.9693339,"name":"Agrola"}
+{"id":346406523,"lat":47.3232561,"lon":8.0219409,"name":"Avia"}
+{"id":347351831,"lat":46.5181699,"lon":6.601295,"name":"Agip"}
+{"id":347672312,"lat":46.5199316,"lon":6.630332,"name":"BP"}
+{"id":349171294,"lat":47.198656,"lon":8.1084466,"name":"Garage Peter"}
+{"id":349196976,"lat":47.0565682,"lon":8.2582774,"name":"Agrola"}
+{"id":351947075,"lat":45.9820778,"lon":8.9294148,"name":"Esso"}
+{"id":351947126,"lat":45.9806589,"lon":8.928934,"name":"Socar"}
+{"id":351961987,"lat":46.1561379,"lon":8.9718321,"name":"Shell"}
+{"id":352786909,"lat":46.9985153,"lon":6.7352154,"name":"Tamoil"}
+{"id":353011599,"lat":47.4990816,"lon":7.7227859,"name":"SOCAR F\u00fcllinsdorf"}
+{"id":353452474,"lat":47.5944448,"lon":7.6548837,"name":"bp"}
+{"id":353452488,"lat":47.5919489,"lon":7.6529753,"name":"Avia"}
+{"id":354407155,"lat":47.1130701,"lon":8.231858,"name":"BP"}
+{"id":354548408,"lat":45.9937769,"lon":7.1825888,"name":"Tamoil"}
+{"id":354593878,"lat":46.3082786,"lon":7.4694091,"name":"Eni"}
+{"id":354633686,"lat":47.0623003,"lon":6.7574256,"name":"Coop"}
+{"id":354695628,"lat":46.775381,"lon":7.1605758,"name":"March\u00e9 Gaillard"}
+{"id":354850051,"lat":46.7592,"lon":7.0930799,"name":"Mini Prix"}
+{"id":354850557,"lat":46.6432587,"lon":7.0637262,"name":"Garage de la Prairie"}
+{"id":355232174,"lat":47.3416225,"lon":8.7155853,"name":"Avia"}
+{"id":356056801,"lat":47.0859033,"lon":8.3464876,"name":"Migrol Service Ebikon"}
+{"id":357231393,"lat":46.3063736,"lon":7.7511069,"name":"Fryand"}
+{"id":357276942,"lat":46.3086349,"lon":7.7443331,"name":"Socar"}
+{"id":357276951,"lat":46.3063782,"lon":7.750319,"name":"BP"}
+{"id":357276994,"lat":46.303349,"lon":7.8012747,"name":"TAMOIL"}
+{"id":357286346,"lat":46.2960807,"lon":7.8661349,"name":"Coop"}
+{"id":357299631,"lat":46.2926024,"lon":7.8782351,"name":"Socar"}
+{"id":357299672,"lat":46.2922381,"lon":7.8903445,"name":"Shell"}
+{"id":357299691,"lat":46.2938618,"lon":7.9010155,"name":"Tamoil"}
+{"id":357299708,"lat":46.2944104,"lon":7.9066116,"name":"BP"}
+{"id":357312943,"lat":46.3075376,"lon":7.9648005,"name":"Tamoil"}
+{"id":357329286,"lat":46.3230361,"lon":7.9882038,"name":"BP"}
+{"id":360435741,"lat":46.5070058,"lon":6.6214654,"name":"Bateaux seulement"}
+{"id":362795202,"lat":47.4258408,"lon":8.5478098,"name":"Shell Kolbenacker"}
+{"id":362798141,"lat":47.4310129,"lon":8.5442164,"name":"Avia Glattalstrasse"}
+{"id":363928734,"lat":46.9479904,"lon":10.3666863,"name":"Socar"}
+{"id":363928741,"lat":46.9482689,"lon":10.366381,"name":"Migrol"}
+{"id":363928771,"lat":46.9430137,"lon":10.358665,"name":"Migrol"}
+{"id":364148994,"lat":46.6868797,"lon":7.6809306,"name":"Sch\u00f6negg Garage"}
+{"id":364779474,"lat":47.5462321,"lon":8.9595388,"name":"AVIA"}
+{"id":364961808,"lat":47.4307159,"lon":9.636319,"name":"Agip"}
+{"id":364961811,"lat":47.4307962,"lon":9.6358483,"name":"Shell"}
+{"id":364961818,"lat":47.4311469,"lon":9.6345378,"name":"Avia"}
+{"id":365933996,"lat":47.1281481,"lon":7.9973817,"name":"Coop"}
+{"id":366112327,"lat":47.4438846,"lon":7.5983011,"name":"Migrol Tankstelle Grellingen"}
+{"id":366590214,"lat":46.5031639,"lon":7.2870859,"name":"Avia"}
+{"id":366785529,"lat":46.0180619,"lon":8.9619278,"name":"Eni"}
+{"id":367085722,"lat":46.0239932,"lon":8.9659782,"name":"Shell"}
+{"id":368286682,"lat":47.4821318,"lon":8.2124349,"name":"Migrol Service Windisch"}
+{"id":369574530,"lat":47.1605058,"lon":7.2807866,"name":"Coop Pronto"}
+{"id":370163795,"lat":46.7898569,"lon":7.1132621,"name":"Mini Prix"}
+{"id":370171159,"lat":46.7677665,"lon":7.2002262,"name":"Miniprix Corpataux"}
+{"id":370319481,"lat":46.456019,"lon":9.7907105,"name":"Socar"}
+{"id":370382413,"lat":46.4658751,"lon":6.836337,"name":"Shell"}
+{"id":370440105,"lat":47.0119027,"lon":6.9761983,"name":"Shell"}
+{"id":370661427,"lat":47.5075392,"lon":7.7212426,"name":"Migrol Service F\u00fcllinsdorf"}
+{"id":370661435,"lat":47.5075596,"lon":7.7208992,"name":"Migrol Tankstelle F\u00fcllinsdorf"}
+{"id":370683555,"lat":46.6112522,"lon":7.0617905,"name":"Agip"}
+{"id":370746834,"lat":47.4595255,"lon":8.3854725,"name":"Avia Landstrasse"}
+{"id":370940073,"lat":46.20651,"lon":6.1095787,"name":"Shell"}
+{"id":371009114,"lat":47.5183128,"lon":8.5927268,"name":"Migrol Tankstelle Embrach"}
+{"id":371216706,"lat":46.9465199,"lon":7.3850241,"name":"Migrol Service Betlehem"}
+{"id":371739009,"lat":46.6899318,"lon":7.6722379,"name":"Oeltrans AG"}
+{"id":372974864,"lat":47.1164766,"lon":8.2000151,"name":"Landi Sempach-Station"}
+{"id":373004907,"lat":46.0118935,"lon":8.9597563,"name":"Tamoil"}
+{"id":373280989,"lat":47.1708686,"lon":8.0992783,"name":"Agrola"}
+{"id":373802828,"lat":46.2323808,"lon":9.1029127,"name":"Eni"}
+{"id":374188679,"lat":47.4911174,"lon":8.5033648,"name":"Avia"}
+{"id":374570733,"lat":46.9546171,"lon":7.3318921,"name":"Haenggi"}
+{"id":375944474,"lat":47.4431662,"lon":9.0714261,"name":"AVIA"}
+{"id":377012210,"lat":47.4117175,"lon":8.4558201,"name":"Migrol Service Engstringen"}
+{"id":377078146,"lat":46.9550024,"lon":7.2641814,"name":"R\u00fcfenacht"}
+{"id":378854352,"lat":46.6912023,"lon":6.9100826,"name":"Tamoil"}
+{"id":378876538,"lat":46.6874474,"lon":6.9071126,"name":"Agrola"}
+{"id":379083000,"lat":46.6153891,"lon":7.0520955,"name":"BP"}
+{"id":379559846,"lat":47.1231221,"lon":7.9940004,"name":"Shell"}
+{"id":379583597,"lat":46.9749883,"lon":6.8783443,"name":"Garage du Port"}
+{"id":385677191,"lat":46.8227681,"lon":7.3408107,"name":"Tamoil"}
+{"id":385677192,"lat":46.8230213,"lon":7.3407193,"name":"Migrol"}
+{"id":388120351,"lat":47.4173263,"lon":8.2724217,"name":"Ruedi R\u00fcssel"}
+{"id":388172758,"lat":47.4119187,"lon":8.240108,"name":"Mazda"}
+{"id":389611796,"lat":46.6759669,"lon":7.8657367,"name":"Tamoil"}
+{"id":390009439,"lat":46.9348415,"lon":7.5007708,"name":"Brechtb\u00fchl CNG Erdgastankstelle (Automat)"}
+{"id":391448263,"lat":46.6890352,"lon":7.8636754,"name":"Moveri"}
+{"id":392016059,"lat":46.5975316,"lon":7.9072725,"name":"Avia"}
+{"id":394819519,"lat":47.4739609,"lon":9.0035942,"name":"Avia"}
+{"id":394822057,"lat":47.4773771,"lon":8.9978543,"name":"BP"}
+{"id":400879398,"lat":46.0278265,"lon":8.9192002,"name":"Eni"}
+{"id":401610876,"lat":47.3479425,"lon":8.3476132,"name":"AVIA"}
+{"id":407913989,"lat":47.5127502,"lon":8.5431018,"name":"BP Tankstelle"}
+{"id":408430808,"lat":47.0087191,"lon":9.496853,"name":"Coop"}
+{"id":409482527,"lat":47.1995404,"lon":7.5812798,"name":"Kurth"}
+{"id":410652571,"lat":47.4696534,"lon":7.8670182,"name":"Pianezze"}
+{"id":410724759,"lat":46.5404748,"lon":6.8377021,"name":"Tamoil"}
+{"id":410725357,"lat":46.5715008,"lon":6.8263704,"name":"BP"}
+{"id":410844750,"lat":47.5008151,"lon":8.5978083,"name":"Landi"}
+{"id":410849153,"lat":46.018061,"lon":8.9135089,"name":"Shell"}
+{"id":411567767,"lat":47.4146182,"lon":9.3399466,"name":"AVIA"}
+{"id":411872585,"lat":47.0071684,"lon":9.4989292,"name":"Garage Gut Bad Ragaz"}
+{"id":412098237,"lat":47.31862,"lon":7.8032333,"name":"Coop Tankstelle"}
+{"id":412723837,"lat":46.4670912,"lon":6.8361039,"name":"Migrol"}
+{"id":412739768,"lat":46.1670717,"lon":9.0013866,"name":"Socar"}
+{"id":412772914,"lat":46.4547571,"lon":6.8550841,"name":"eni"}
+{"id":412779720,"lat":46.797761,"lon":7.6837257,"name":"Agrola"}
+{"id":413332243,"lat":46.3253095,"lon":6.963197,"name":"Eni"}
+{"id":413482557,"lat":46.7909331,"lon":7.5188161,"name":"Migrol"}
+{"id":415651478,"lat":46.9934801,"lon":6.9277143,"name":"HK"}
+{"id":418006104,"lat":47.106173,"lon":6.8343637,"name":"Bonny SA"}
+{"id":418016506,"lat":46.5623473,"lon":6.6870242,"name":"Eni"}
+{"id":418190212,"lat":47.1123327,"lon":9.215449,"name":"Tankstelle"}
+{"id":418361738,"lat":46.6965857,"lon":6.4791179,"name":"Mini Prix"}
+{"id":418364681,"lat":47.0687548,"lon":7.6007489,"name":"Migrol Service Burgdorf"}
+{"id":418952812,"lat":47.362284,"lon":8.366332,"name":"Shell"}
+{"id":419793549,"lat":46.9794619,"lon":9.4806514,"name":"Sandgrueb"}
+{"id":419877172,"lat":46.3863281,"lon":6.8378986,"name":"MINI PRIX"}
+{"id":420347109,"lat":47.4929508,"lon":7.0170192,"name":"Garage Pilou SARL"}
+{"id":420437934,"lat":46.1121477,"lon":8.9318574,"name":"Shell"}
+{"id":421941395,"lat":47.0576276,"lon":7.6294384,"name":"Agrola"}
+{"id":421981859,"lat":47.2158393,"lon":8.573721,"name":"Coop"}
+{"id":423352403,"lat":47.6942169,"lon":8.5715463,"name":"Agrola"}
+{"id":427921820,"lat":47.262549,"lon":8.17665,"name":"Tamoil"}
+{"id":428720432,"lat":46.6247728,"lon":6.4422236,"name":"Stop+Go"}
+{"id":428876091,"lat":47.31532,"lon":8.5221094,"name":"Dangel"}
+{"id":428933773,"lat":46.4685396,"lon":6.8327705,"name":"Eni"}
+{"id":429161254,"lat":46.1846537,"lon":6.1373308,"name":"Eni"}
+{"id":429360387,"lat":46.538263,"lon":6.7343295,"name":"Garage de Savigny"}
+{"id":430264022,"lat":46.9635837,"lon":7.4814764,"name":"H\u00e4nggi"}
+{"id":430399623,"lat":46.8327381,"lon":9.8536956,"name":"Shell"}
+{"id":430444348,"lat":46.9997609,"lon":7.4644307,"name":"Agrola"}
+{"id":430460537,"lat":47.0197233,"lon":7.4976559,"name":"Zentrum Tankstelle"}
+{"id":430480451,"lat":46.95745,"lon":7.4861054,"name":"Eni"}
+{"id":430829372,"lat":46.9568291,"lon":7.4839823,"name":"BP"}
+{"id":430829373,"lat":46.9600335,"lon":7.4799152,"name":"H\u00e4nggi"}
+{"id":430842487,"lat":46.9581795,"lon":7.4916026,"name":"Peter Brechtb\u00fchl AG"}
+{"id":430905343,"lat":47.0175225,"lon":7.4908803,"name":"Migrol Service Sch\u00f6nb\u00fchl"}
+{"id":431206375,"lat":46.6182993,"lon":6.4165305,"name":"Eni"}
+{"id":432296457,"lat":47.2094875,"lon":9.4886231,"name":"Agrola"}
+{"id":432296458,"lat":47.2112124,"lon":9.4943153,"name":"Coop"}
+{"id":432615367,"lat":47.3159652,"lon":8.5302907,"name":"Avia Adliswil"}
+{"id":433569065,"lat":47.3972404,"lon":9.0064483,"name":"Schmid-Garage AG"}
+{"id":435573454,"lat":47.6843704,"lon":8.6600427,"name":"Coop Pronto"}
+{"id":438227914,"lat":46.9542541,"lon":7.4333135,"name":"Ruedi R\u00fcssel"}
+{"id":440817437,"lat":47.3660407,"lon":9.5542563,"name":"Avia"}
+{"id":440817438,"lat":47.3634959,"lon":9.5557017,"name":"Agrola"}
+{"id":440848081,"lat":46.4107908,"lon":8.1515888,"name":"Tamoil"}
+{"id":440891382,"lat":46.8152374,"lon":7.215482,"name":"BP"}
+{"id":441134960,"lat":46.5052045,"lon":6.6765399,"name":"Tamoil"}
+{"id":441595897,"lat":47.3506384,"lon":8.2723513,"name":"BP"}
+{"id":441890755,"lat":47.6508092,"lon":9.1656162,"name":"Tamoil"}
+{"id":442529871,"lat":47.2526094,"lon":7.6493802,"name":"Ruedi R\u00fcssel"}
+{"id":442592745,"lat":46.252595,"lon":7.0082419,"name":"Tamoil"}
+{"id":442642800,"lat":47.3881888,"lon":9.652495,"name":"Coop Pronto Tankstelle"}
+{"id":442642801,"lat":47.3884504,"lon":9.6515888,"name":"BP"}
+{"id":442642802,"lat":47.3893601,"lon":9.6509158,"name":"Eni"}
+{"id":442642803,"lat":47.3790862,"lon":9.6683762,"name":"Redfox Oil"}
+{"id":442661254,"lat":46.1549418,"lon":8.9625001,"name":"Migrol"}
+{"id":444007678,"lat":47.16551,"lon":8.290244,"name":"Coop"}
+{"id":447307830,"lat":47.6062644,"lon":8.2320174,"name":"K. Nusser AG"}
+{"id":447307833,"lat":47.60561,"lon":8.2312691,"name":"Shell-Service Koblenz"}
+{"id":448165771,"lat":46.2508942,"lon":7.00238,"name":"Mini Prix"}
+{"id":448167734,"lat":46.2496539,"lon":7.0133415,"name":"Station-Service Du Cropt SA"}
+{"id":448294810,"lat":46.8890254,"lon":7.5211075,"name":"Agip Tankstelle Belp"}
+{"id":449186802,"lat":46.9527363,"lon":8.2757388,"name":"Auto Dall'Omo"}
+{"id":450602362,"lat":46.5564493,"lon":7.3746948,"name":"Coop pronto"}
+{"id":450602370,"lat":46.6601511,"lon":7.5484331,"name":"Tamoil"}
+{"id":450651181,"lat":46.6010259,"lon":10.4236186,"name":"Umbrail"}
+{"id":450939177,"lat":46.962819,"lon":7.4527349,"name":"Coop Pronto"}
+{"id":454582491,"lat":47.1345903,"lon":8.742489,"name":"Landi"}
+{"id":454582502,"lat":47.1282521,"lon":8.7450831,"name":"AVIA"}
+{"id":455338428,"lat":47.4649989,"lon":9.0345584,"name":"Auto Eberle"}
+{"id":456381234,"lat":47.3874942,"lon":9.392037,"name":"BP"}
+{"id":457333487,"lat":47.5434128,"lon":7.5894671,"name":"Avia"}
+{"id":457679934,"lat":47.1311876,"lon":8.7659454,"name":"Shell"}
+{"id":459174387,"lat":47.5236294,"lon":7.6943285,"name":"Coop Tankstelle"}
+{"id":460886548,"lat":47.4608585,"lon":9.6028383,"name":"Avia Tankstelle"}
+{"id":461145223,"lat":46.5751088,"lon":6.8395729,"name":"Station Eni"}
+{"id":461764800,"lat":47.4984489,"lon":9.2315472,"name":"Migrol"}
+{"id":467092484,"lat":46.6185369,"lon":6.5086556,"name":"RRG L\u00e9man"}
+{"id":467136838,"lat":47.4325203,"lon":8.4684736,"name":"Tamoil"}
+{"id":469414029,"lat":47.4073058,"lon":7.8448259,"name":"Garage Strub"}
+{"id":470530851,"lat":47.1502011,"lon":7.2624599,"name":"BP"}
+{"id":471127240,"lat":47.0727833,"lon":7.3075427,"name":"Esso"}
+{"id":472703202,"lat":47.2281761,"lon":7.6206569,"name":"Eni Deitingen Nord"}
+{"id":474732274,"lat":46.8182963,"lon":8.4127103,"name":"Robi Amstutz"}
+{"id":474764443,"lat":47.603159,"lon":9.2874716,"name":"LGG"}
+{"id":474982856,"lat":47.3702456,"lon":8.5125042,"name":"Avia Birmensdorferstrasse"}
+{"id":475204226,"lat":47.2393184,"lon":8.921655,"name":"Esso"}
+{"id":475921797,"lat":47.5490913,"lon":7.7712298,"name":"BP"}
+{"id":476032346,"lat":47.467413,"lon":9.0284147,"name":"Bildfeld-Tankstelle AG"}
+{"id":480320550,"lat":47.3617439,"lon":8.5181345,"name":"Tamoil"}
+{"id":482113363,"lat":46.1936332,"lon":6.1418139,"name":"Tamoil"}
+{"id":482156451,"lat":46.022178,"lon":8.9760212,"name":"Avia"}
+{"id":482159115,"lat":46.0280886,"lon":8.9669231,"name":"BP"}
+{"id":482163882,"lat":46.006899,"lon":8.9498052,"name":"ERG"}
+{"id":482164256,"lat":46.0076176,"lon":8.9476058,"name":"Migrol"}
+{"id":482693687,"lat":46.3761102,"lon":7.6254009,"name":"Agip"}
+{"id":486059774,"lat":46.6684976,"lon":7.8697219,"name":"Shell"}
+{"id":486060424,"lat":46.6681128,"lon":7.8695976,"name":"Migrol"}
+{"id":488053482,"lat":46.9445843,"lon":7.4614161,"name":"Tamoil"}
+{"id":492088256,"lat":45.9948965,"lon":8.9426818,"name":"BP"}
+{"id":492088728,"lat":45.9837172,"lon":8.9307732,"name":"Avia"}
+{"id":492090693,"lat":46.0140555,"lon":9.0174687,"name":"Eni"}
+{"id":495554607,"lat":47.1327096,"lon":8.7444385,"name":"Avia"}
+{"id":495554609,"lat":47.1391271,"lon":8.746331,"name":"Coop Tankstelle"}
+{"id":497240616,"lat":46.3587532,"lon":8.9693791,"name":"Shell"}
+{"id":497784329,"lat":47.6029279,"lon":9.0044066,"name":"SOCAR M\u00fcllheim"}
+{"id":499595107,"lat":46.825464,"lon":6.9453756,"name":"Landi"}
+{"id":500922433,"lat":47.4161953,"lon":8.5640414,"name":"SOCAR Opfikon"}
+{"id":503445080,"lat":46.5009388,"lon":9.8447714,"name":"Kulm Garage"}
+{"id":503621496,"lat":47.3160213,"lon":8.5798679,"name":"SOCAR K\u00fcsnacht-See"}
+{"id":505816846,"lat":47.4302305,"lon":8.4658983,"name":"Eni"}
+{"id":506123910,"lat":47.3108368,"lon":8.1147393,"name":"BP Tankstelle"}
+{"id":506655898,"lat":47.0456856,"lon":8.3092877,"name":"Avia"}
+{"id":514558190,"lat":46.965541,"lon":7.4656657,"name":"Migrol Service Winkelried"}
+{"id":514598842,"lat":46.9546495,"lon":7.4600211,"name":"Avia"}
+{"id":519720101,"lat":47.3893281,"lon":9.2892411,"name":"BP"}
+{"id":533864350,"lat":47.5347184,"lon":7.7113994,"name":"Shell Augst"}
+{"id":533864890,"lat":47.534798,"lon":7.7100491,"name":"Avia"}
+{"id":534826542,"lat":47.2481368,"lon":8.6048958,"name":"Migrol Tankstelle AMAG Horgen"}
+{"id":534836242,"lat":47.2376903,"lon":8.611854,"name":"Ruedi R\u00fcssel"}
+{"id":536852872,"lat":47.5515241,"lon":7.8035199,"name":"Avia"}
+{"id":539543939,"lat":47.0059157,"lon":9.4996938,"name":"Garage Lutz"}
+{"id":539553039,"lat":47.004656,"lon":9.5000223,"name":"Shell"}
+{"id":540750897,"lat":45.9881697,"lon":8.9334663,"name":"Esso"}
+{"id":542360398,"lat":47.3953437,"lon":9.6422287,"name":"Avia"}
+{"id":542416037,"lat":47.4473818,"lon":8.4378679,"name":"Avia D\u00e4llikon"}
+{"id":549072799,"lat":47.2713859,"lon":8.580952,"name":"Avia"}
+{"id":550238619,"lat":47.5929159,"lon":8.9973738,"name":"Agrola"}
+{"id":551693548,"lat":46.9910807,"lon":8.0634801,"name":"Opel Garage"}
+{"id":559179878,"lat":47.0594599,"lon":8.8018332,"name":"Toyota"}
+{"id":559179881,"lat":47.0607633,"lon":8.8026524,"name":"Eni"}
+{"id":559179882,"lat":47.0612169,"lon":8.8029083,"name":"Migrol Tankstelle Unteriberg"}
+{"id":559763141,"lat":47.2424106,"lon":8.4961167,"name":"Agrola Dorfplatz"}
+{"id":559767599,"lat":46.955775,"lon":7.4264321,"name":"Shell"}
+{"id":560114663,"lat":46.9441914,"lon":6.8426202,"name":"Tamoil"}
+{"id":560391019,"lat":47.0144151,"lon":9.496763,"name":"Ruedi R\u00fcssel"}
+{"id":563266345,"lat":47.217409,"lon":7.7560457,"name":"Esso"}
+{"id":563266349,"lat":47.2564785,"lon":7.8199406,"name":"Avia"}
+{"id":563266351,"lat":47.2578293,"lon":7.8220424,"name":"Peter Brechtb\u00fchl AG"}
+{"id":563266368,"lat":47.3500616,"lon":8.0006818,"name":"Avia"}
+{"id":563266401,"lat":47.368858,"lon":8.0004404,"name":"Avia"}
+{"id":564782369,"lat":47.017588,"lon":7.501495,"name":"Coop pronto"}
+{"id":565569932,"lat":45.9565406,"lon":7.2092471,"name":"Jubin"}
+{"id":566182962,"lat":47.2552871,"lon":8.6122837,"name":"SOCAR Horgen"}
+{"id":567263410,"lat":47.6501137,"lon":8.866002,"name":"Eni"}
+{"id":569351197,"lat":46.4774901,"lon":6.8610611,"name":"Riviera Produits P\u00e9troliers SA"}
+{"id":572456939,"lat":47.4209538,"lon":8.5025926,"name":"Shell Furttal"}
+{"id":573368452,"lat":47.4917485,"lon":8.2205044,"name":"Migrol Service Brugg"}
+{"id":574844723,"lat":47.464407,"lon":7.8428006,"name":"Landi"}
+{"id":575172150,"lat":47.2886872,"lon":8.5740582,"name":"Coop Tankstelle Thalwil"}
+{"id":578221549,"lat":47.3403588,"lon":8.5193947,"name":"SOCAR Manegg"}
+{"id":582575103,"lat":47.2950949,"lon":8.2361211,"name":"Socar"}
+{"id":582823240,"lat":46.1708527,"lon":6.1223264,"name":"Tamoil"}
+{"id":583411720,"lat":47.3298119,"lon":8.0304155,"name":"SOCAR K\u00f6lliken Nord"}
+{"id":584797716,"lat":47.5560512,"lon":7.5816624,"name":"Rudi R\u00fcssel"}
+{"id":589783503,"lat":46.3053703,"lon":6.9080525,"name":"Migrol"}
+{"id":597414574,"lat":47.3024491,"lon":8.5463033,"name":"Avia"}
+{"id":597703700,"lat":47.2076465,"lon":8.037217,"name":"Garage Wey"}
+{"id":597703746,"lat":47.1772081,"lon":8.1098891,"name":"Mercedes-Benz Sursee"}
+{"id":598161461,"lat":47.0342921,"lon":8.2865514,"name":"Avia Tankstelle"}
+{"id":599551371,"lat":47.0201312,"lon":7.0418652,"name":"Coop"}
+{"id":599765353,"lat":47.1866245,"lon":8.4753869,"name":"Coop"}
+{"id":602689055,"lat":47.3504058,"lon":7.910048,"name":"Migrol Tankstelle"}
+{"id":608491928,"lat":47.2466934,"lon":7.6098366,"name":"Garage Lemp"}
+{"id":610438795,"lat":46.6176895,"lon":8.5659699,"name":"Hubrol"}
+{"id":610450736,"lat":47.5872586,"lon":8.2944504,"name":"OIL! Tank and Go"}
+{"id":611057606,"lat":47.5114381,"lon":8.544193,"name":"Migrol Service B\u00fclach"}
+{"id":611086591,"lat":47.5197883,"lon":8.5423099,"name":"Seematt-Shop"}
+{"id":612768908,"lat":47.1826527,"lon":8.5245412,"name":"Agrola"}
+{"id":613341712,"lat":46.7834025,"lon":7.2756737,"name":"Hofmatt-Garage AG"}
+{"id":613341713,"lat":46.7478493,"lon":7.2888658,"name":"Garage Bifang Trachsel AG"}
+{"id":613344818,"lat":46.8226096,"lon":7.1509847,"name":"Spurt"}
+{"id":613344819,"lat":46.819515,"lon":7.15397,"name":"Tamoil"}
+{"id":613346387,"lat":46.7370957,"lon":7.2920818,"name":"Eduard Zahnd AG"}
+{"id":614591922,"lat":46.8205774,"lon":8.1779633,"name":"AVIA"}
+{"id":615926568,"lat":47.6936323,"lon":8.6063662,"name":"Avia"}
+{"id":616090346,"lat":46.7679901,"lon":7.2402606,"name":"Garage Bielmann"}
+{"id":616098456,"lat":46.7541932,"lon":7.2903228,"name":"Garage Zbinden Walter"}
+{"id":616255725,"lat":46.7426921,"lon":7.2813626,"name":"Zbinden Alfons"}
+{"id":616280572,"lat":47.4786364,"lon":9.4812074,"name":"Coop"}
+{"id":617264153,"lat":47.4866772,"lon":9.4015871,"name":"Seeblick Brandes AG"}
+{"id":617311047,"lat":46.8539591,"lon":7.1910774,"name":"Garage-Carrosserie Fasel AG"}
+{"id":623257608,"lat":47.1661279,"lon":9.4675745,"name":"Socar"}
+{"id":623260650,"lat":47.1726778,"lon":9.4839681,"name":"AVIA"}
+{"id":623872891,"lat":47.2518412,"lon":8.7676795,"name":"Agrola"}
+{"id":625275843,"lat":46.7364953,"lon":7.2494658,"name":"Garage Sch\u00fcrli"}
+{"id":627048168,"lat":47.0708565,"lon":8.2806249,"name":"Nasa"}
+{"id":632362719,"lat":47.1872704,"lon":8.8612567,"name":"Agrola"}
+{"id":634168057,"lat":47.5091032,"lon":8.5125684,"name":"Agrola"}
+{"id":634456810,"lat":46.7204795,"lon":6.5411645,"name":"Agrola Landi"}
+{"id":634456823,"lat":46.722212,"lon":6.5446195,"name":"Avia"}
+{"id":635764780,"lat":46.9374117,"lon":7.4415693,"name":"ewb Erdgastankstelle"}
+{"id":638460775,"lat":47.24914,"lon":7.6362105,"name":"Touring-Garage Schw\u00e4gli"}
+{"id":640061094,"lat":47.4684465,"lon":7.8625272,"name":"Tamoil"}
+{"id":640061098,"lat":47.4700755,"lon":7.8689668,"name":"Avia"}
+{"id":641086412,"lat":47.4699424,"lon":7.8658653,"name":"Tamoil"}
+{"id":641170583,"lat":47.3635748,"lon":8.0918191,"name":"Coop Pronto Shop mit Tankstelle"}
+{"id":641252985,"lat":47.3695944,"lon":8.081721,"name":"Benzindiscount"}
+{"id":641289168,"lat":47.3318925,"lon":8.037322,"name":"Agrola"}
+{"id":641898421,"lat":47.4413754,"lon":9.4237203,"name":"SB Turm"}
+{"id":643000482,"lat":46.772668,"lon":7.6309935,"name":"Agrola"}
+{"id":654507963,"lat":46.753959,"lon":9.1165265,"name":"Agrola"}
+{"id":655163017,"lat":47.4555183,"lon":9.0489562,"name":"Migrol Service Wil SG"}
+{"id":658588675,"lat":47.0421896,"lon":7.3870043,"name":"Avia"}
+{"id":658952529,"lat":47.4559946,"lon":7.6037836,"name":"Eni"}
+{"id":660450821,"lat":46.7478966,"lon":7.6395318,"name":"Tankstelle Holzm\u00e4tteli"}
+{"id":661493618,"lat":46.9591371,"lon":10.3970489,"name":"Shell"}
+{"id":662858693,"lat":47.2296259,"lon":7.5677965,"name":"Avia"}
+{"id":663151349,"lat":46.8172772,"lon":7.214783,"name":"Garage Gilbert Neuhaus AG \/ Miniprix"}
+{"id":663205656,"lat":46.757737,"lon":7.2090736,"name":"Garage E. & H. Kolly"}
+{"id":663608023,"lat":47.2009587,"lon":7.5734973,"name":"B\u00f6gli"}
+{"id":666391084,"lat":47.1376627,"lon":8.5800107,"name":"BP"}
+{"id":667277732,"lat":47.364319,"lon":7.9292335,"name":"Agrola"}
+{"id":668845217,"lat":47.5695474,"lon":8.9180358,"name":"AVIA Shop Tankstelle"}
+{"id":679057788,"lat":47.1766437,"lon":8.1091655,"name":"SOCAR"}
+{"id":686939916,"lat":45.8503364,"lon":8.9820098,"name":"Easy Stop"}
+{"id":686939964,"lat":46.5697433,"lon":9.3685645,"name":"Shell"}
+{"id":687534736,"lat":47.4641994,"lon":8.3302925,"name":"Ruedi R\u00fcssel"}
+{"id":690532466,"lat":47.1339104,"lon":8.0467163,"name":"Garage Pfenniger AG"}
+{"id":691356568,"lat":47.2311911,"lon":7.5710637,"name":"Mini Prix"}
+{"id":694572836,"lat":46.5334622,"lon":6.6302352,"name":"Gaz naturel"}
+{"id":696657243,"lat":46.798762,"lon":7.1307287,"name":"Avia"}
+{"id":698881444,"lat":47.4835208,"lon":8.2857586,"name":"Voegtlin-Meyer"}
+{"id":698881600,"lat":47.4824992,"lon":8.2788868,"name":"Shell Kappelerhof"}
+{"id":701550963,"lat":46.4638514,"lon":9.1873904,"name":"SOCAR"}
+{"id":701652156,"lat":45.850212,"lon":8.9849412,"name":"Easy Stop"}
+{"id":701671099,"lat":47.156677,"lon":7.2725619,"name":"Tamoil"}
+{"id":701735044,"lat":47.299064,"lon":9.1752585,"name":"Tankstelle Garage Keller AG"}
+{"id":704348032,"lat":46.9439545,"lon":7.4207435,"name":"BP"}
+{"id":705005322,"lat":47.5149857,"lon":8.9362629,"name":"Agrola"}
+{"id":713981283,"lat":46.8381654,"lon":8.1870503,"name":"bike atelier"}
+{"id":726850050,"lat":47.3551895,"lon":8.3499524,"name":"Coop"}
+{"id":727434779,"lat":46.8000342,"lon":6.629,"name":"Mini Prix"}
+{"id":732108642,"lat":46.8845236,"lon":10.4641899,"name":"BP"}
+{"id":734869663,"lat":46.9469734,"lon":7.4182628,"name":"K\u00fcng AG"}
+{"id":740484383,"lat":47.5398447,"lon":7.5942075,"name":"Ruedi R\u00fcssel"}
+{"id":745283443,"lat":46.8101637,"lon":7.166158,"name":"Mini Prix"}
+{"id":745958693,"lat":47.4428573,"lon":9.3951879,"name":"BP Service Bruggwald"}
+{"id":746707045,"lat":46.1085655,"lon":7.090417,"name":"Adam Touring"}
+{"id":746707068,"lat":46.1074225,"lon":7.0878982,"name":"Garage du Simplon"}
+{"id":746707079,"lat":46.1094497,"lon":7.0914483,"name":"Garage du Nord"}
+{"id":746707088,"lat":46.1060756,"lon":7.0853825,"name":"Migrolino"}
+{"id":746737260,"lat":47.334353,"lon":9.4039821,"name":"BP"}
+{"id":747389413,"lat":47.3107279,"lon":9.4354068,"name":"Agrola"}
+{"id":757365679,"lat":47.0541578,"lon":8.2549125,"name":"Aperto"}
+{"id":758437538,"lat":47.5714501,"lon":8.2482578,"name":"Voegtlin-Meyer"}
+{"id":759831992,"lat":47.4721147,"lon":8.9238617,"name":"Avia"}
+{"id":761492246,"lat":47.5589206,"lon":7.6012516,"name":"Wettstein Garage"}
+{"id":765330262,"lat":47.3125048,"lon":8.0470293,"name":"Suhre Garage AG"}
+{"id":767892667,"lat":47.1654451,"lon":7.7960546,"name":"Agrola"}
+{"id":769056366,"lat":46.8944924,"lon":7.1696969,"name":"Migrol"}
+{"id":769788287,"lat":46.8732186,"lon":7.1254255,"name":"Carrosserie City - Dula"}
+{"id":771144383,"lat":47.4541087,"lon":9.3998191,"name":"Migrol Service Wittenbach"}
+{"id":771221358,"lat":47.0343431,"lon":8.2647634,"name":"Migrol Service Kriens"}
+{"id":773554425,"lat":47.2670568,"lon":7.8352392,"name":"Coop Pronto"}
+{"id":773905094,"lat":46.7007304,"lon":7.145666,"name":"Miniprix"}
+{"id":775345890,"lat":47.3226321,"lon":8.5781558,"name":"BP Garage G\u00fcnthardt"}
+{"id":775938665,"lat":47.3857365,"lon":8.4936574,"name":"BP Emil Frey Altstetten"}
+{"id":776975625,"lat":47.2747939,"lon":8.8257725,"name":"Agrola"}
+{"id":778541365,"lat":46.4313407,"lon":8.9659581,"name":"Avia"}
+{"id":783778702,"lat":47.4607862,"lon":8.2466031,"name":"Ruedi R\u00fcssel"}
+{"id":783958365,"lat":47.3148522,"lon":9.0839457,"name":"Agrola"}
+{"id":785515374,"lat":46.1703869,"lon":9.0076643,"name":"Euro Service"}
+{"id":795605999,"lat":47.302478,"lon":7.932476,"name":"Avia"}
+{"id":800657455,"lat":47.1300151,"lon":8.7438499,"name":"Agip"}
+{"id":805122639,"lat":46.1765197,"lon":8.8220392,"name":"Tamoil"}
+{"id":805177092,"lat":46.1783379,"lon":8.8167142,"name":"Eni"}
+{"id":805177111,"lat":46.167665,"lon":8.7785161,"name":"Eni"}
+{"id":806387974,"lat":46.1636698,"lon":8.7738914,"name":"Tamoil"}
+{"id":806388027,"lat":46.1643349,"lon":8.7739825,"name":"Eni"}
+{"id":806655564,"lat":47.0172905,"lon":7.4549526,"name":"Garage D. Egli AG"}
+{"id":810111212,"lat":46.206042,"lon":7.0072655,"name":"Horizonville"}
+{"id":812858865,"lat":47.1433173,"lon":7.7929114,"name":"Agrola"}
+{"id":814092498,"lat":46.9433124,"lon":7.2390927,"name":"Autogarage H\u00f6rhager AG"}
+{"id":815705041,"lat":46.8945841,"lon":7.1789372,"name":"Miniprix"}
+{"id":827610265,"lat":46.6974028,"lon":9.4422663,"name":"Coop"}
+{"id":828145645,"lat":46.676566,"lon":6.6462576,"name":"Garage du Gros-de-Vaud"}
+{"id":829492817,"lat":46.6896573,"lon":9.5619857,"name":"Migrol"}
+{"id":834687489,"lat":46.8269841,"lon":6.4966911,"name":"Garage Stop"}
+{"id":836844286,"lat":46.7871603,"lon":7.5380925,"name":"TAMOIL"}
+{"id":836844290,"lat":46.8191539,"lon":7.3656794,"name":"Garage SAchoenentannen"}
+{"id":836868794,"lat":46.8090795,"lon":7.4770885,"name":"Migrol"}
+{"id":838967717,"lat":46.1342583,"lon":8.9989364,"name":"BEBECO"}
+{"id":848484172,"lat":46.6924705,"lon":6.7070341,"name":"Avia"}
+{"id":849037882,"lat":46.3499272,"lon":8.7886078,"name":"Commune de Sonogno"}
+{"id":850468864,"lat":46.8096586,"lon":9.3827413,"name":"Garage P. Balzer"}
+{"id":856769114,"lat":47.281235,"lon":8.4006173,"name":"Tankdiscount Ottenbach"}
+{"id":858928210,"lat":47.1095207,"lon":8.6780989,"name":"Avia"}
+{"id":860155609,"lat":46.306161,"lon":7.9607106,"name":"Coop"}
+{"id":860423930,"lat":46.2965697,"lon":7.5504487,"name":"Coop"}
+{"id":861343529,"lat":46.3022281,"lon":7.7076576,"name":"J\u00e4ger"}
+{"id":861491599,"lat":46.3016187,"lon":7.6996831,"name":"Garage Enzian"}
+{"id":861682957,"lat":47.2661329,"lon":8.2023775,"name":"Hergol Tankstellen AG"}
+{"id":865160661,"lat":47.4350159,"lon":9.4018411,"name":"Migrol Service Neudorf"}
+{"id":867337856,"lat":47.3083457,"lon":8.1739419,"name":"Agrola"}
+{"id":869106823,"lat":47.0491641,"lon":9.4287795,"name":"Pizol Garage"}
+{"id":870702643,"lat":46.2273378,"lon":6.0783459,"name":"Shell"}
+{"id":870717790,"lat":46.2232129,"lon":6.0686818,"name":"Station BP"}
+{"id":872980408,"lat":47.328327,"lon":8.1142369,"name":"Garage B. Wicki"}
+{"id":875365969,"lat":46.2283843,"lon":6.0731853,"name":"Garage Relais de la Meyrinoise SA (Tamoil)"}
+{"id":876403608,"lat":47.3171831,"lon":8.4168683,"name":"Avia"}
+{"id":884923624,"lat":46.6607904,"lon":7.7272191,"name":"Garage Schulthess"}
+{"id":886099076,"lat":46.3112002,"lon":7.6369072,"name":"Ruedi R\u00fcssel"}
+{"id":886099078,"lat":46.3110211,"lon":7.6337369,"name":"Migrol"}
+{"id":894602267,"lat":46.2201143,"lon":6.1404497,"name":"Shell"}
+{"id":897687154,"lat":47.3506664,"lon":7.4235646,"name":"Miniprix"}
+{"id":898008622,"lat":46.6999205,"lon":7.8886714,"name":"Migrol"}
+{"id":898008646,"lat":46.6980921,"lon":7.8812511,"name":"Ruedi Russel"}
+{"id":898008652,"lat":46.6777432,"lon":7.8509999,"name":"Oeltrans"}
+{"id":898008653,"lat":46.6799973,"lon":7.8511245,"name":"Agrola"}
+{"id":899266012,"lat":46.7058793,"lon":7.9033447,"name":"Flamol"}
+{"id":899266029,"lat":46.7036954,"lon":7.8983186,"name":"Oeltrans"}
+{"id":901272805,"lat":46.7884591,"lon":8.1601612,"name":"Garage Gasser"}
+{"id":910361190,"lat":47.0657504,"lon":6.6960697,"name":"Tamoil"}
+{"id":913688031,"lat":46.205707,"lon":6.0990123,"name":"Tamoil"}
+{"id":917123981,"lat":47.447321,"lon":8.2933501,"name":"Tankbar"}
+{"id":918635498,"lat":46.4710904,"lon":6.8404792,"name":"BP"}
+{"id":919443818,"lat":47.234572,"lon":7.7744394,"name":"Agrola"}
+{"id":919564460,"lat":47.5945616,"lon":9.3141348,"name":"Autohaus Semir AG"}
+{"id":925664468,"lat":46.8259466,"lon":7.3014958,"name":"Tankstelle Agrola"}
+{"id":926471432,"lat":46.6246116,"lon":7.6901237,"name":"Migrol"}
+{"id":926942122,"lat":47.4049521,"lon":8.5497781,"name":"Avia D\u00f6rflistrasse"}
+{"id":927182599,"lat":47.4482319,"lon":8.9264482,"name":"Agrola"}
+{"id":928545561,"lat":46.7951961,"lon":9.8245072,"name":"Migrol"}
+{"id":930927146,"lat":47.1043555,"lon":6.835598,"name":"Mini Prix"}
+{"id":935831690,"lat":47.4123963,"lon":8.5239096,"name":"Wehntaler Tankstelle"}
+{"id":935832538,"lat":47.4113884,"lon":8.5268978,"name":"Avia Shop Regensberg"}
+{"id":936772253,"lat":46.9234431,"lon":7.4582926,"name":"Migrol Service Wabern"}
+{"id":945468337,"lat":46.737169,"lon":7.6272136,"name":"Stadiongarage"}
+{"id":948341016,"lat":47.0431779,"lon":7.5033202,"name":"Agrola"}
+{"id":955760539,"lat":47.2809398,"lon":7.9339436,"name":"Avia"}
+{"id":956494164,"lat":47.2501062,"lon":8.7798785,"name":"Avia"}
+{"id":965894250,"lat":47.3739415,"lon":8.0829356,"name":"bp Service"}
+{"id":969251925,"lat":46.1896677,"lon":6.1317637,"name":"Shell"}
+{"id":970843021,"lat":47.404558,"lon":8.5563801,"name":"Ruedi R\u00fcssel"}
+{"id":988280430,"lat":47.1899979,"lon":7.5531406,"name":"SOCAR Biberist"}
+{"id":989929488,"lat":46.7721039,"lon":7.1603525,"name":"Agrola"}
+{"id":997576722,"lat":47.2586647,"lon":6.9998013,"name":"Tamoil"}
+{"id":1002580653,"lat":46.675953,"lon":8.7555654,"name":"Garascha Plauns"}
+{"id":1004434937,"lat":47.0916044,"lon":7.5869795,"name":"Gustoil"}
+{"id":1005690808,"lat":47.0434102,"lon":7.0967427,"name":"Avia"}
+{"id":1005732659,"lat":46.9960461,"lon":7.107865,"name":"Landi"}
+{"id":1005732665,"lat":47.0043418,"lon":7.114943,"name":"Garage L\u00fcthi Ins"}
+{"id":1008899786,"lat":47.0867916,"lon":7.5265435,"name":"Garage Rohrbach"}
+{"id":1008973306,"lat":46.4707022,"lon":7.126161,"name":"Jubin"}
+{"id":1010474279,"lat":47.3664363,"lon":7.3587624,"name":"Shell"}
+{"id":1019965180,"lat":47.1138754,"lon":7.3009621,"name":"Migrol"}
+{"id":1033691216,"lat":47.4088158,"lon":9.2518229,"name":"BP"}
+{"id":1043570734,"lat":46.3611856,"lon":6.8782349,"name":"Avia"}
+{"id":1066532173,"lat":47.5457396,"lon":8.9648204,"name":"Agrola"}
+{"id":1066847210,"lat":47.3940226,"lon":9.5886495,"name":"Agrola"}
+{"id":1069757909,"lat":46.9775962,"lon":7.4211774,"name":"Ruedi R\u00fcssel"}
+{"id":1070743614,"lat":47.3419652,"lon":7.8642478,"name":"Coop Tankstelle"}
+{"id":1077316888,"lat":47.1333266,"lon":8.1413176,"name":"Avia"}
+{"id":1077316889,"lat":47.1364244,"lon":8.1359572,"name":"Agrola"}
+{"id":1077327023,"lat":47.1391843,"lon":8.1291191,"name":"Auto Fit"}
+{"id":1083458072,"lat":47.0513439,"lon":8.299039,"name":"BP"}
+{"id":1088750855,"lat":46.9704417,"lon":9.5618015,"name":"Grisoil-Benzin"}
+{"id":1103883235,"lat":47.349985,"lon":8.2704217,"name":"FS Tankstelle H\u00fcbscher"}
+{"id":1106092642,"lat":47.454452,"lon":8.287749,"name":"OIL!"}
+{"id":1115940413,"lat":47.2684858,"lon":8.587297,"name":"Horgengarage"}
+{"id":1128241825,"lat":46.9288091,"lon":7.3823088,"name":"Shell"}
+{"id":1135616539,"lat":46.2269845,"lon":7.3376598,"name":"Tamoil"}
+{"id":1143341483,"lat":46.229762,"lon":7.8644199,"name":"Tamoil"}
+{"id":1143341486,"lat":46.2470882,"lon":7.8767958,"name":"Shell"}
+{"id":1143341489,"lat":46.2298288,"lon":7.8705632,"name":"BP"}
+{"id":1148678388,"lat":46.9701528,"lon":8.4676767,"name":"Eni"}
+{"id":1152714854,"lat":46.7754523,"lon":9.2009215,"name":"Shell"}
+{"id":1154421295,"lat":47.0679635,"lon":8.3154803,"name":"Coop Tankstelle"}
+{"id":1158234087,"lat":47.0446297,"lon":8.3670056,"name":"AVIA Tankstelle"}
+{"id":1167954322,"lat":45.8729659,"lon":8.9783802,"name":"Piccadilly"}
+{"id":1168557364,"lat":47.4835627,"lon":8.1930644,"name":"Midland"}
+{"id":1168557417,"lat":47.4833911,"lon":8.1921644,"name":"coop"}
+{"id":1169057575,"lat":46.515254,"lon":8.667533,"name":"Eni"}
+{"id":1171138347,"lat":47.0621935,"lon":8.2651449,"name":"Emil Frey AG"}
+{"id":1191627169,"lat":46.755779,"lon":7.6251953,"name":"Spymag AG"}
+{"id":1191627198,"lat":46.7542937,"lon":7.6274399,"name":"Shell"}
+{"id":1207862061,"lat":46.4746901,"lon":6.4184337,"name":"station-service Migrolino"}
+{"id":1210603014,"lat":47.1899892,"lon":8.6459715,"name":"Avia"}
+{"id":1228109353,"lat":47.511197,"lon":7.724108,"name":"Etzelpark F\u00fcllinsdorf Benzin"}
+{"id":1237726505,"lat":47.6447869,"lon":9.1862367,"name":"Tamoil"}
+{"id":1238265211,"lat":47.2098999,"lon":7.0020136,"name":"Station du College"}
+{"id":1240203805,"lat":46.8868465,"lon":7.0489224,"name":"Agrola"}
+{"id":1244934614,"lat":47.4573832,"lon":8.9452808,"name":"Tankstelle Svabic"}
+{"id":1247814011,"lat":46.3341628,"lon":9.5367655,"name":"Agip"}
+{"id":1258330247,"lat":47.4071384,"lon":8.5473271,"name":"Discount-Tankstelle"}
+{"id":1262550302,"lat":47.1829632,"lon":7.8778521,"name":"Ruedi R\u00fcssel"}
+{"id":1263586134,"lat":46.8325723,"lon":9.4451452,"name":"Ruedi R\u00fcssel"}
+{"id":1277433290,"lat":46.6662459,"lon":6.7998149,"name":"BP"}
+{"id":1279673078,"lat":46.5297566,"lon":6.6358813,"name":"Mini prix"}
+{"id":1283828394,"lat":46.5193536,"lon":6.6403487,"name":"Shell"}
+{"id":1298160841,"lat":47.4948396,"lon":7.0164145,"name":"Station-Shop de la C\u00f4te"}
+{"id":1298163196,"lat":47.4994252,"lon":7.0104142,"name":"Station La Fleur de Lys"}
+{"id":1298163197,"lat":47.4982443,"lon":7.016218,"name":"Shell"}
+{"id":1298163198,"lat":47.5019803,"lon":7.0129227,"name":"Station Paupe"}
+{"id":1299328892,"lat":46.9019808,"lon":8.6231533,"name":"Bootstankstelle"}
+{"id":1301131017,"lat":47.0495447,"lon":8.2644204,"name":"Hergol"}
+{"id":1305217876,"lat":47.5835169,"lon":9.0568047,"name":"BP"}
+{"id":1322341728,"lat":47.0265743,"lon":7.4438977,"name":"Coop"}
+{"id":1323307013,"lat":47.1847601,"lon":8.0169191,"name":"Ruedi R\u00fcssel"}
+{"id":1325892702,"lat":46.2961047,"lon":6.1671598,"name":"Shell"}
+{"id":1332641756,"lat":47.1900752,"lon":8.7367004,"name":"BP"}
+{"id":1334897806,"lat":47.3454159,"lon":8.3510271,"name":"Senten"}
+{"id":1335581379,"lat":47.0924554,"lon":8.2531853,"name":"Landi Tankstelle"}
+{"id":1337143769,"lat":47.5580502,"lon":7.5741773,"name":"Shell"}
+{"id":1337181865,"lat":47.0401467,"lon":7.3040725,"name":"Agip"}
+{"id":1337471849,"lat":47.2168937,"lon":7.7711546,"name":"Ruedi R\u00fcssel"}
+{"id":1338801659,"lat":47.3504527,"lon":7.9532825,"name":"Migrol Tankstelle AMAG Dulliken"}
+{"id":1339704369,"lat":47.0413744,"lon":9.4324102,"name":"Migrol Service Pizolpark"}
+{"id":1341487957,"lat":47.2473126,"lon":8.6387565,"name":"Ruedi R\u00fcssel"}
+{"id":1341959530,"lat":45.9316651,"lon":8.9742837,"name":"Piccadilly"}
+{"id":1342602152,"lat":46.8889832,"lon":7.5228087,"name":"Tamoil"}
+{"id":1348212458,"lat":47.5678724,"lon":8.5233914,"name":"Tamoil"}
+{"id":1349293145,"lat":47.0407391,"lon":8.3098074,"name":"ewl gaz energie"}
+{"id":1350936246,"lat":47.4046286,"lon":8.7197006,"name":"Autohaus Illnau AG"}
+{"id":1358046462,"lat":46.8198031,"lon":7.584987,"name":"Agrola"}
+{"id":1360531820,"lat":47.0320213,"lon":7.0565167,"name":"Miniprix"}
+{"id":1361319683,"lat":47.3678087,"lon":8.564167,"name":"Shell Bergstrasse (Automat)"}
+{"id":1361319687,"lat":47.367931,"lon":8.5644227,"name":"Shell Bergstrasse (Shop)"}
+{"id":1363040120,"lat":47.3625248,"lon":8.5480473,"name":"Migrol Tankstelle AMAG Utoquai"}
+{"id":1363477917,"lat":47.4500225,"lon":8.1452091,"name":"Voegtlin-Meyer"}
+{"id":1366349899,"lat":47.3624756,"lon":8.5681877,"name":"BP Witikonerstrasse"}
+{"id":1366703127,"lat":47.4065994,"lon":8.7241822,"name":"Agrola"}
+{"id":1371793708,"lat":46.698223,"lon":7.737534,"name":"Ruedi R\u00fcssel"}
+{"id":1374825644,"lat":47.1927088,"lon":8.7186248,"name":"Power Station Niederberger"}
+{"id":1375339404,"lat":47.4252829,"lon":8.7441568,"name":"Tankstelle N\u00fcssli"}
+{"id":1377911375,"lat":47.5254889,"lon":8.2155504,"name":"Agrola"}
+{"id":1384275456,"lat":46.7718823,"lon":7.6314925,"name":"Oeltrans"}
+{"id":1384810775,"lat":47.1099523,"lon":8.4506807,"name":"AVIA, Tankstelle"}
+{"id":1389429452,"lat":47.3405539,"lon":9.530869,"name":"Tankstelle Motzer"}
+{"id":1392528909,"lat":46.0888384,"lon":7.5091335,"name":"Garage des Alpes"}
+{"id":1395851528,"lat":46.7575908,"lon":6.9327072,"name":"Garage Christian Favre"}
+{"id":1406942836,"lat":46.6340621,"lon":10.4574614,"name":"BP"}
+{"id":1413185616,"lat":46.5170341,"lon":6.6072755,"name":"Shell"}
+{"id":1419909556,"lat":46.8120696,"lon":7.1368574,"name":"Migrol"}
+{"id":1422954797,"lat":47.5300292,"lon":7.6409066,"name":"Ruedi R\u00fcssel"}
+{"id":1422954808,"lat":47.5268723,"lon":7.65582,"name":"Migrol Service Muttenz"}
+{"id":1422954837,"lat":47.5286883,"lon":7.6457906,"name":"Ruedi R\u00fcssel Muttenz"}
+{"id":1423830742,"lat":46.9324304,"lon":7.1278439,"name":"BP"}
+{"id":1424941577,"lat":46.8119989,"lon":7.1355427,"name":"MINIPRIX"}
+{"id":1426129681,"lat":47.5250327,"lon":7.6839663,"name":"Coop Tankstelle"}
+{"id":1427978267,"lat":47.3450234,"lon":7.9069744,"name":"Ruedi R\u00fcssel"}
+{"id":1428094165,"lat":47.3502334,"lon":7.8911643,"name":"SOCAR Olten"}
+{"id":1428113830,"lat":47.3309439,"lon":7.8374242,"name":"Avia"}
+{"id":1428115688,"lat":47.330653,"lon":7.8364586,"name":"Agip"}
+{"id":1435448154,"lat":47.6671495,"lon":9.0887564,"name":"SOCAR Ermatingen"}
+{"id":1435634107,"lat":47.6597537,"lon":9.1223471,"name":"Avia"}
+{"id":1436158482,"lat":47.6502071,"lon":9.1720898,"name":"Coop Tankstelle"}
+{"id":1436591403,"lat":46.3552043,"lon":8.9709633,"name":"Eni"}
+{"id":1437292725,"lat":46.7687346,"lon":7.5835468,"name":"Agrola"}
+{"id":1437292813,"lat":46.77236,"lon":7.5773896,"name":"F. Augsburger"}
+{"id":1437637798,"lat":47.645075,"lon":9.2117789,"name":"AVIA \/ Lang Energie AG"}
+{"id":1447469399,"lat":46.1948349,"lon":6.1527342,"name":"Avia"}
+{"id":1453005631,"lat":46.3116172,"lon":7.9799598,"name":"Shell"}
+{"id":1461962575,"lat":46.6848323,"lon":7.6681306,"name":"Coop"}
+{"id":1468247342,"lat":46.5204821,"lon":6.5106981,"name":"Simond"}
+{"id":1477153788,"lat":46.1898428,"lon":6.1993774,"name":"BP"}
+{"id":1477740586,"lat":46.9738609,"lon":7.483221,"name":"Coop"}
+{"id":1477747675,"lat":47.1628689,"lon":8.1041845,"name":"Agrola"}
+{"id":1478083069,"lat":46.6669862,"lon":6.3296397,"name":"Tamoil"}
+{"id":1479486531,"lat":46.4400609,"lon":8.8418979,"name":"Avia"}
+{"id":1485039698,"lat":47.0825834,"lon":8.2724368,"name":"Sprengi"}
+{"id":1487761567,"lat":47.3943519,"lon":8.5297022,"name":"Migrol Tankstelle Wipkingen"}
+{"id":1488703647,"lat":47.4063348,"lon":8.5836156,"name":"Migrol Service Schwamendingen"}
+{"id":1488717329,"lat":47.4073726,"lon":8.5865182,"name":"Avia Ueberlandstrasse"}
+{"id":1488738142,"lat":47.4062266,"lon":8.5831505,"name":"Migrol Tankstelle Schwamendingen"}
+{"id":1492328346,"lat":47.402714,"lon":8.577361,"name":"Tamoil"}
+{"id":1492836194,"lat":47.4622166,"lon":9.3942782,"name":"P&P Autotreff AG"}
+{"id":1492865481,"lat":47.3956372,"lon":8.6061099,"name":"Shell Sonnental"}
+{"id":1493474970,"lat":47.0723902,"lon":8.2793174,"name":"Migrol Service Emmenbr\u00fccke"}
+{"id":1493475034,"lat":47.0712331,"lon":8.2810579,"name":"Agrola"}
+{"id":1500284210,"lat":47.3061018,"lon":8.1153725,"name":"Faes"}
+{"id":1500284220,"lat":47.3036534,"lon":8.114051,"name":"Bolliger"}
+{"id":1511296723,"lat":46.8255425,"lon":6.9244486,"name":"Coop"}
+{"id":1513964564,"lat":47.361231,"lon":8.5224826,"name":"Eni Manessestrasse"}
+{"id":1515923598,"lat":47.3177695,"lon":8.1839806,"name":"Migrol Tankstelle Boniswil"}
+{"id":1519488377,"lat":46.8244089,"lon":6.9282194,"name":"Eni"}
+{"id":1525269396,"lat":47.391139,"lon":8.5267589,"name":"Discount-Tankstelle"}
+{"id":1528037438,"lat":47.4039392,"lon":8.56718,"name":"Ruedi R\u00fcssel"}
+{"id":1531318125,"lat":47.189242,"lon":8.8552324,"name":"Ruedi R\u00fcssel"}
+{"id":1535109278,"lat":46.4122618,"lon":6.1898628,"name":"Tamoil"}
+{"id":1565389568,"lat":47.1451865,"lon":8.0148515,"name":"Wuest Garage"}
+{"id":1565389577,"lat":47.1531563,"lon":8.0267177,"name":"Agrola"}
+{"id":1569833060,"lat":46.222716,"lon":6.1302175,"name":"Tamoil"}
+{"id":1569835418,"lat":46.2237738,"lon":6.131151,"name":"Parc-de-Bud\u00e9"}
+{"id":1571348229,"lat":47.5594198,"lon":8.0576316,"name":"OIL!"}
+{"id":1571348249,"lat":47.5598484,"lon":8.0593662,"name":"SOCAR"}
+{"id":1575815197,"lat":46.9932116,"lon":8.5214595,"name":"Tankstelle Agrola Gersau"}
+{"id":1576589330,"lat":46.3839539,"lon":6.2212319,"name":"Esso"}
+{"id":1580502878,"lat":47.346225,"lon":8.6018688,"name":"Shell Zollikerberg"}
+{"id":1580768457,"lat":46.6784756,"lon":7.8508793,"name":"Oeltrans"}
+{"id":1580983584,"lat":47.137517,"lon":7.3815278,"name":"AVIA"}
+{"id":1581546464,"lat":46.6796135,"lon":7.8559151,"name":"Avia"}
+{"id":1599440400,"lat":47.5529398,"lon":7.7971871,"name":"Ruedi R\u00fcssel"}
+{"id":1606216660,"lat":47.5316738,"lon":7.9885828,"name":"Agrola"}
+{"id":1618141590,"lat":47.5334532,"lon":7.6046921,"name":"Coop Tankstelle"}
+{"id":1626641320,"lat":46.5527078,"lon":6.7772004,"name":"Avia"}
+{"id":1626642255,"lat":46.5526207,"lon":6.777446,"name":"Avia"}
+{"id":1630419348,"lat":47.2668117,"lon":7.6969458,"name":"Gabi"}
+{"id":1631244460,"lat":46.9546105,"lon":7.4786427,"name":"EcoStop"}
+{"id":1631257567,"lat":47.3798416,"lon":7.949218,"name":"Migrol Tankstelle Lostorf"}
+{"id":1639422734,"lat":46.0148105,"lon":9.0189266,"name":"Tamoil"}
+{"id":1640520321,"lat":46.4900334,"lon":7.5660229,"name":"Garage Inniger"}
+{"id":1652920891,"lat":46.922124,"lon":6.8081137,"name":"Agrola"}
+{"id":1656300744,"lat":46.3020251,"lon":8.9922663,"name":"Eni"}
+{"id":1661217443,"lat":46.8994411,"lon":8.2466074,"name":"BP"}
+{"id":1662051350,"lat":46.585021,"lon":7.6489986,"name":"Shell"}
+{"id":1666766811,"lat":47.5497616,"lon":9.3033076,"name":"Ruedi's Tankstelle"}
+{"id":1673091430,"lat":46.5910757,"lon":7.6507677,"name":"Boxenstop"}
+{"id":1673270469,"lat":47.3278762,"lon":9.2215753,"name":"Agrola"}
+{"id":1674661390,"lat":47.5421359,"lon":7.5776747,"name":"Coop Tankstelle"}
+{"id":1685063933,"lat":47.171467,"lon":8.2864796,"name":"Shell"}
+{"id":1685703885,"lat":47.5012058,"lon":9.4473563,"name":"Red Fox"}
+{"id":1689325383,"lat":46.174992,"lon":8.8173694,"name":"Shell"}
+{"id":1689402740,"lat":46.1790408,"lon":8.8696241,"name":"Eni"}
+{"id":1696273321,"lat":47.3841541,"lon":8.3957628,"name":"Migrol Service Reppischhof"}
+{"id":1701490048,"lat":47.1739324,"lon":9.4653225,"name":"BP"}
+{"id":1702809007,"lat":46.4472372,"lon":6.1557601,"name":"Eni"}
+{"id":1704406678,"lat":46.1845118,"lon":7.4367851,"name":"Jubin"}
+{"id":1708066596,"lat":47.3873573,"lon":8.1698834,"name":"Avia"}
+{"id":1708066637,"lat":47.3871138,"lon":8.1670366,"name":"BP"}
+{"id":1713381442,"lat":47.1295677,"lon":9.0510747,"name":"Arial"}
+{"id":1721705361,"lat":46.7187262,"lon":6.960739,"name":"Mini Prix"}
+{"id":1723238711,"lat":46.9377757,"lon":7.3933651,"name":"Coop"}
+{"id":1726210994,"lat":47.311382,"lon":8.393637,"name":"Stutz"}
+{"id":1732449803,"lat":47.3832035,"lon":8.0869974,"name":"Migrol Service Buchs AG"}
+{"id":1735141082,"lat":47.3734647,"lon":8.681685,"name":"Lenzlinger Tankstellen"}
+{"id":1737759646,"lat":46.3431931,"lon":8.97596,"name":"Tamoil"}
+{"id":1743982428,"lat":46.9311105,"lon":7.4298957,"name":"Avia"}
+{"id":1753928832,"lat":46.2579833,"lon":6.94545,"name":"BP"}
+{"id":1757030057,"lat":46.1537134,"lon":8.904614,"name":"Avia"}
+{"id":1757030067,"lat":46.1524037,"lon":8.9623808,"name":"Socar"}
+{"id":1757030068,"lat":46.1499639,"lon":8.9282216,"name":"Migrol"}
+{"id":1759660491,"lat":47.195103,"lon":8.7249048,"name":"Biodiesel vom Zimmerberg"}
+{"id":1768343014,"lat":47.5797861,"lon":8.612637,"name":"BP"}
+{"id":1769240597,"lat":47.533994,"lon":9.3463656,"name":"Migrol Tankstelle Steinebrunn"}
+{"id":1769277686,"lat":47.5340938,"lon":7.6289604,"name":"Coop Tankstelle"}
+{"id":1773647684,"lat":46.5284646,"lon":6.3404328,"name":"BEBECO"}
+{"id":1775233553,"lat":47.5143094,"lon":8.0148684,"name":"Avia"}
+{"id":1781591093,"lat":47.1297597,"lon":7.5329681,"name":"Agrola B\u00e4tterkinden"}
+{"id":1782050608,"lat":46.1567581,"lon":5.9899665,"name":"Shell"}
+{"id":1786093958,"lat":47.1050139,"lon":9.0656161,"name":"Shell"}
+{"id":1791294272,"lat":47.4289183,"lon":8.5591906,"name":"SOCAR Glattbrugg"}
+{"id":1792415841,"lat":46.5155206,"lon":6.5069801,"name":"Chantier Naval Balmer Ravey"}
+{"id":1798164480,"lat":46.9157023,"lon":7.5637186,"name":"Agrola"}
+{"id":1799498563,"lat":46.1763688,"lon":9.0124592,"name":"Eni"}
+{"id":1799498564,"lat":46.1840955,"lon":9.0126965,"name":"Shell"}
+{"id":1799498565,"lat":46.1884487,"lon":8.9966359,"name":"Avia"}
+{"id":1799563805,"lat":46.3756083,"lon":8.9176709,"name":"Avia"}
+{"id":1799563820,"lat":46.3752387,"lon":8.9192486,"name":"Tamoil"}
+{"id":1800052853,"lat":46.1928872,"lon":6.0170095,"name":"Avia"}
+{"id":1800185501,"lat":46.1835229,"lon":8.9839066,"name":"Eni"}
+{"id":1808635564,"lat":46.1362808,"lon":7.1155728,"name":"Eni"}
+{"id":1808929549,"lat":47.373198,"lon":8.1440957,"name":"Avia"}
+{"id":1808929562,"lat":47.3747566,"lon":8.1430026,"name":"Avia"}
+{"id":1809757329,"lat":47.5278232,"lon":7.941497,"name":"Voegtlin-Meyer"}
+{"id":1814601989,"lat":47.1729279,"lon":8.9589822,"name":"Migrol Tankstelle Buttikon"}
+{"id":1816824536,"lat":47.1824852,"lon":8.4840529,"name":"Migrol Service Zug"}
+{"id":1816824547,"lat":47.1825095,"lon":8.4843391,"name":"WWZ"}
+{"id":1816824579,"lat":47.1915585,"lon":8.5228027,"name":"Avia"}
+{"id":1817496220,"lat":47.4036418,"lon":8.0853579,"name":"Migrol Service Rohr"}
+{"id":1817527603,"lat":47.1869418,"lon":8.4733743,"name":"Migrol Tankstelle AMAG Cham"}
+{"id":1819439499,"lat":47.1921608,"lon":8.4882368,"name":"Landi"}
+{"id":1826340597,"lat":47.2010669,"lon":7.5467772,"name":"Howald"}
+{"id":1826381833,"lat":46.9117221,"lon":7.9327732,"name":"Migrol Service Escholzmatt"}
+{"id":1827364426,"lat":46.9485531,"lon":8.0129183,"name":"AVIA"}
+{"id":1828569947,"lat":46.6779564,"lon":7.8508688,"name":"Oeltrans"}
+{"id":1829783287,"lat":47.1269593,"lon":7.9977969,"name":"Agrola"}
+{"id":1835275007,"lat":47.4633657,"lon":9.5927576,"name":"Ruedi R\u00fcssel"}
+{"id":1835275018,"lat":47.464392,"lon":9.5919065,"name":"Spurt"}
+{"id":1835326126,"lat":47.138397,"lon":9.0492936,"name":"Shell"}
+{"id":1843138084,"lat":47.5777503,"lon":8.9746831,"name":"Garage Debrunner"}
+{"id":1843378639,"lat":47.6950212,"lon":8.5830796,"name":"Migrol Tankstelle Beringen Industrie"}
+{"id":1845304513,"lat":47.1876983,"lon":8.3973611,"name":"Agrola"}
+{"id":1845461046,"lat":46.9549838,"lon":8.0189381,"name":"Ruedi R\u00fcssel"}
+{"id":1854831311,"lat":47.4176287,"lon":9.0464699,"name":"Avia"}
+{"id":1856395645,"lat":47.7927487,"lon":8.6108011,"name":"Tannair GmbH"}
+{"id":1856809564,"lat":46.4611742,"lon":6.3424132,"name":"Sirca"}
+{"id":1856810715,"lat":46.4626765,"lon":6.3449643,"name":"Jaquillard"}
+{"id":1869703878,"lat":47.0376643,"lon":8.161097,"name":"Nasa"}
+{"id":1874196802,"lat":47.0513972,"lon":8.0682995,"name":"Agrola"}
+{"id":1882056112,"lat":47.5300983,"lon":7.6054191,"name":"Avia"}
+{"id":1882065880,"lat":47.5850184,"lon":7.5935859,"name":"Shell Baslertor"}
+{"id":1884922207,"lat":46.9101298,"lon":7.6322776,"name":"Coop"}
+{"id":1886547907,"lat":47.0379211,"lon":8.1610561,"name":"Nasa"}
+{"id":1889486988,"lat":47.4736901,"lon":9.0602983,"name":"Tankstelle Sonne"}
+{"id":1891089861,"lat":46.9003813,"lon":7.6331605,"name":"Socar"}
+{"id":1896270896,"lat":47.3965165,"lon":8.6116995,"name":"Minoretti"}
+{"id":1907628745,"lat":47.0567481,"lon":6.8999282,"name":"Migrol"}
+{"id":1921976248,"lat":46.4398191,"lon":6.2483809,"name":"Eni"}
+{"id":1923272905,"lat":46.7937204,"lon":7.1431039,"name":"Meuwli SA"}
+{"id":1923314905,"lat":47.1804047,"lon":9.4470167,"name":"K\u00fchnis"}
+{"id":1924177999,"lat":47.4802114,"lon":8.4847451,"name":"Avia Niederhasli"}
+{"id":1933343179,"lat":46.3834787,"lon":6.2167148,"name":"Tamoil"}
+{"id":1933689564,"lat":46.871406,"lon":6.9359011,"name":"Garage Combremont, Grandcour"}
+{"id":1936459890,"lat":46.1885148,"lon":6.1426674,"name":"Remo Arnoldi"}
+{"id":1944924400,"lat":47.0822789,"lon":8.2650138,"name":"Riffig"}
+{"id":1946091623,"lat":47.0508099,"lon":7.5483644,"name":"Agrola"}
+{"id":1949179157,"lat":47.1845226,"lon":8.1075043,"name":"Avia"}
+{"id":1949535717,"lat":46.8597501,"lon":7.4955206,"name":"Agrola"}
+{"id":1953487290,"lat":46.7122543,"lon":9.4452742,"name":"Tanstelle Viamala Rastst\u00e4tte Thusis"}
+{"id":1960477734,"lat":46.1657193,"lon":7.2092621,"name":"Station de Riddes"}
+{"id":1960490981,"lat":46.1171208,"lon":8.7084061,"name":"Eni"}
+{"id":1961638543,"lat":46.1161609,"lon":8.7074783,"name":"Stazione Aniceto"}
+{"id":1962314078,"lat":47.4184749,"lon":9.4958775,"name":"Ebni-Garage"}
+{"id":1975299928,"lat":46.1812888,"lon":6.8733314,"name":"Combustia"}
+{"id":1975546345,"lat":47.5618331,"lon":8.9060671,"name":"Migrol Service Frauenfeld"}
+{"id":1976789584,"lat":47.0830225,"lon":7.9557499,"name":"Migrol Tankstelle"}
+{"id":1976898678,"lat":47.5460209,"lon":7.5837638,"name":"Migrol Tankstelle Gundeldingen"}
+{"id":1976917024,"lat":47.5657309,"lon":7.573832,"name":"Avia"}
+{"id":1977209660,"lat":46.2181263,"lon":6.1431184,"name":"AVIA"}
+{"id":1979812153,"lat":45.841138,"lon":8.9617777,"name":"Eni"}
+{"id":1981714666,"lat":47.3452668,"lon":8.1606575,"name":"Agrola Seon"}
+{"id":1994208081,"lat":47.5011525,"lon":8.0091467,"name":"Agrola"}
+{"id":1997878114,"lat":46.1908718,"lon":6.1203623,"name":"BP Petit Lancy"}
+{"id":2002786093,"lat":46.9276784,"lon":7.4935799,"name":"Shell Muri"}
+{"id":2011278133,"lat":47.2053435,"lon":7.5335325,"name":"Agrola"}
+{"id":2020021665,"lat":47.0404345,"lon":8.1758077,"name":"Garage Seeberger"}
+{"id":2025508669,"lat":46.7178555,"lon":7.7099806,"name":"Agrola"}
+{"id":2030250496,"lat":47.4310576,"lon":8.5662085,"name":"Avia"}
+{"id":2030813794,"lat":47.08163,"lon":8.2682206,"name":"Sprengi Garage"}
+{"id":2031025592,"lat":47.4641945,"lon":8.9936157,"name":"Socar Sirnach"}
+{"id":2037405840,"lat":47.5350173,"lon":7.5716334,"name":"Avia"}
+{"id":2037405848,"lat":47.516749,"lon":7.5584937,"name":"Avia"}
+{"id":2038180365,"lat":47.0457315,"lon":9.061261,"name":"H\u00f6he"}
+{"id":2038180380,"lat":47.0358484,"lon":9.0726161,"name":"Migrol"}
+{"id":2044313034,"lat":47.1546586,"lon":7.0145577,"name":"Mini Prix"}
+{"id":2049498641,"lat":47.536654,"lon":7.6066804,"name":"BP"}
+{"id":2063703190,"lat":46.8105604,"lon":7.1777813,"name":"Coop"}
+{"id":2069906938,"lat":46.8115578,"lon":7.1730597,"name":"Le Garage"}
+{"id":2069997188,"lat":47.0706878,"lon":6.7066653,"name":"Station de la Cr\u00eate"}
+{"id":2074771409,"lat":47.5481192,"lon":9.3718004,"name":"Migrol Service Egnach"}
+{"id":2074771410,"lat":47.548936,"lon":9.3717356,"name":"Ruedi R\u00fcssel"}
+{"id":2080030876,"lat":47.3103623,"lon":8.556814,"name":"Garage K\u00fcry GmbH"}
+{"id":2082083945,"lat":47.0127716,"lon":7.0082828,"name":"Migrol"}
+{"id":2082727575,"lat":47.4574017,"lon":7.6056559,"name":"Avia"}
+{"id":2086964148,"lat":47.3009386,"lon":8.8364358,"name":"Agrola"}
+{"id":2087629938,"lat":47.4056205,"lon":7.6899813,"name":"Ruedi R\u00fcssel"}
+{"id":2088172705,"lat":46.4615715,"lon":6.8570441,"name":"Station service"}
+{"id":2100516385,"lat":47.6693995,"lon":8.6377475,"name":"Landgarage"}
+{"id":2104399786,"lat":47.4315388,"lon":7.7056924,"name":"Avia"}
+{"id":2109027261,"lat":47.0965469,"lon":9.3530771,"name":"Agrola"}
+{"id":2123681572,"lat":46.9328673,"lon":7.5065369,"name":"BP"}
+{"id":2126510762,"lat":47.2169773,"lon":7.7537263,"name":"Landi"}
+{"id":2140022268,"lat":46.8867073,"lon":8.2107708,"name":"Avia"}
+{"id":2142689748,"lat":46.6561874,"lon":6.5102238,"name":"Tamoil"}
+{"id":2147659038,"lat":47.0344057,"lon":7.6309276,"name":"Coop"}
+{"id":2166192091,"lat":46.9253424,"lon":7.5736358,"name":"Migrol"}
+{"id":2172529283,"lat":47.0118226,"lon":7.6590283,"name":"Agrola"}
+{"id":2173294557,"lat":47.0084458,"lon":7.1564357,"name":"autofit garage waelti"}
+{"id":2183596691,"lat":47.1681801,"lon":8.2876628,"name":"Agrola"}
+{"id":2184457034,"lat":47.2833097,"lon":7.9453164,"name":"Hofer & Co"}
+{"id":2185610249,"lat":47.1760678,"lon":8.9077084,"name":"Migrol Service Siebnen"}
+{"id":2186282617,"lat":47.2346403,"lon":8.4277609,"name":"Agrola Dorfstrasse"}
+{"id":2193310580,"lat":47.2768553,"lon":7.3728857,"name":"Gobat"}
+{"id":2194325506,"lat":47.2824578,"lon":7.3815906,"name":"Shell"}
+{"id":2194509641,"lat":47.4000687,"lon":8.4116786,"name":"Tamoil"}
+{"id":2194955245,"lat":47.2822364,"lon":7.3807601,"name":"ACM AutoCentre"}
+{"id":2214821219,"lat":47.3684503,"lon":8.4967351,"name":"SOCAR Triemli"}
+{"id":2232036984,"lat":46.9274953,"lon":7.3798608,"name":"Avia"}
+{"id":2233923218,"lat":46.8765861,"lon":7.0326379,"name":"Coop"}
+{"id":2251949258,"lat":46.6051635,"lon":9.4273614,"name":"Avia"}
+{"id":2262032671,"lat":46.9007649,"lon":7.4013264,"name":"SOCAR"}
+{"id":2267251447,"lat":46.2066493,"lon":6.1220684,"name":"Tamoil"}
+{"id":2276702417,"lat":47.5712202,"lon":7.5692209,"name":"Shell Flughafenstrasse"}
+{"id":2279775523,"lat":47.4052121,"lon":8.2201673,"name":"OIL!"}
+{"id":2287987550,"lat":47.4672556,"lon":7.8004766,"name":"BP"}
+{"id":2290342093,"lat":47.5203202,"lon":8.5472046,"name":"Agrola"}
+{"id":2290610240,"lat":47.4962061,"lon":8.2674926,"name":"SOCAR Untersiggenthal"}
+{"id":2290630916,"lat":47.3029914,"lon":8.3120463,"name":"Avia"}
+{"id":2293738942,"lat":46.249419,"lon":7.3478754,"name":"Garage Yvon Dubuis"}
+{"id":2294128749,"lat":47.3625325,"lon":7.3601035,"name":"Agrola"}
+{"id":2296075721,"lat":46.790839,"lon":6.5278934,"name":"Garage du Clos"}
+{"id":2298168567,"lat":46.2323759,"lon":6.1231165,"name":"Mini Prix"}
+{"id":2301905696,"lat":46.2361833,"lon":6.1241342,"name":"BP"}
+{"id":2306589625,"lat":46.2361036,"lon":6.1236391,"name":"BP"}
+{"id":2310133319,"lat":47.0325583,"lon":7.6325861,"name":"Migrol Service Oberburg"}
+{"id":2319855981,"lat":46.225487,"lon":6.1062793,"name":"Tamoil"}
+{"id":2320614539,"lat":47.3611129,"lon":8.3687981,"name":"Touring-Garage & Carrosserie Stefan Baur AG"}
+{"id":2321097739,"lat":47.4121896,"lon":8.1593713,"name":"R\u00fcebliland"}
+{"id":2321655387,"lat":47.61111,"lon":8.7262668,"name":"Agrola"}
+{"id":2322343951,"lat":46.7448381,"lon":8.1958192,"name":"Oeltrans"}
+{"id":2330954312,"lat":46.7403947,"lon":7.5993878,"name":"Tankstelle Bierigut"}
+{"id":2342240617,"lat":47.3069234,"lon":9.0871791,"name":"Coop Tankstelle Wattwil"}
+{"id":2342240672,"lat":47.3288979,"lon":9.0847543,"name":"BP"}
+{"id":2342241222,"lat":47.3645608,"lon":9.0411115,"name":"BP"}
+{"id":2344276924,"lat":46.7949419,"lon":7.4030135,"name":"AVIA"}
+{"id":2344545324,"lat":47.2134464,"lon":8.2659019,"name":"Tankstelle"}
+{"id":2344551128,"lat":47.222165,"lon":8.2532433,"name":"Agrola TopShop"}
+{"id":2353769640,"lat":47.0556458,"lon":8.0810235,"name":"Discount-Tankstelle"}
+{"id":2354711911,"lat":46.3078224,"lon":7.9683586,"name":"Tank-Treff"}
+{"id":2357532576,"lat":47.4623067,"lon":8.9537317,"name":"Migrol Tankstelle Eschlikon TG"}
+{"id":2367298772,"lat":46.6224184,"lon":9.182558,"name":"Tankstelle"}
+{"id":2369236534,"lat":47.4365425,"lon":7.0116965,"name":"Garage Vallat S\u00e0rl"}
+{"id":2371367682,"lat":47.3322385,"lon":7.7508902,"name":"Tschopp"}
+{"id":2376309412,"lat":47.563447,"lon":9.0478265,"name":"Ruedi R\u00fcssel"}
+{"id":2377108626,"lat":46.7522377,"lon":7.0309206,"name":"Mini Prix Garage M\u00f6rel"}
+{"id":2383717270,"lat":46.4790008,"lon":8.7960072,"name":"Avia"}
+{"id":2385204503,"lat":46.8358843,"lon":9.2943607,"name":"Ruedi R\u00fcssel"}
+{"id":2386691625,"lat":46.148803,"lon":8.8631504,"name":"Tamoil"}
+{"id":2387341805,"lat":47.2118886,"lon":7.7842292,"name":"Schulhausgarage"}
+{"id":2388339711,"lat":46.4770761,"lon":6.3970477,"name":"Agip"}
+{"id":2389917394,"lat":46.7203688,"lon":7.0918108,"name":"Von Oetinger Patrick"}
+{"id":2392081646,"lat":47.5486386,"lon":7.5572631,"name":"BP"}
+{"id":2392657652,"lat":47.5513783,"lon":7.624196,"name":"Ruedi R\u00fcssel"}
+{"id":2392657658,"lat":47.5498243,"lon":7.6255636,"name":"Migrol Service Birsfelden"}
+{"id":2400839575,"lat":46.8850388,"lon":9.8739029,"name":"Centralgarage"}
+{"id":2400839628,"lat":46.9666479,"lon":9.694265,"name":"Avia"}
+{"id":2400839640,"lat":46.9701525,"lon":9.6837817,"name":"Coop Tankstelle"}
+{"id":2402540485,"lat":46.7214909,"lon":6.5388581,"name":"Coop Pronto"}
+{"id":2405452663,"lat":47.1341192,"lon":7.2417642,"name":"Garage Urania"}
+{"id":2407228024,"lat":46.9842893,"lon":8.4113637,"name":"Tamoil"}
+{"id":2416781612,"lat":46.1549808,"lon":8.7717833,"name":"Piccadilly"}
+{"id":2417622006,"lat":46.4629113,"lon":7.1010222,"name":"Station les Moulins"}
+{"id":2418251995,"lat":46.9471699,"lon":7.3896493,"name":"Avia"}
+{"id":2418870049,"lat":46.2808585,"lon":7.5106127,"name":"Coop Pronto"}
+{"id":2430389779,"lat":47.1872572,"lon":7.8484635,"name":"Agrola Melchnau"}
+{"id":2432632982,"lat":47.1724793,"lon":8.0922082,"name":"BP"}
+{"id":2432632983,"lat":47.151273,"lon":8.1664137,"name":"Avia"}
+{"id":2433663082,"lat":46.4622041,"lon":6.0757097,"name":"BP"}
+{"id":2446828004,"lat":46.8137326,"lon":6.9527219,"name":"Jubin"}
+{"id":2450501370,"lat":47.271313,"lon":8.3433422,"name":"Coop Pronto"}
+{"id":2451962794,"lat":47.1985893,"lon":7.7866283,"name":"Gustoil"}
+{"id":2463639260,"lat":47.6096267,"lon":8.5340093,"name":"Avia Wesag Auto AG"}
+{"id":2463639822,"lat":47.6110084,"lon":8.5396384,"name":"Tamoil Garage Sigrist"}
+{"id":2466323687,"lat":47.3600319,"lon":8.0524957,"name":"Voegtlin-Meyer"}
+{"id":2468529775,"lat":47.0474986,"lon":7.1504118,"name":"Seetankstelle L\u00fcscherz"}
+{"id":2469122824,"lat":47.4721676,"lon":7.7583082,"name":"Blitz-Garage AG"}
+{"id":2469124932,"lat":47.4705075,"lon":7.7626736,"name":"ecostop"}
+{"id":2471120934,"lat":47.1359348,"lon":8.6087761,"name":"Tamoil"}
+{"id":2477003262,"lat":47.0802212,"lon":7.749732,"name":"Touring Garage"}
+{"id":2477003268,"lat":47.1141394,"lon":7.7797154,"name":"midland"}
+{"id":2477003483,"lat":47.1671418,"lon":7.7964588,"name":"Avia"}
+{"id":2479965161,"lat":47.474544,"lon":9.5802881,"name":"Coop"}
+{"id":2480248159,"lat":46.9861131,"lon":8.4141384,"name":"Agrola"}
+{"id":2498353735,"lat":47.1151263,"lon":7.125019,"name":"Agip"}
+{"id":2511874387,"lat":47.2242471,"lon":7.8937055,"name":"Shell"}
+{"id":2511896139,"lat":47.1757596,"lon":8.1027455,"name":"Agrola"}
+{"id":2513636432,"lat":47.3921617,"lon":8.67484,"name":"AGROLA"}
+{"id":2522474456,"lat":47.4570056,"lon":7.8070957,"name":"Avia"}
+{"id":2522474461,"lat":47.465747,"lon":7.8025587,"name":"Avia"}
+{"id":2549317450,"lat":47.5223356,"lon":9.4000416,"name":"Agrola"}
+{"id":2563389409,"lat":47.4174703,"lon":9.1696618,"name":"Coop Tankstelle"}
+{"id":2571051411,"lat":47.083383,"lon":8.1244828,"name":"Agrola"}
+{"id":2576639883,"lat":47.4901182,"lon":7.6087693,"name":"Coop Tankstelle"}
+{"id":2576641031,"lat":46.9195617,"lon":9.5627521,"name":"Coop Tankstelle"}
+{"id":2576644569,"lat":47.3274477,"lon":8.5299541,"name":"Coop"}
+{"id":2576974605,"lat":47.4768015,"lon":9.5775038,"name":"BP"}
+{"id":2581670449,"lat":47.1765044,"lon":9.4670379,"name":"MIGROL \/ AMAG Retail Buchs"}
+{"id":2589391996,"lat":47.2384314,"lon":7.2503148,"name":"Agrola"}
+{"id":2594087411,"lat":47.552469,"lon":8.873065,"name":"AVIA"}
+{"id":2594087412,"lat":47.5611502,"lon":8.8891118,"name":"SOCAR Frauenfeld"}
+{"id":2594087414,"lat":47.56378,"lon":8.8752947,"name":"BP"}
+{"id":2600727479,"lat":47.4117642,"lon":9.0690072,"name":"Migrol Tankstelle Bazenheid"}
+{"id":2611932131,"lat":47.2384952,"lon":8.7497668,"name":"AVIA"}
+{"id":2613273097,"lat":47.4141929,"lon":8.1649918,"name":"Ruedi R\u00fcssel"}
+{"id":2613273100,"lat":47.3985241,"lon":8.1787604,"name":"Shell"}
+{"id":2613649986,"lat":47.1546544,"lon":8.3160246,"name":"Agrola Ballwil"}
+{"id":2617018701,"lat":47.1277093,"lon":7.9069185,"name":"Agrola"}
+{"id":2619423727,"lat":47.4597676,"lon":9.384802,"name":"Agrola"}
+{"id":2619516259,"lat":46.3979238,"lon":7.768477,"name":"Ruedi R\u00fcssel"}
+{"id":2629123779,"lat":47.2687837,"lon":7.6870648,"name":"Migrol"}
+{"id":2630944453,"lat":47.291096,"lon":8.1940206,"name":"Garage Steiner"}
+{"id":2633729038,"lat":47.516266,"lon":8.6799636,"name":"Coop Tankstelle"}
+{"id":2633729039,"lat":47.5149155,"lon":8.6823507,"name":"Avia"}
+{"id":2637205219,"lat":46.3142634,"lon":6.9409162,"name":"Migrol"}
+{"id":2638832219,"lat":47.5136018,"lon":9.4381216,"name":"Bootstankstelle"}
+{"id":2639107872,"lat":47.5192521,"lon":9.4242988,"name":"BP"}
+{"id":2643475964,"lat":47.3597415,"lon":8.0550095,"name":"Avia"}
+{"id":2647325839,"lat":47.2389462,"lon":7.6630512,"name":"BEBECO Wangen a A"}
+{"id":2648339595,"lat":46.9451396,"lon":7.4730558,"name":"Avia"}
+{"id":2674580997,"lat":47.4683784,"lon":9.3455004,"name":"Agrola"}
+{"id":2694195855,"lat":47.219976,"lon":8.155417,"name":"Avia"}
+{"id":2696218096,"lat":47.4846521,"lon":9.5510992,"name":"Avia Tankstelle"}
+{"id":2697748656,"lat":47.3881064,"lon":8.5245108,"name":"Rigoni & Co"}
+{"id":2702363178,"lat":46.6254513,"lon":8.0246383,"name":"Ruedi R\u00fcssel"}
+{"id":2703041969,"lat":47.0923913,"lon":9.3435543,"name":"Ruedi R\u00fcssel"}
+{"id":2705742343,"lat":47.4477209,"lon":8.3295104,"name":"Rudi R\u00fcssel"}
+{"id":2715681249,"lat":47.4695439,"lon":9.5875922,"name":"Freie Tankstelle Rheineck"}
+{"id":2720687666,"lat":47.2397471,"lon":8.733336,"name":"Agrola"}
+{"id":2722873137,"lat":47.3690097,"lon":7.3576492,"name":"Power Shop"}
+{"id":2725280247,"lat":47.5214538,"lon":8.6575457,"name":"Agrola"}
+{"id":2727215234,"lat":46.8238141,"lon":7.0994848,"name":"Coop"}
+{"id":2741686844,"lat":47.39498,"lon":8.4870209,"name":"Avia Bernerstrasse Nord"}
+{"id":2742294821,"lat":47.4180878,"lon":7.243632,"name":"Full automatic (CB and cash)"}
+{"id":2765456786,"lat":47.3630888,"lon":7.3542521,"name":"Jubin"}
+{"id":2765456793,"lat":47.3653835,"lon":7.3462032,"name":"Paupe Station"}
+{"id":2770619414,"lat":47.5695246,"lon":8.2567835,"name":"Ruedi R\u00fcssel"}
+{"id":2770646240,"lat":47.5771617,"lon":8.2268849,"name":"Meier"}
+{"id":2770662276,"lat":47.5876066,"lon":8.1489149,"name":"Mobil-Shop"}
+{"id":2772125416,"lat":47.059643,"lon":7.6129765,"name":"Ruedi R\u00fcssel"}
+{"id":2775832578,"lat":47.1846811,"lon":8.1120393,"name":"Coop"}
+{"id":2788676807,"lat":47.5263292,"lon":8.9227894,"name":"Coop Tankstelle"}
+{"id":2789398878,"lat":47.265454,"lon":8.3009845,"name":"100LL - AVGAS"}
+{"id":2799282091,"lat":45.8638242,"lon":8.9402414,"name":"Piccadilly"}
+{"id":2800588923,"lat":47.3560414,"lon":8.5536233,"name":"Avia Dufourstrasse"}
+{"id":2805987100,"lat":47.0767143,"lon":7.6720923,"name":"Garage H. Widmer"}
+{"id":2818759393,"lat":47.5215972,"lon":8.9306009,"name":"BP"}
+{"id":2843821734,"lat":46.5406689,"lon":6.7033088,"name":"Migrol"}
+{"id":2878451891,"lat":47.5163995,"lon":7.5600718,"name":"Ruedi R\u00fcssel"}
+{"id":2888195234,"lat":47.6374683,"lon":8.974571,"name":"Migrol Tankstelle H\u00f6rhausen"}
+{"id":2889088814,"lat":47.6448,"lon":8.9134642,"name":"Tank & Trank GmbH"}
+{"id":2892492106,"lat":46.8679658,"lon":6.4904313,"name":"Automate"}
+{"id":2898503502,"lat":46.3011973,"lon":7.5614477,"name":"Station Garage Montani SA"}
+{"id":2909134584,"lat":47.0299685,"lon":7.7429911,"name":"Midland"}
+{"id":2917008797,"lat":46.1105221,"lon":7.0764618,"name":"Coop Pronto"}
+{"id":2938775995,"lat":47.0333005,"lon":7.6877953,"name":"Agrola"}
+{"id":2945900336,"lat":47.4137752,"lon":9.6307567,"name":"Migrol \/ AMAG Retail Heerbrugg"}
+{"id":2949154839,"lat":46.8733744,"lon":7.4019018,"name":"Agrola"}
+{"id":2953816992,"lat":47.3392782,"lon":8.0260666,"name":"Automat"}
+{"id":2964066018,"lat":47.3718779,"lon":9.1956025,"name":"Agrola"}
+{"id":2965051132,"lat":47.0352711,"lon":7.5376479,"name":"Ruedi R\u00fcssel"}
+{"id":2969139664,"lat":46.2142064,"lon":7.2584959,"name":"Tamoil"}
+{"id":2969139675,"lat":46.2815727,"lon":7.5112402,"name":"Migrol"}
+{"id":2971729334,"lat":47.1648716,"lon":8.3000547,"name":"Tamoil"}
+{"id":2989553634,"lat":47.4151459,"lon":8.3991162,"name":"Avia"}
+{"id":2998400214,"lat":47.2055978,"lon":8.7453409,"name":"AVIA"}
+{"id":2998617955,"lat":47.2017141,"lon":8.7958266,"name":"Etzelpark Benzin"}
+{"id":3007661969,"lat":47.0467392,"lon":9.421388,"name":"Agrola Tankstelle"}
+{"id":3013065716,"lat":46.1670288,"lon":8.7897479,"name":"Socar"}
+{"id":3021904258,"lat":46.5131862,"lon":6.5012654,"name":"Tamoil Station 4043"}
+{"id":3028802264,"lat":46.4726947,"lon":9.5126597,"name":"AVIA"}
+{"id":3030232000,"lat":45.8396279,"lon":9.0195879,"name":"BP"}
+{"id":3030586928,"lat":45.8402328,"lon":9.0188138,"name":"Tamoil"}
+{"id":3030689545,"lat":45.8435063,"lon":9.0375533,"name":"Eni"}
+{"id":3033193237,"lat":47.1043511,"lon":8.2007906,"name":"Avia"}
+{"id":3041821374,"lat":45.8577548,"lon":8.9853643,"name":"Piccadilly"}
+{"id":3056266301,"lat":47.2049041,"lon":8.70827,"name":"Shell"}
+{"id":3071458539,"lat":46.1136162,"lon":8.9313772,"name":"Tamoil"}
+{"id":3076893967,"lat":47.1066927,"lon":8.3810382,"name":"Ruedi R\u00fcssel"}
+{"id":3086649249,"lat":47.4061725,"lon":8.471176,"name":"Ruedi R\u00fcssel"}
+{"id":3096177968,"lat":47.1969578,"lon":8.5294199,"name":"AGROLA Tankstelle Baar"}
+{"id":3121224677,"lat":47.3967811,"lon":8.4414569,"name":"Shell"}
+{"id":3123715104,"lat":46.271443,"lon":6.9454664,"name":"Tamoil"}
+{"id":3123717295,"lat":46.2079348,"lon":7.2540523,"name":"Station d'Ardon"}
+{"id":3135208633,"lat":47.4130697,"lon":8.4149802,"name":"Migrol Tankstelle Fahrweid"}
+{"id":3166577286,"lat":47.5295277,"lon":9.1931287,"name":"Agrola"}
+{"id":3175013666,"lat":45.8621342,"lon":8.9730729,"name":"Avia"}
+{"id":3196705172,"lat":47.0701944,"lon":8.1954532,"name":"Rotbach Garage"}
+{"id":3197502313,"lat":46.0386168,"lon":8.9461407,"name":"Garage Castelli e Perucchi"}
+{"id":3203084549,"lat":47.0241267,"lon":8.4589198,"name":"Ruedi R\u00fcssel"}
+{"id":3206147458,"lat":47.6666581,"lon":8.4363179,"name":"Migrol Service Trasadingen"}
+{"id":3224540989,"lat":47.1230483,"lon":9.4878351,"name":"Riet Garage Tankstelle"}
+{"id":3238083467,"lat":47.5614049,"lon":7.5738336,"name":"Pneu-Haus Spalenring-Service"}
+{"id":3240926807,"lat":46.9018316,"lon":7.3556673,"name":"AGROLA"}
+{"id":3244693565,"lat":47.1642471,"lon":7.5263903,"name":"Lagerhaus Lohn"}
+{"id":3244693566,"lat":47.2101459,"lon":7.5629692,"name":"Ruedi R\u00fcssel Garage Peter Weber"}
+{"id":3266767364,"lat":45.8355497,"lon":9.0138909,"name":"Piccadilly"}
+{"id":3280639461,"lat":47.0000472,"lon":7.4161082,"name":"Agrola"}
+{"id":3284697002,"lat":46.8898767,"lon":7.3170971,"name":"Coop"}
+{"id":3287567839,"lat":46.5415953,"lon":6.6332601,"name":"bp"}
+{"id":3293439029,"lat":47.4503419,"lon":8.5970286,"name":"Coop Tankstelle Kloten"}
+{"id":3323077484,"lat":45.8575136,"lon":8.986759,"name":"Eni"}
+{"id":3323135069,"lat":45.8438434,"lon":9.0378915,"name":"BP"}
+{"id":3323135070,"lat":45.8436404,"lon":9.0172178,"name":"Migrol"}
+{"id":3323135073,"lat":45.8426201,"lon":9.0374871,"name":"Eni City"}
+{"id":3323135074,"lat":45.8662635,"lon":8.9771441,"name":"Eni"}
+{"id":3323135077,"lat":45.8409031,"lon":8.9614102,"name":"Piccadilly"}
+{"id":3323135078,"lat":45.8410416,"lon":8.960621,"name":"Piccadilly"}
+{"id":3323135079,"lat":45.8411714,"lon":9.0157091,"name":"Piccadilly"}
+{"id":3323135080,"lat":45.8414541,"lon":9.0157391,"name":"Piccadilly"}
+{"id":3323135082,"lat":45.8432457,"lon":9.0372925,"name":"Piccadilly"}
+{"id":3323135083,"lat":45.8550302,"lon":8.966134,"name":"Piccadilly"}
+{"id":3323135085,"lat":45.8427127,"lon":9.0371417,"name":"Socar"}
+{"id":3323135089,"lat":45.8447599,"lon":8.9270221,"name":"Piccadilly"}
+{"id":3323252277,"lat":45.8402433,"lon":9.0184435,"name":"Stazione di servizio 4S"}
+{"id":3338200230,"lat":47.3342885,"lon":8.3079251,"name":"Avia"}
+{"id":3338569750,"lat":45.8418752,"lon":8.9153588,"name":"Spirit Shop"}
+{"id":3338569753,"lat":45.8479453,"lon":8.935836,"name":"Tamoil"}
+{"id":3346518654,"lat":45.8679052,"lon":8.9777729,"name":"Piccadilly"}
+{"id":3346541546,"lat":45.8428615,"lon":8.9742455,"name":"Zanini"}
+{"id":3357984510,"lat":46.9950945,"lon":7.1502732,"name":"Gebr. Witschi Moos-Garage AG"}
+{"id":3358399930,"lat":47.4067224,"lon":8.5382677,"name":"BP Allenmoos"}
+{"id":3358815725,"lat":47.3735229,"lon":9.4161754,"name":"Migrol"}
+{"id":3358829209,"lat":47.3255258,"lon":9.5680812,"name":"Migrol"}
+{"id":3358829214,"lat":47.3758306,"lon":9.5447467,"name":"Red Fox"}
+{"id":3358834640,"lat":47.4190579,"lon":9.2347824,"name":"Migrol Service Gossau SG"}
+{"id":3358844941,"lat":47.3571454,"lon":8.7055232,"name":"Migrol Tankstelle AMAG Uster"}
+{"id":3358844942,"lat":47.4016204,"lon":8.610322,"name":"Migrol Tankstelle AMAG D\u00fcbendorf"}
+{"id":3358847506,"lat":47.4394579,"lon":9.0558872,"name":"Shell"}
+{"id":3358847509,"lat":47.4386388,"lon":9.0566161,"name":"Coop"}
+{"id":3358848067,"lat":47.5447515,"lon":9.2727646,"name":"Migrol Service Amriswil"}
+{"id":3367972858,"lat":46.8979056,"lon":6.7810964,"name":"Miniprix Station Service"}
+{"id":3373195693,"lat":47.4068433,"lon":8.4116243,"name":"Shell Limmatbr\u00fccke"}
+{"id":3376582843,"lat":47.6417797,"lon":9.1962333,"name":"Migrol Service Seepark"}
+{"id":3382900796,"lat":47.4203884,"lon":8.3694709,"name":"Ruedi R\u00fcssel"}
+{"id":3384690532,"lat":46.5978281,"lon":9.5963657,"name":"Socar"}
+{"id":3385874251,"lat":47.3594959,"lon":8.4532841,"name":"Coop Tankstelle Birmensdorf"}
+{"id":3392227810,"lat":46.7700398,"lon":7.0690975,"name":"BP"}
+{"id":3397616183,"lat":47.2662108,"lon":8.3479029,"name":"Migrol Tankstelle Muri AG"}
+{"id":3416564162,"lat":45.8640177,"lon":8.9417011,"name":"Piccadilly"}
+{"id":3424601911,"lat":47.1848922,"lon":8.2807209,"name":"Fischer AG Baldegg"}
+{"id":3443513113,"lat":47.5352264,"lon":7.6073525,"name":"Agrola"}
+{"id":3465183252,"lat":47.1268041,"lon":7.2450284,"name":"Mini Prix"}
+{"id":3499725468,"lat":47.2261638,"lon":9.1991044,"name":"Central Garage"}
+{"id":3517072075,"lat":46.8711039,"lon":7.1257447,"name":"Prof-In"}
+{"id":3532674147,"lat":47.3003825,"lon":8.3123437,"name":"Agrola"}
+{"id":3546174756,"lat":46.9452836,"lon":8.0075923,"name":"Coop"}
+{"id":3553554148,"lat":46.5258567,"lon":6.6339526,"name":"Tamoil"}
+{"id":3556535498,"lat":46.1137774,"lon":8.7060083,"name":"BP"}
+{"id":3571196998,"lat":46.1696811,"lon":8.7836183,"name":"Eni stazione servizio"}
+{"id":3576197245,"lat":45.9139409,"lon":8.9843768,"name":"Eni"}
+{"id":3577237919,"lat":45.9135622,"lon":8.9172805,"name":"IP"}
+{"id":3577237924,"lat":45.9144236,"lon":8.9190734,"name":"Piccadilly"}
+{"id":3578306158,"lat":47.084336,"lon":8.2725736,"name":"Coop"}
+{"id":3578360626,"lat":47.0740702,"lon":8.2909467,"name":"Coop"}
+{"id":3590384048,"lat":46.5391256,"lon":6.5974431,"name":"Socar"}
+{"id":3599872150,"lat":47.0087003,"lon":8.6579946,"name":"Migrol Tankstelle"}
+{"id":3618403643,"lat":47.0704761,"lon":9.4780441,"name":"Agrola"}
+{"id":3619938082,"lat":46.2482565,"lon":6.9549637,"name":"Station service Tamoil"}
+{"id":3619958668,"lat":46.2052823,"lon":6.8929967,"name":"La Mascotte"}
+{"id":3620863237,"lat":47.375256,"lon":8.490236,"name":"Garage Resegatti"}
+{"id":3640295271,"lat":47.2790722,"lon":7.9515026,"name":"Avia"}
+{"id":3640398500,"lat":46.1644166,"lon":8.7680468,"name":"BP"}
+{"id":3646443415,"lat":47.4047294,"lon":8.052012,"name":"Tankstelle Rombach"}
+{"id":3654662924,"lat":47.209926,"lon":9.4898036,"name":"Shell"}
+{"id":3655247409,"lat":47.481454,"lon":9.0332089,"name":"Grenzgarage"}
+{"id":3660847528,"lat":47.2165237,"lon":8.5762619,"name":"Shell Sihlbrugg"}
+{"id":3664846103,"lat":47.1417288,"lon":7.9749877,"name":"Ruedi R\u00fcssel"}
+{"id":3666276313,"lat":47.4811385,"lon":8.4652196,"name":"Migrol Service Ruchwiesen"}
+{"id":3667591177,"lat":47.4046542,"lon":8.0944537,"name":"Merbag"}
+{"id":3670745823,"lat":47.333647,"lon":7.2088268,"name":"Socar"}
+{"id":3676208121,"lat":47.476254,"lon":8.5052021,"name":"SOCAR Oberglatt"}
+{"id":3683619190,"lat":47.0355551,"lon":8.2968685,"name":"Migrol Tankstelle"}
+{"id":3684333715,"lat":47.0552807,"lon":7.0666666,"name":"Socar"}
+{"id":3688226672,"lat":47.3408891,"lon":7.3715339,"name":"Coop"}
+{"id":3698907014,"lat":46.345982,"lon":8.9757278,"name":"Ecsa Energy"}
+{"id":3698907015,"lat":46.450917,"lon":8.9404404,"name":"BP"}
+{"id":3699868733,"lat":47.0004106,"lon":7.4616478,"name":"Coop"}
+{"id":3700013891,"lat":47.567022,"lon":7.5635197,"name":"Avia"}
+{"id":3701926343,"lat":46.1044037,"lon":8.7581083,"name":"Eni"}
+{"id":3711872285,"lat":47.1306874,"lon":7.2530712,"name":"Discount Tankstelle"}
+{"id":3725889088,"lat":45.8430061,"lon":8.9191912,"name":"Eni"}
+{"id":3725889090,"lat":45.8414032,"lon":8.9149217,"name":"ecsa"}
+{"id":3725889091,"lat":45.841708,"lon":8.9157971,"name":"europetroli"}
+{"id":3725889092,"lat":45.8341837,"lon":9.0311093,"name":"Garage 64"}
+{"id":3725889093,"lat":45.8430155,"lon":8.9198702,"name":"Vasa"}
+{"id":3725892839,"lat":45.8459235,"lon":8.9316646,"name":"Ca' gialla"}
+{"id":3725902823,"lat":45.8435698,"lon":8.9215346,"name":"IP"}
+{"id":3725904325,"lat":45.8447716,"lon":8.9257926,"name":"Eni"}
+{"id":3730065081,"lat":46.5266358,"lon":6.5270922,"name":"Agrola"}
+{"id":3766123215,"lat":46.5408633,"lon":6.6208042,"name":"Tamoil"}
+{"id":3773241559,"lat":47.3338554,"lon":8.0550713,"name":"Agrola"}
+{"id":3779403542,"lat":46.018318,"lon":8.956508,"name":"Migrolino"}
+{"id":3779580857,"lat":46.7505527,"lon":7.1689047,"name":"Tamoil"}
+{"id":3779587759,"lat":46.6198732,"lon":7.1626533,"name":"Tamoil"}
+{"id":3783431065,"lat":47.0513078,"lon":8.2726018,"name":"Avia Tankstelle"}
+{"id":3790817939,"lat":47.3543871,"lon":8.9321595,"name":"Agrola"}
+{"id":3796957666,"lat":47.4217428,"lon":8.4071653,"name":"Shell Geroldswil"}
+{"id":3810110865,"lat":47.4294941,"lon":8.3913972,"name":"Migrol Tankstelle Oetwil a.d.L."}
+{"id":3822092434,"lat":47.0288228,"lon":8.296855,"name":"Tankstelle"}
+{"id":3826204629,"lat":47.2805819,"lon":8.451352,"name":"Shell Affoltern a.A."}
+{"id":3826204630,"lat":47.2729064,"lon":8.4482579,"name":"Migrol Tankstelle Affoltern a.A."}
+{"id":3829948112,"lat":46.9381117,"lon":7.7955539,"name":"Tamoil"}
+{"id":3831821557,"lat":47.2110701,"lon":7.5057963,"name":"Coop"}
+{"id":3833323678,"lat":47.2114974,"lon":7.523622,"name":"Shell Solothurn"}
+{"id":3843591892,"lat":46.861086,"lon":9.5341776,"name":"Avia"}
+{"id":3843591893,"lat":46.8611721,"lon":9.5344075,"name":"Avia"}
+{"id":3843591905,"lat":46.8727696,"lon":9.5344012,"name":"Socar"}
+{"id":3843591906,"lat":46.8728691,"lon":9.5340214,"name":"Socar"}
+{"id":3849962497,"lat":46.6588604,"lon":7.494838,"name":"Agrola"}
+{"id":3856077382,"lat":47.3360236,"lon":8.5179148,"name":"Allmend Automobile"}
+{"id":3857051059,"lat":46.7301181,"lon":8.1817953,"name":"Postgarage"}
+{"id":3870732123,"lat":46.8153671,"lon":6.6523891,"name":"Tamoil"}
+{"id":3872780480,"lat":47.2962794,"lon":9.0860928,"name":"Agrola"}
+{"id":3873500007,"lat":46.2153036,"lon":6.1342581,"name":"Migrolino"}
+{"id":3902614699,"lat":47.5617705,"lon":7.5643836,"name":"Migrol Tankstelle Wasgenring"}
+{"id":3904951019,"lat":46.6882721,"lon":7.8887734,"name":"Ruedi R\u00fcssel"}
+{"id":3910778136,"lat":46.932743,"lon":7.5071924,"name":"Coop"}
+{"id":3926865068,"lat":47.3967459,"lon":8.0688096,"name":"Ruedi R\u00fcssel"}
+{"id":3926865071,"lat":47.3948917,"lon":8.0582701,"name":"Voegtlin-Meyer"}
+{"id":3957129672,"lat":47.3005723,"lon":9.0847671,"name":"bp"}
+{"id":3986844671,"lat":47.319607,"lon":9.2868922,"name":"Landi"}
+{"id":3991254087,"lat":47.5813087,"lon":8.3081177,"name":"Shell"}
+{"id":4003557922,"lat":47.0438842,"lon":8.3045137,"name":"Avia"}
+{"id":4040977956,"lat":46.0688334,"lon":7.7762638,"name":"BP"}
+{"id":4058250841,"lat":46.9860824,"lon":6.8653204,"name":"Station Miniprix"}
+{"id":4071715490,"lat":47.3512724,"lon":8.3712383,"name":"Agrola"}
+{"id":4072287092,"lat":45.9888302,"lon":8.9537999,"name":"Eni"}
+{"id":4077197252,"lat":47.4171988,"lon":8.5405286,"name":"Osterwalder Z\u00fcrich"}
+{"id":4081300238,"lat":46.7795936,"lon":9.5435631,"name":"Migrol"}
+{"id":4088695339,"lat":47.0781452,"lon":7.2999215,"name":"BEBECO Lyss"}
+{"id":4088701801,"lat":47.0410557,"lon":7.634502,"name":"BEBECO Burgdorf"}
+{"id":4088712038,"lat":47.0109631,"lon":7.4665923,"name":"BEBECO"}
+{"id":4088731206,"lat":47.3962823,"lon":8.2028678,"name":"BEBECO Othmarsingen"}
+{"id":4088745689,"lat":47.1789603,"lon":8.1015907,"name":"BEBECO"}
+{"id":4088761639,"lat":47.0330752,"lon":8.2923314,"name":"BEBECO"}
+{"id":4088761840,"lat":47.0870919,"lon":8.2701518,"name":"BEBECO"}
+{"id":4088879676,"lat":46.8311571,"lon":7.0545039,"name":"BEBECO"}
+{"id":4088923696,"lat":47.2218008,"lon":8.675162,"name":"BEBECO"}
+{"id":4088931569,"lat":46.8890175,"lon":8.2496659,"name":"BEBECO"}
+{"id":4088976020,"lat":47.4752745,"lon":7.7226734,"name":"BEBECO"}
+{"id":4088998702,"lat":47.4547453,"lon":7.0154203,"name":"BEBECO"}
+{"id":4089001640,"lat":46.7105834,"lon":6.9183224,"name":"BEBECO"}
+{"id":4089011903,"lat":46.6724459,"lon":6.8925657,"name":"BEBECO"}
+{"id":4089017613,"lat":47.4286035,"lon":8.5179685,"name":"BEBECO"}
+{"id":4089028880,"lat":47.3790129,"lon":8.5491137,"name":"BEBECO"}
+{"id":4089035400,"lat":47.410457,"lon":8.5121281,"name":"BEBECO"}
+{"id":4089041537,"lat":47.0061274,"lon":7.7247422,"name":"BEBECO"}
+{"id":4089053385,"lat":47.3592877,"lon":8.4310994,"name":"BEBECO"}
+{"id":4089066496,"lat":46.7797522,"lon":6.5943404,"name":"BEBECO"}
+{"id":4089070715,"lat":46.828964,"lon":6.9398578,"name":"BEBECO"}
+{"id":4089076989,"lat":46.81308,"lon":7.1563353,"name":"BEBECO"}
+{"id":4089096059,"lat":46.957764,"lon":8.3875492,"name":"BEBECO"}
+{"id":4090435103,"lat":47.1361941,"lon":7.2074953,"name":"BEBECO"}
+{"id":4090464289,"lat":46.6711721,"lon":7.8576012,"name":"BEBECO"}
+{"id":4090465707,"lat":46.4986055,"lon":7.4078524,"name":"BEBECO"}
+{"id":4090470229,"lat":46.7387175,"lon":8.1191707,"name":"BEBECO"}
+{"id":4090470990,"lat":46.7261946,"lon":8.1716384,"name":"BEBECO"}
+{"id":4090478031,"lat":47.4878037,"lon":8.217243,"name":"BEBECO Brugg"}
+{"id":4090484292,"lat":47.3571318,"lon":8.332197,"name":"BEBECO Bremgarten"}
+{"id":4094946573,"lat":47.0934279,"lon":8.2994104,"name":"BEBECO"}
+{"id":4094954025,"lat":46.3208597,"lon":6.9622099,"name":"BEBECO"}
+{"id":4094994191,"lat":46.6525957,"lon":6.7838276,"name":"BEBECO"}
+{"id":4095702167,"lat":46.3998815,"lon":6.2311316,"name":"BEBECO"}
+{"id":4095710989,"lat":46.2101139,"lon":7.013926,"name":"BEBECO"}
+{"id":4095716098,"lat":47.1407288,"lon":8.4405965,"name":"BEBECO"}
+{"id":4095857965,"lat":47.0575262,"lon":9.4079682,"name":"BEBECO"}
+{"id":4095864393,"lat":47.4183849,"lon":9.3593015,"name":"BEBECO"}
+{"id":4095874621,"lat":47.1241147,"lon":9.3050401,"name":"BEBECO"}
+{"id":4095885839,"lat":47.5682248,"lon":8.9007712,"name":"BEBECO"}
+{"id":4095892754,"lat":47.5724671,"lon":8.8867021,"name":"BEBECO"}
+{"id":4095901422,"lat":46.9647094,"lon":6.8629628,"name":"BEBECO"}
+{"id":4095913148,"lat":47.3885449,"lon":9.2809607,"name":"BEBECO"}
+{"id":4095924863,"lat":46.7743544,"lon":8.6678712,"name":"BEBECO"}
+{"id":4095934505,"lat":46.9999025,"lon":9.0787184,"name":"BEBECO"}
+{"id":4095957368,"lat":46.7648317,"lon":9.7985373,"name":"BEBECO"}
+{"id":4096759731,"lat":46.8479262,"lon":9.5167617,"name":"BEBECO"}
+{"id":4096807530,"lat":46.8472281,"lon":9.5004404,"name":"BEBECO"}
+{"id":4096851895,"lat":46.5238156,"lon":9.1854647,"name":"BEBECO"}
+{"id":4097127005,"lat":47.0356021,"lon":9.5266849,"name":"BEBECO"}
+{"id":4097134493,"lat":46.7754965,"lon":9.1371467,"name":"BEBECO"}
+{"id":4097236717,"lat":46.2012797,"lon":9.0186442,"name":"BEBECO"}
+{"id":4097292416,"lat":46.1401609,"lon":8.9065231,"name":"BEBECO"}
+{"id":4097298894,"lat":46.1628726,"lon":8.8785082,"name":"BEBECO"}
+{"id":4097309412,"lat":46.3075473,"lon":7.7549164,"name":"BEBECO"}
+{"id":4097315197,"lat":46.2266835,"lon":7.3762358,"name":"BEBECO"}
+{"id":4097316481,"lat":46.2179373,"lon":7.3373866,"name":"BEBECO"}
+{"id":4101219399,"lat":46.9019552,"lon":7.1505241,"name":"Vicianum Petrolium S\u00e0rl"}
+{"id":4105524510,"lat":47.461131,"lon":8.3143565,"name":"OIL!"}
+{"id":4107323973,"lat":46.8215462,"lon":7.4428645,"name":"Agrola"}
+{"id":4110508143,"lat":47.6420717,"lon":9.1892477,"name":"BP"}
+{"id":4127859166,"lat":47.4870974,"lon":8.7551312,"name":"SOCAR Seen"}
+{"id":4137864686,"lat":47.466528,"lon":9.2813855,"name":"Tankstelle AVIA"}
+{"id":4138760987,"lat":46.8911188,"lon":7.5097596,"name":"Belwag"}
+{"id":4139299712,"lat":46.8470135,"lon":9.5015512,"name":"Coop"}
+{"id":4139299723,"lat":46.8499778,"lon":9.5048256,"name":"Socar"}
+{"id":4144203889,"lat":46.8696216,"lon":7.5631266,"name":"Coop pronto"}
+{"id":4153950189,"lat":47.3551672,"lon":8.0997754,"name":"Agrola"}
+{"id":4163251498,"lat":47.2556433,"lon":9.1509051,"name":"BP"}
+{"id":4169107328,"lat":46.5385258,"lon":6.73037,"name":"Garage des 3 Sapins"}
+{"id":4169328572,"lat":47.4581207,"lon":9.3962732,"name":"Freie Tankstelle Wittenbach"}
+{"id":4171946441,"lat":47.6114375,"lon":9.1696474,"name":"Avia"}
+{"id":4178961089,"lat":46.3063458,"lon":7.7510364,"name":"Shell"}
+{"id":4187685218,"lat":46.5473637,"lon":6.5621208,"name":"Tamoil"}
+{"id":4195551923,"lat":47.3617632,"lon":7.3401454,"name":"Coop Pronto"}
+{"id":4205766538,"lat":47.1201886,"lon":7.2421249,"name":"BP"}
+{"id":4228845595,"lat":47.5002265,"lon":8.785714,"name":"Agrola"}
+{"id":4233225589,"lat":47.4039492,"lon":9.3044453,"name":"Avia Osterwalder"}
+{"id":4243869743,"lat":47.0153685,"lon":8.6438813,"name":"BP"}
+{"id":4250994336,"lat":46.9432395,"lon":7.4009855,"name":"Avia"}
+{"id":4251315310,"lat":47.2083109,"lon":8.1909083,"name":"Agrola"}
+{"id":4251315312,"lat":47.2089307,"lon":8.1912076,"name":"Avia"}
+{"id":4256047103,"lat":46.8098918,"lon":7.3780254,"name":"Gantrisch Garage Zwahlen"}
+{"id":4280190277,"lat":47.2057036,"lon":9.4571065,"name":"Avia"}
+{"id":4294130732,"lat":46.4848984,"lon":9.834767,"name":"BP"}
+{"id":4301202055,"lat":46.4608287,"lon":6.8472047,"name":"Station Coop Vevey"}
+{"id":4303177352,"lat":47.3319775,"lon":9.3953535,"name":"Migrol Service Appenzell"}
+{"id":4303177353,"lat":47.3317158,"lon":9.3959932,"name":"Socar"}
+{"id":4312489291,"lat":47.419519,"lon":9.364246,"name":"Avia"}
+{"id":4322098887,"lat":47.4858278,"lon":8.4520921,"name":"Migrol Service Wehntalerstrasse"}
+{"id":4339744894,"lat":46.7067056,"lon":9.4404844,"name":"Avia"}
+{"id":4350047189,"lat":46.0220719,"lon":8.9370576,"name":"City - Eni"}
+{"id":4350048126,"lat":46.02157,"lon":8.9369619,"name":"Piccadilly"}
+{"id":4353163721,"lat":47.3791236,"lon":8.6803113,"name":"Migrol Tankstelle AMAG Volketswil"}
+{"id":4358768290,"lat":46.2157793,"lon":6.101768,"name":"SOGEP - Soci\u00e9t\u00e9 Genevoise des P\u00e9troles"}
+{"id":4370216210,"lat":46.1959776,"lon":8.138617,"name":"Eni"}
+{"id":4374647078,"lat":47.2448419,"lon":8.1858003,"name":"Coop"}
+{"id":4374661802,"lat":46.5191215,"lon":6.9056679,"name":"Agrola"}
+{"id":4374734392,"lat":46.5244149,"lon":6.9053174,"name":"Tamoil"}
+{"id":4375752130,"lat":47.3087143,"lon":7.0484518,"name":"XV"}
+{"id":4379763130,"lat":47.4923059,"lon":8.7589991,"name":"Socar"}
+{"id":4383628051,"lat":47.3371593,"lon":9.1307912,"name":"Agrola"}
+{"id":4385865153,"lat":46.9055268,"lon":6.5743511,"name":"Grenacher SA"}
+{"id":4392474889,"lat":47.5490727,"lon":9.221738,"name":"Agrola"}
+{"id":4406030790,"lat":46.4649414,"lon":6.8398473,"name":"CICG Garage"}
+{"id":4406033390,"lat":46.7086755,"lon":6.8461462,"name":"Bureau Cosvegas"}
+{"id":4406082693,"lat":46.5553501,"lon":6.5703956,"name":"Emil Frey"}
+{"id":4412050012,"lat":47.551192,"lon":7.5377885,"name":"Agrola"}
+{"id":4424238921,"lat":47.4911259,"lon":8.4371213,"name":"Shell"}
+{"id":4426163090,"lat":46.998009,"lon":8.6084888,"name":"Tamoil"}
+{"id":4433552056,"lat":47.4138567,"lon":8.5493439,"name":"SOCAR"}
+{"id":4435238292,"lat":47.4503807,"lon":8.5393004,"name":"Avia Hofwisenstrasse"}
+{"id":4449629543,"lat":47.403513,"lon":8.6127931,"name":"Move"}
+{"id":4468375295,"lat":46.3864049,"lon":6.9204807,"name":"Migrol"}
+{"id":4469637892,"lat":47.4116797,"lon":9.335979,"name":"Shell Erlach"}
+{"id":4471002503,"lat":47.4169136,"lon":9.2541153,"name":"Avia"}
+{"id":4483819293,"lat":47.0366701,"lon":8.3025925,"name":"Ernst Hess"}
+{"id":4498351089,"lat":47.0593682,"lon":8.3018416,"name":"Ruedi R\u00fcssel"}
+{"id":4532798983,"lat":46.5436903,"lon":7.0724314,"name":"Tamoil"}
+{"id":4555025465,"lat":46.1089276,"lon":8.7651306,"name":"AVIA Ranzo"}
+{"id":4561938178,"lat":47.5173549,"lon":8.1884482,"name":"Migrol Tankstelle Remigen"}
+{"id":4568980639,"lat":47.4709809,"lon":8.1606104,"name":"villoel"}
+{"id":4584155691,"lat":47.4293869,"lon":8.5590821,"name":"Coop Tankstelle Glattbrugg"}
+{"id":4594228957,"lat":47.4237177,"lon":7.5018756,"name":"Socar"}
+{"id":4595204262,"lat":46.6746504,"lon":7.6369464,"name":"Aral"}
+{"id":4599603764,"lat":46.744842,"lon":9.5561855,"name":"Socar"}
+{"id":4612312492,"lat":46.5614954,"lon":7.3752902,"name":"Landitankstelle und Shop"}
+{"id":4617951385,"lat":46.7965239,"lon":9.8326748,"name":"AVIA"}
+{"id":4626325925,"lat":47.1056553,"lon":8.3437463,"name":"Agrola"}
+{"id":4639517344,"lat":47.0821572,"lon":7.2965446,"name":"BP"}
+{"id":4640531856,"lat":47.5285996,"lon":7.9953799,"name":"Garage Frei"}
+{"id":4690791242,"lat":46.7827711,"lon":9.6855547,"name":"AVIA Tankstelle"}
+{"id":4697887291,"lat":47.5172815,"lon":8.594189,"name":"Coop Tankstelle"}
+{"id":4697941146,"lat":47.5176581,"lon":8.5947525,"name":"Avia"}
+{"id":4719655690,"lat":46.8086504,"lon":7.1512748,"name":"Station du jura"}
+{"id":4730835508,"lat":47.2409632,"lon":8.9488352,"name":"AGROLA"}
+{"id":4736427919,"lat":47.3504859,"lon":8.3361017,"name":"Avia"}
+{"id":4740888851,"lat":47.3965492,"lon":8.4670441,"name":"Ruedi R\u00fcssel"}
+{"id":4745883536,"lat":46.2435957,"lon":6.9842312,"name":"Avia"}
+{"id":4747343116,"lat":47.4614634,"lon":9.3805405,"name":"Coop Shop"}
+{"id":4770994507,"lat":46.9284696,"lon":7.7346506,"name":"Tom's Tanke"}
+{"id":4778868523,"lat":47.0625148,"lon":7.0890132,"name":"bp"}
+{"id":4779034521,"lat":47.0587731,"lon":7.2311602,"name":"Avia"}
+{"id":4794080208,"lat":46.8106348,"lon":9.2623507,"name":"Coray"}
+{"id":4811194246,"lat":46.5150435,"lon":6.560649,"name":"BP"}
+{"id":4820137498,"lat":47.3984726,"lon":8.6051007,"name":"SOCAR B\u00fchlwiesen"}
+{"id":4820137500,"lat":47.3353262,"lon":8.5408584,"name":"SOCAR Seebucht"}
+{"id":4820601025,"lat":47.3522069,"lon":8.5585571,"name":"Shell Hornegg"}
+{"id":4820601027,"lat":47.408064,"lon":8.6016378,"name":"Migrol Service Wallisellen"}
+{"id":4820601028,"lat":47.361258,"lon":8.5478749,"name":"Migrol Tankstelle Seefeld"}
+{"id":4820646304,"lat":47.4079849,"lon":8.5997702,"name":"Shell Glatt"}
+{"id":4820646305,"lat":47.4032098,"lon":8.6075961,"name":"Shell Im Giessen"}
+{"id":4820646306,"lat":47.4319133,"lon":8.5631012,"name":"Shell Glattbrugg"}
+{"id":4828232529,"lat":47.4429478,"lon":8.4806515,"name":"Avia Watt"}
+{"id":4833061686,"lat":47.3940505,"lon":8.4820011,"name":"J. H. Keller AG"}
+{"id":4833061688,"lat":47.3770637,"lon":8.5114068,"name":"Avia Franz AG"}
+{"id":4833061689,"lat":47.3662195,"lon":8.5336955,"name":"Avia Zur Palme"}
+{"id":4833061690,"lat":47.3876457,"lon":8.5333362,"name":"Avia Wasserwerkstrasse"}
+{"id":4847777858,"lat":47.3875329,"lon":8.4986948,"name":"Coop Tankstelle Letzipark"}
+{"id":4858136837,"lat":47.1731529,"lon":8.9692838,"name":"bp-Tankstelle"}
+{"id":4875461021,"lat":46.5486456,"lon":6.514494,"name":"Agrola"}
+{"id":4908650221,"lat":46.1709413,"lon":7.186514,"name":"Garage Bertholet - Jubin Fr\u00e8res SA"}
+{"id":4909119028,"lat":46.8727111,"lon":8.2419272,"name":"Migrol Tankstelle Sachseln"}
+{"id":4911281322,"lat":46.864685,"lon":8.2311793,"name":"Freie Tankstelle"}
+{"id":4931267322,"lat":47.483749,"lon":8.2977491,"name":"Erdgastankstelle Werkhof Regionalwerke AG Baden"}
+{"id":4932308537,"lat":46.6029975,"lon":9.9599669,"name":"eni"}
+{"id":4934580331,"lat":46.0050597,"lon":8.7933801,"name":"Eni"}
+{"id":4935127595,"lat":46.7706091,"lon":7.50722,"name":"Agrola"}
+{"id":4935133533,"lat":46.770397,"lon":7.5123819,"name":"Tamoil"}
+{"id":4935627363,"lat":47.3623528,"lon":8.5271036,"name":"Nasa"}
+{"id":4940994898,"lat":46.1388553,"lon":8.9077089,"name":"Eni"}
+{"id":4959639284,"lat":46.8211037,"lon":6.5045037,"name":"Tamoil"}
+{"id":4969901431,"lat":47.1965856,"lon":8.5298839,"name":"Avia"}
+{"id":4970198222,"lat":47.190787,"lon":8.4766899,"name":"Migrol Service Steinhausen"}
+{"id":4989129994,"lat":46.9549591,"lon":10.43507,"name":"BP"}
+{"id":4990819212,"lat":47.2289888,"lon":8.832634,"name":"Eni"}
+{"id":5000075190,"lat":46.4759271,"lon":7.2834741,"name":"Agrola"}
+{"id":5019801223,"lat":47.4738153,"lon":8.0503423,"name":"Agrola"}
+{"id":5026260721,"lat":47.4990212,"lon":7.6182434,"name":"BP"}
+{"id":5032062867,"lat":47.6375618,"lon":8.6969995,"name":"Badi's Freie Tankstelle"}
+{"id":5047593047,"lat":46.9681031,"lon":7.1899989,"name":"Schwandener AG"}
+{"id":5057709536,"lat":46.5247953,"lon":6.6533221,"name":"Garage Pont de Chailly F. Mariotti"}
+{"id":5060356108,"lat":46.3552605,"lon":6.9326019,"name":"Tamoil"}
+{"id":5061305988,"lat":47.1231398,"lon":7.2792557,"name":"March\u00e9 Br\u00fcgg"}
+{"id":5084007910,"lat":47.4919178,"lon":8.5520732,"name":"Agrola"}
+{"id":5105726212,"lat":47.454611,"lon":9.6368688,"name":"Coop Pronto"}
+{"id":5118373197,"lat":47.1045554,"lon":8.3771996,"name":"Coop"}
+{"id":5124348129,"lat":47.0730688,"lon":8.3273945,"name":"Avia"}
+{"id":5124384532,"lat":47.2025695,"lon":7.572037,"name":"Migrol Tankstelle AMAG Zuchwil"}
+{"id":5125381698,"lat":46.120968,"lon":8.9268556,"name":"Avia"}
+{"id":5159526087,"lat":46.3167287,"lon":6.9687559,"name":"Jubin"}
+{"id":5165148129,"lat":46.2243292,"lon":8.7432204,"name":"Stazione Di Servizio"}
+{"id":5165572653,"lat":47.4642884,"lon":8.5265047,"name":"Spar R\u00fcmlang"}
+{"id":5170933717,"lat":47.4347617,"lon":9.4020644,"name":"Coop Tankstelle"}
+{"id":5192332363,"lat":47.2700306,"lon":8.8527951,"name":"BP"}
+{"id":5211134027,"lat":46.2305386,"lon":10.1449413,"name":"Shell"}
+{"id":5219377578,"lat":46.9166492,"lon":7.4665872,"name":"Avia"}
+{"id":5242262577,"lat":47.358531,"lon":8.5319389,"name":"Eni Seestrasse"}
+{"id":5245851786,"lat":47.0491266,"lon":9.0642478,"name":"Tamoil"}
+{"id":5256182279,"lat":46.2430421,"lon":7.3429367,"name":"Station de Savi\u00e8se"}
+{"id":5256316188,"lat":47.0454165,"lon":9.068202,"name":"Eni"}
+{"id":5258126478,"lat":47.5629444,"lon":8.4262064,"name":"BP"}
+{"id":5281995076,"lat":47.1125082,"lon":9.2664622,"name":"bp"}
+{"id":5286491814,"lat":47.4533993,"lon":9.0389859,"name":"Avia"}
+{"id":5312558978,"lat":47.6938743,"lon":8.6050346,"name":"Coop Pronto"}
+{"id":5321664526,"lat":47.2325737,"lon":9.1902955,"name":"Agrola"}
+{"id":5336400778,"lat":47.5449108,"lon":9.374814,"name":"Avia"}
+{"id":5336410697,"lat":47.5529036,"lon":9.3711112,"name":"Scall"}
+{"id":5336973838,"lat":47.5654934,"lon":9.3659627,"name":"Coop Tankstelle"}
+{"id":5338678441,"lat":47.6176153,"lon":9.2691216,"name":"Avia"}
+{"id":5357761037,"lat":47.0610726,"lon":8.0735001,"name":"Coop"}
+{"id":5370227721,"lat":47.4211995,"lon":7.0785787,"name":"jubin"}
+{"id":5370227722,"lat":47.3368043,"lon":7.2491914,"name":"Tellis"}
+{"id":5372787108,"lat":46.8517452,"lon":6.7192359,"name":"Kaeser Automobiles"}
+{"id":5372787884,"lat":46.8380957,"lon":6.6880332,"name":"Caf\u00e9 -Shop"}
+{"id":5375798859,"lat":47.2760985,"lon":7.3667374,"name":"Gust'oil"}
+{"id":5420548552,"lat":46.7243573,"lon":9.5580116,"name":"Socar"}
+{"id":5434396547,"lat":47.3564181,"lon":7.982551,"name":"Shell D\u00e4niken"}
+{"id":5438021361,"lat":46.3874123,"lon":6.9203578,"name":"Eni"}
+{"id":5438021375,"lat":46.3852006,"lon":6.9211302,"name":"Tamoil"}
+{"id":5458717846,"lat":47.4830697,"lon":7.6138161,"name":"BP"}
+{"id":5464829035,"lat":47.4192262,"lon":8.414396,"name":"Coop Tankstelle"}
+{"id":5488634095,"lat":47.1518335,"lon":9.0278777,"name":"Avia"}
+{"id":5488634101,"lat":47.1528097,"lon":9.0258129,"name":"Migrol"}
+{"id":5488634114,"lat":47.1002485,"lon":9.0731306,"name":"Agrola"}
+{"id":5488634116,"lat":47.0943975,"lon":9.060726,"name":"Ruedi R\u00fcssel"}
+{"id":5488634117,"lat":47.0909385,"lon":9.0578768,"name":"Avia"}
+{"id":5488634723,"lat":47.0131875,"lon":9.0817747,"name":"Eni"}
+{"id":5488634726,"lat":47.0082627,"lon":9.0785385,"name":"Avia"}
+{"id":5488634738,"lat":46.9910787,"lon":9.0634428,"name":"SOCAR Schwanden"}
+{"id":5489790800,"lat":47.2831149,"lon":8.7614359,"name":"Ruedi R\u00fcssel"}
+{"id":5514327803,"lat":47.0708855,"lon":8.2759206,"name":"Discount Tankstelle"}
+{"id":5514875835,"lat":47.4447009,"lon":8.4601767,"name":"Avia Pumpwerkstrasse"}
+{"id":5514885103,"lat":47.4523897,"lon":8.4616405,"name":"Agrola Adlikon"}
+{"id":5519650888,"lat":47.3363446,"lon":7.9074554,"name":"Coop"}
+{"id":5528778830,"lat":47.1324931,"lon":7.2381026,"name":"Tankstelle"}
+{"id":5531293140,"lat":46.1650435,"lon":8.7731889,"name":"Coop"}
+{"id":5542504235,"lat":46.489014,"lon":9.8372749,"name":"Engadin Bus"}
+{"id":5552618122,"lat":47.3344893,"lon":7.2782694,"name":"O\u2019shop s\u00e0rl"}
+{"id":5577256076,"lat":46.930127,"lon":9.0108101,"name":"Eni"}
+{"id":5579134459,"lat":47.2629816,"lon":8.865991,"name":"BP"}
+{"id":5582940854,"lat":46.9780398,"lon":7.4610002,"name":"Hess CNG Erdgastankstelle (Automat)"}
+{"id":5628344433,"lat":47.3715763,"lon":8.9835812,"name":"Avia"}
+{"id":5670394821,"lat":47.5550552,"lon":8.7689588,"name":"Agrola Tankstelle"}
+{"id":5705934073,"lat":47.5522692,"lon":7.5661443,"name":"Ruedi R\u00fcssel"}
+{"id":5718417508,"lat":47.507531,"lon":7.5324157,"name":"Leu"}
+{"id":5721083669,"lat":47.4535469,"lon":8.5785075,"name":"Avia Flughafenstrasse"}
+{"id":5721083673,"lat":47.455013,"lon":8.5800231,"name":"BP Schaffhauserstrasse"}
+{"id":5744118451,"lat":47.5256964,"lon":7.6918167,"name":"Avia"}
+{"id":5746033457,"lat":47.4268094,"lon":8.3076343,"name":"Migrol Tankstelle Oberrohrdorf"}
+{"id":5746437131,"lat":47.3986859,"lon":9.5847747,"name":"Marko's Freie Tankstelle"}
+{"id":5747534240,"lat":47.2986729,"lon":7.9345154,"name":"BP"}
+{"id":5761628590,"lat":46.9489005,"lon":7.3970599,"name":"SOCAR B\u00fcmpliz"}
+{"id":5761634422,"lat":46.3178526,"lon":6.8966155,"name":"Shell"}
+{"id":5776944239,"lat":47.0682099,"lon":7.315352,"name":"CarXpert"}
+{"id":5778436755,"lat":47.4810831,"lon":8.2109143,"name":"Agrola"}
+{"id":5801936256,"lat":46.4534712,"lon":6.8934691,"name":"Station Shop du Stade"}
+{"id":5854422023,"lat":47.3926289,"lon":8.0660678,"name":"Socar"}
+{"id":5873752911,"lat":47.4280156,"lon":9.6235326,"name":"Garage Kaufmann"}
+{"id":5905797678,"lat":46.4469039,"lon":6.2989184,"name":"Tamoil"}
+{"id":5905797683,"lat":46.4448421,"lon":6.2972219,"name":"Socar"}
+{"id":5924411446,"lat":47.1721081,"lon":8.5109711,"name":"Socar"}
+{"id":5940499368,"lat":47.2457204,"lon":8.5325333,"name":"Migrol Tankstelle Hausen a.A."}
+{"id":5948084114,"lat":47.4969811,"lon":7.6092816,"name":"Gasverbund Mittelland AG"}
+{"id":5989533166,"lat":47.1310714,"lon":7.2445162,"name":"Le Garage"}
+{"id":6002697604,"lat":47.0250676,"lon":8.3067359,"name":"Shell"}
+{"id":6002697605,"lat":47.0254205,"lon":8.3061411,"name":"Avia"}
+{"id":6051671827,"lat":46.967471,"lon":7.1239746,"name":"AVIA"}
+{"id":6051671832,"lat":46.9665151,"lon":7.1239378,"name":"Migrol"}
+{"id":6076240798,"lat":47.2484602,"lon":8.5303804,"name":"Agrola Albisstrasse"}
+{"id":6088224395,"lat":47.288847,"lon":8.7120186,"name":"Ruedi R\u00fcssel"}
+{"id":6090147784,"lat":47.4870584,"lon":9.3025398,"name":"Studerus"}
+{"id":6104266824,"lat":46.8464072,"lon":9.5113263,"name":"Eni"}
+{"id":6109275785,"lat":46.9355169,"lon":7.4155811,"name":"Agrola"}
+{"id":6109419085,"lat":46.6788715,"lon":7.8513205,"name":"Coop"}
+{"id":6111365297,"lat":46.8564624,"lon":9.5345568,"name":"Eni"}
+{"id":6111365298,"lat":46.8564912,"lon":9.5349676,"name":"Eni"}
+{"id":6120031542,"lat":47.4811737,"lon":7.9759872,"name":"Agrola"}
+{"id":6152961334,"lat":46.7512074,"lon":8.0508374,"name":"Oeltrans"}
+{"id":6171424585,"lat":46.3183705,"lon":7.6029076,"name":"Tamoil"}
+{"id":6177659238,"lat":47.1973535,"lon":7.4258247,"name":"Migrol Tankstelle Bettlach"}
+{"id":6180364746,"lat":47.5967675,"lon":8.6695533,"name":"Gewerbehaus 5"}
+{"id":6180769025,"lat":47.2954643,"lon":9.0939716,"name":"Erdgas"}
+{"id":6184252057,"lat":46.8378294,"lon":9.463571,"name":"Shell"}
+{"id":6184579379,"lat":46.8520803,"lon":9.505097,"name":"Avia"}
+{"id":6193616973,"lat":47.5465053,"lon":8.8417873,"name":"Agrola"}
+{"id":6199021685,"lat":47.4622999,"lon":9.0252666,"name":"Carrosserie & Gascenter GmbH"}
+{"id":6216963685,"lat":46.308748,"lon":7.6520046,"name":"coop pronto"}
+{"id":6223284379,"lat":47.6511794,"lon":8.6527307,"name":"Garage Bolli"}
+{"id":6233652366,"lat":46.3375414,"lon":6.930405,"name":"eni"}
+{"id":6233652367,"lat":46.3392448,"lon":6.9318739,"name":"eni"}
+{"id":6243050151,"lat":46.7914783,"lon":7.6065344,"name":"Tamoil"}
+{"id":6243074754,"lat":46.878274,"lon":7.6150749,"name":"Agrola"}
+{"id":6251318201,"lat":47.5713016,"lon":8.9145118,"name":"BP"}
+{"id":6275148234,"lat":46.5159036,"lon":6.5330847,"name":"BP"}
+{"id":6301355684,"lat":47.060123,"lon":7.6254125,"name":"Avia"}
+{"id":6320502728,"lat":46.9579824,"lon":7.4365282,"name":"Avia"}
+{"id":6326773386,"lat":47.6685485,"lon":8.9856754,"name":"Eni Tankstelle"}
+{"id":6328386301,"lat":46.9356717,"lon":7.4147502,"name":"Hess"}
+{"id":6340573497,"lat":46.2243957,"lon":7.3014718,"name":"Shell"}
+{"id":6367818185,"lat":46.9091338,"lon":6.6072462,"name":"MiniPrix"}
+{"id":6389192666,"lat":47.1362761,"lon":7.9222507,"name":"Agrola"}
+{"id":6431135289,"lat":46.2402169,"lon":9.135969,"name":"Avia"}
+{"id":6434199505,"lat":46.9416185,"lon":7.3964881,"name":"Shell"}
+{"id":6443603892,"lat":46.9423225,"lon":8.2719746,"name":"Agrola"}
+{"id":6454393592,"lat":46.6616188,"lon":9.582481,"name":"Tamoil"}
+{"id":6466301764,"lat":46.8088138,"lon":9.5322498,"name":"eni"}
+{"id":6466435960,"lat":47.5242451,"lon":7.604393,"name":"Coop Tankstelle"}
+{"id":6480377280,"lat":47.3264264,"lon":8.7832515,"name":"El Rolbanito"}
+{"id":6485025085,"lat":47.5124357,"lon":7.7195888,"name":"Coop Tankstelle"}
+{"id":6504630732,"lat":47.1087611,"lon":7.3592209,"name":"Ruedi R\u00fcssel"}
+{"id":6512147358,"lat":47.1113537,"lon":7.0780138,"name":"MERILLAT Garage Reparex"}
+{"id":6530443337,"lat":47.1746331,"lon":7.3305535,"name":"Migrol"}
+{"id":6530444717,"lat":47.1805165,"lon":7.3613778,"name":"Ruedi R\u00fcssel"}
+{"id":6584592532,"lat":47.2638374,"lon":8.4283067,"name":"Agrola Dorfstrasse"}
+{"id":6603380443,"lat":47.2155334,"lon":8.6066365,"name":"Agrola"}
+{"id":6611751135,"lat":47.3926384,"lon":8.475161,"name":"Scall"}
+{"id":6613039261,"lat":47.4207777,"lon":9.0689778,"name":"Agrola"}
+{"id":6631024141,"lat":46.461222,"lon":6.342127,"name":"Sirca"}
+{"id":6680253709,"lat":47.4500535,"lon":8.7017149,"name":"BP Kemptthal S\u00fcd"}
+{"id":6681758290,"lat":47.0089719,"lon":7.1610566,"name":"Landi"}
+{"id":6700752605,"lat":46.967113,"lon":7.1893047,"name":"Agrola"}
+{"id":6703441119,"lat":47.2800616,"lon":7.3895902,"name":"Coop Pronto"}
+{"id":6762373476,"lat":46.8392537,"lon":8.1901457,"name":"BP"}
+{"id":6774918763,"lat":47.0700524,"lon":8.2843619,"name":"Macro Swiss Energy AG"}
+{"id":6779296606,"lat":46.9535776,"lon":7.1865606,"name":"Tolaj"}
+{"id":6812900280,"lat":46.9663157,"lon":8.3529013,"name":"Migrol Service Stans"}
+{"id":6835510255,"lat":47.3706167,"lon":7.9822724,"name":"BP"}
+{"id":6853724786,"lat":47.4086524,"lon":9.3299532,"name":"Agrola"}
+{"id":6868334960,"lat":46.9935595,"lon":7.4574499,"name":"Avia"}
+{"id":6869927506,"lat":47.2984159,"lon":7.6155132,"name":"Tamoil"}
+{"id":6874188877,"lat":46.2312389,"lon":7.3633881,"name":"Station de l'Etoile"}
+{"id":6875534651,"lat":46.3117246,"lon":10.0625073,"name":"Garage Rossi"}
+{"id":6899769189,"lat":46.1917406,"lon":9.0181221,"name":"Eni"}
+{"id":6949608209,"lat":47.3545685,"lon":8.0546458,"name":"Eni"}
+{"id":7003233349,"lat":47.3572373,"lon":8.6422562,"name":"Avia Ebmatingen"}
+{"id":7021621077,"lat":46.8862804,"lon":7.5556095,"name":"Shell"}
+{"id":7058350886,"lat":47.5319274,"lon":9.1891178,"name":"Migrol Service Sulgen"}
+{"id":7064077373,"lat":47.217308,"lon":7.7686485,"name":"Coop"}
+{"id":7088159116,"lat":45.8374642,"lon":9.0233567,"name":"Pemoil"}
+{"id":7096350846,"lat":46.2016417,"lon":7.8414675,"name":"BP"}
+{"id":7105143246,"lat":47.3617404,"lon":8.0514674,"name":"Eni"}
+{"id":7111931002,"lat":47.2408639,"lon":8.714637,"name":"SOCAR St\u00e4fa"}
+{"id":7124256385,"lat":47.5670281,"lon":8.9084935,"name":"Coop"}
+{"id":7129021552,"lat":46.2022406,"lon":6.1547596,"name":"BP"}
+{"id":7159893353,"lat":46.9546204,"lon":7.4771273,"name":"Coop"}
+{"id":7169643795,"lat":46.3090876,"lon":7.9714455,"name":"BP"}
+{"id":7188187260,"lat":46.4013772,"lon":9.6955164,"name":"BP"}
+{"id":7212592985,"lat":47.1910936,"lon":7.1123575,"name":"Bertschi Garage"}
+{"id":7216902618,"lat":47.4157791,"lon":7.082515,"name":"Shop'Ajoie"}
+{"id":7227684701,"lat":47.4485975,"lon":8.1437519,"name":"Migrol Tankstelle Schinznach Dorf"}
+{"id":7234871003,"lat":47.4224599,"lon":9.5513276,"name":"Agrola"}
+{"id":7235474663,"lat":47.4158185,"lon":7.0796919,"name":"Coop Pronto"}
+{"id":7283569729,"lat":47.6927894,"lon":8.6233036,"name":"SOCAR Rheinfall"}
+{"id":7319282794,"lat":46.5573021,"lon":9.6248697,"name":"AVIA"}
+{"id":7352171273,"lat":46.5121581,"lon":6.6592735,"name":"Station BP"}
+{"id":7358597529,"lat":47.7099891,"lon":8.8209668,"name":"SOCAR Ramsen"}
+{"id":7390911007,"lat":47.3700201,"lon":8.0791765,"name":"Benzindiscount"}
+{"id":7403418119,"lat":47.4017851,"lon":8.4526451,"name":"Avia Industriestrasse"}
+{"id":7419682648,"lat":47.5634184,"lon":8.907842,"name":"Shell Frauenfeld"}
+{"id":7419682650,"lat":47.562051,"lon":8.9057258,"name":"Migrol Tankstelle Frauenfeld"}
+{"id":7443294871,"lat":46.7962334,"lon":7.1437256,"name":"Minipirix"}
+{"id":7444398176,"lat":47.1072197,"lon":8.0848217,"name":"Agrola Landi"}
+{"id":7463799585,"lat":47.3115525,"lon":7.8947767,"name":"Migrol Service Rothrist"}
+{"id":7473300628,"lat":47.5260002,"lon":8.2424829,"name":"Coop Tankstelle W\u00fcrenlingen"}
+{"id":7590744179,"lat":47.3158438,"lon":7.800985,"name":"Frey Transport"}
+{"id":7598222946,"lat":47.3527198,"lon":8.2539146,"name":"Benzin Discount"}
+{"id":7600258535,"lat":47.4648644,"lon":7.8467838,"name":"Coop"}
+{"id":7600260673,"lat":47.5520329,"lon":7.8035659,"name":"Coop Tankstelle"}
+{"id":7600279693,"lat":47.4388056,"lon":7.5286512,"name":"Coop Tankstelle"}
+{"id":7600324461,"lat":47.6394892,"lon":9.2031885,"name":"Coop Tankstelle"}
+{"id":7600332343,"lat":47.1938289,"lon":8.8172135,"name":"Coop Tankstelle"}
+{"id":7600356612,"lat":47.4797891,"lon":8.9949493,"name":"Coop Tankstelle"}
+{"id":7600391895,"lat":47.3064785,"lon":8.8168191,"name":"Coop Tankstelle"}
+{"id":7600435654,"lat":47.4122547,"lon":8.2230051,"name":"Coop Tankstelle"}
+{"id":7673857088,"lat":47.5305185,"lon":7.6383204,"name":"SOCAR Muttenz"}
+{"id":7673864020,"lat":47.5236976,"lon":7.7059913,"name":"Migrol Service Pratteln"}
+{"id":7674184801,"lat":47.4392075,"lon":7.5385737,"name":"Migrol Shell Service Zwingen"}
+{"id":7680137105,"lat":47.530595,"lon":7.6503672,"name":"AVIA"}
+{"id":7682857071,"lat":47.5622618,"lon":9.1247731,"name":"SOCAR Weinfelden"}
+{"id":7682864190,"lat":47.5182643,"lon":9.0007909,"name":"SOCAR Lommis"}
+{"id":7682902458,"lat":47.6442767,"lon":9.1810486,"name":"Migrol Tankstelle AMAG Kreuzlingen"}
+{"id":7682992145,"lat":47.4683386,"lon":9.109392,"name":"Migrol Service Zuzwil SG"}
+{"id":7683096203,"lat":47.6488321,"lon":8.8700763,"name":"Migrol Tankstelle Eschenz"}
+{"id":7684921023,"lat":47.2737376,"lon":8.9118883,"name":"Shell Wald ZH"}
+{"id":7702297267,"lat":47.39634,"lon":8.4400249,"name":"SOCAR Schlieren"}
+{"id":7702874122,"lat":47.2658346,"lon":8.7298735,"name":"SOCAR Oetwil am See"}
+{"id":7703029466,"lat":47.2434711,"lon":8.9588423,"name":"SOCAR St. Gallenkappel"}
+{"id":7704856269,"lat":47.2590921,"lon":8.1847435,"name":"Migrol Service Reinach AG"}
+{"id":7706911945,"lat":47.5537444,"lon":7.6085199,"name":"Migrol Tankstelle St. Alban"}
+{"id":7706952223,"lat":47.4145345,"lon":7.5430341,"name":"Migrol Tankstelle Brislach"}
+{"id":7707275593,"lat":47.4786201,"lon":9.4756019,"name":"Tankstelle Migrol Service Goldach"}
+{"id":7707526738,"lat":46.9653417,"lon":7.4577172,"name":"Migrol Service Wankdorf"}
+{"id":7710511664,"lat":47.5587537,"lon":8.4345861,"name":"Migrol Tankstelle Weiach"}
+{"id":7710695297,"lat":47.235038,"lon":8.1932781,"name":"Migrol Service Menziken"}
+{"id":7710911042,"lat":47.3666153,"lon":8.3135613,"name":"Migrol Tankstelle"}
+{"id":7710912979,"lat":47.3216477,"lon":8.037042,"name":"Migrol Tankstelle Holziken"}
+{"id":7710938451,"lat":47.4833039,"lon":7.5395269,"name":"Migrol Tankstelle Ettingen"}
+{"id":7710986564,"lat":47.1527031,"lon":8.1164104,"name":"Migrol Tankstelle AMAG Oberkirch"}
+{"id":7761067547,"lat":47.4629814,"lon":9.0219896,"name":"Coop"}
+{"id":7765697299,"lat":47.4919525,"lon":9.2444455,"name":"Agrola"}
+{"id":7776671931,"lat":47.3667668,"lon":7.165339,"name":"Paupe Station"}
+{"id":7784009538,"lat":46.3586227,"lon":6.2154636,"name":"Eni"}
+{"id":7788196025,"lat":47.4399049,"lon":9.25461,"name":"Coop Pronto"}
+{"id":7798693088,"lat":46.7388524,"lon":7.5219397,"name":"Oeltrans AG"}
+{"id":7830137785,"lat":46.5371324,"lon":6.8287455,"name":"AB Box SA Self Stockage"}
+{"id":7855094421,"lat":46.3456599,"lon":9.5962,"name":"Socar"}
+{"id":7897609235,"lat":47.1620064,"lon":7.2857211,"name":"Avia"}
+{"id":7903295171,"lat":47.1435298,"lon":7.6673585,"name":"LMG"}
+{"id":7904036275,"lat":46.3998649,"lon":8.1339393,"name":"BP"}
+{"id":7906538121,"lat":47.1146897,"lon":7.8652437,"name":"Fredys Tankstelle"}
+{"id":7914281885,"lat":47.3384962,"lon":8.5404282,"name":"Hafen Wollishofen"}
+{"id":7922806895,"lat":47.4801086,"lon":9.5316053,"name":"Shell Staad"}
+{"id":7940332961,"lat":46.5007788,"lon":6.4817052,"name":"Friderici"}
+{"id":7945556109,"lat":45.9852367,"lon":8.8902769,"name":"Coop"}
+{"id":7976103204,"lat":47.4795882,"lon":9.5281745,"name":"Avia"}
+{"id":8009892659,"lat":47.0014945,"lon":7.2738638,"name":"Garage Bill AG"}
+{"id":8042153992,"lat":46.9181094,"lon":7.1118589,"name":"Landi"}
+{"id":8050268168,"lat":47.0686334,"lon":7.5779079,"name":"Avia"}
+{"id":8091536612,"lat":46.8395485,"lon":7.5437947,"name":"Agrola"}
+{"id":8143654398,"lat":47.5849101,"lon":8.2449029,"name":"Ruedi R\u00fcssel"}
+{"id":8143698924,"lat":47.600102,"lon":8.226213,"name":"Ruedi R\u00fcssel"}
+{"id":8151175308,"lat":46.6017536,"lon":6.6142359,"name":"Tamoil"}
+{"id":8168277323,"lat":47.2053231,"lon":7.5502446,"name":"Shell Zuchwil"}
+{"id":8174535549,"lat":47.3870154,"lon":8.1647745,"name":"Coop"}
+{"id":8191417545,"lat":47.4306294,"lon":8.6875185,"name":"Garage plus"}
+{"id":8195983410,"lat":46.267267,"lon":6.9530296,"name":"Shell"}
+{"id":8198230979,"lat":46.9332438,"lon":7.4225978,"name":"Tamoil"}
+{"id":8262631150,"lat":47.4154408,"lon":8.7205647,"name":"Agrola"}
+{"id":8262954422,"lat":46.9527565,"lon":7.5426977,"name":"Agrola TopShop"}
+{"id":8278567115,"lat":47.360375,"lon":8.793889,"name":"Lenzlinger Tankstellen"}
+{"id":8283191345,"lat":47.0916998,"lon":6.8409795,"name":"Eni"}
+{"id":8308068118,"lat":47.3643909,"lon":9.3157311,"name":"Station 2-temps"}
+{"id":8308068119,"lat":47.4426872,"lon":9.4680306,"name":"Station 2-temps"}
+{"id":8308068120,"lat":46.7242797,"lon":7.0687385,"name":"Station 2-temp"}
+{"id":8308068121,"lat":46.7495176,"lon":7.2058237,"name":"Station 2-temps"}
+{"id":8308068122,"lat":46.9550164,"lon":7.2642018,"name":"Station 2-temps"}
+{"id":8308068217,"lat":47.4071373,"lon":9.3095455,"name":"Station 2-temps"}
+{"id":8308068218,"lat":46.7577305,"lon":7.2090563,"name":"Station 2-temps"}
+{"id":8308068220,"lat":46.8214389,"lon":7.1071176,"name":"Station 2-temps"}
+{"id":8308068317,"lat":46.736086,"lon":7.0204126,"name":"Station 2-temps"}
+{"id":8308068318,"lat":46.7266207,"lon":7.1354654,"name":"Station 2-temp"}
+{"id":8308068417,"lat":46.8952853,"lon":7.1681614,"name":"Station 2-temps"}
+{"id":8308068517,"lat":46.6189802,"lon":6.9822323,"name":"Station 2-temps"}
+{"id":8308068518,"lat":46.5325365,"lon":6.8502345,"name":"Station 2-temps"}
+{"id":8308068617,"lat":46.987712,"lon":6.9182069,"name":"Quai Louis Perrier"}
+{"id":8311303429,"lat":47.1926538,"lon":7.7093788,"name":"Migrol"}
+{"id":8357790358,"lat":47.4201113,"lon":8.2741527,"name":"Ruedi R\u00fcssel Tankstelle"}
+{"id":8406421688,"lat":46.5578792,"lon":6.6358478,"name":"BP"}
+{"id":8422020064,"lat":47.5576214,"lon":7.5740822,"name":"Shell"}
+{"id":8478613548,"lat":47.7049065,"lon":8.6276122,"name":"Avia Tankstelle"}
+{"id":8489547481,"lat":46.1983284,"lon":8.750402,"name":"Eni"}
+{"id":8539689215,"lat":46.8795677,"lon":7.0439852,"name":"Eni"}
+{"id":8544380874,"lat":47.6867256,"lon":8.7579241,"name":"Freie Tankstelle Leutenegger"}
+{"id":8568950563,"lat":47.1280099,"lon":8.892057,"name":"OIL!"}
+{"id":8569355617,"lat":46.1983931,"lon":8.7502106,"name":"City Shop & Snack Bar"}
+{"id":8658071193,"lat":47.5732888,"lon":8.5601608,"name":"Agrola"}
+{"id":8708689896,"lat":47.1173085,"lon":7.293585,"name":"Voegtlin-Meyer"}
+{"id":8745217408,"lat":46.7433398,"lon":7.6273964,"name":"Coop pronto"}
+{"id":8781440145,"lat":47.3892962,"lon":8.2044935,"name":"Coop"}
+{"id":8809275654,"lat":46.0088569,"lon":9.0086354,"name":"Mondial Change"}
+{"id":8831061035,"lat":47.4611186,"lon":7.8200162,"name":"Nebiker"}
+{"id":8862668023,"lat":46.5550461,"lon":7.3731734,"name":"Ruedi R\u00fcssel"}
+{"id":8863909474,"lat":47.5485082,"lon":7.6284867,"name":"Coop Tankstelle"}
+{"id":8872977825,"lat":46.3344625,"lon":9.5371058,"name":"Agip"}
+{"id":8886970113,"lat":47.5648913,"lon":8.867495,"name":"Tankstelle Hilzinger"}
+{"id":8897241656,"lat":46.9880195,"lon":7.3832881,"name":"Agrola"}
+{"id":8897803330,"lat":47.196558,"lon":8.4350498,"name":"BP"}
+{"id":8901334846,"lat":47.1544642,"lon":9.0304894,"name":"Tankstelle Autoland Reust - G\u00fcnstig Tanken"}
+{"id":8920626404,"lat":46.8009875,"lon":7.1226739,"name":"Baechler 24\/24"}
+{"id":8922195925,"lat":46.5313088,"lon":9.874205,"name":"Socar"}
+{"id":8923044561,"lat":46.7975405,"lon":6.7540794,"name":"Agrola"}
+{"id":8963692502,"lat":46.616023,"lon":6.6597548,"name":"Agrola"}
+{"id":9005199657,"lat":47.3251676,"lon":8.7859423,"name":"AVIA"}
+{"id":9025347030,"lat":47.2959533,"lon":7.9323762,"name":"Agrola Bleicheweg"}
+{"id":9028879510,"lat":47.2244303,"lon":6.9690656,"name":"Relais des Franches"}
+{"id":9032304502,"lat":46.0324071,"lon":8.9227861,"name":"migrolino Manno"}
+{"id":9032714705,"lat":46.2289037,"lon":7.3449299,"name":"Shell"}
+{"id":9032746232,"lat":46.2278206,"lon":7.3413792,"name":"Eni"}
+{"id":9038994452,"lat":47.1938251,"lon":7.1420695,"name":"Automobiles J\u00e4ggi"}
+{"id":9040067319,"lat":46.2264635,"lon":7.3364342,"name":"Combustia"}
+{"id":9043472190,"lat":46.2245336,"lon":7.3092702,"name":"Migrol"}
+{"id":9043505782,"lat":46.9380747,"lon":6.670516,"name":"Garage Touring SA"}
+{"id":9050155305,"lat":47.0717197,"lon":8.379486,"name":"Avia Tankstellenshop"}
+{"id":9069374017,"lat":46.2173995,"lon":7.3004324,"name":"Tamoil"}
+{"id":9069769511,"lat":46.2244627,"lon":7.3029534,"name":"Coop"}
+{"id":9074742122,"lat":46.9798965,"lon":7.7395374,"name":"Landi Tankstelle"}
+{"id":9080804160,"lat":47.4186567,"lon":9.2485588,"name":"Rufer"}
+{"id":9081607347,"lat":46.7110859,"lon":9.4354918,"name":"Agrola"}
+{"id":9097117332,"lat":47.4982955,"lon":8.75433,"name":"Etzelpark Winti Benzin"}
+{"id":9102042648,"lat":46.2125383,"lon":7.0055897,"name":"Tamoil"}
+{"id":9106167326,"lat":46.2225578,"lon":7.2989732,"name":"Tamoil"}
+{"id":9115798551,"lat":46.2238938,"lon":7.2995002,"name":"Eni"}
+{"id":9149969124,"lat":47.3892741,"lon":8.2942862,"name":"Gratank AG"}
+{"id":9168386810,"lat":46.970341,"lon":7.4971224,"name":"Agrola"}
+{"id":9255380791,"lat":46.7977979,"lon":7.119166,"name":"Tamoil"}
+{"id":9267465681,"lat":46.3106978,"lon":7.530899,"name":"Garage du Rocher"}
+{"id":9267711019,"lat":46.3041242,"lon":7.5394233,"name":"Tamoil"}
+{"id":9267750693,"lat":46.2881799,"lon":7.5212794,"name":"BP"}
+{"id":9267950391,"lat":46.4685376,"lon":7.28551,"name":"SOCAR"}
+{"id":9285352215,"lat":47.1491369,"lon":9.1428786,"name":"Agrola"}
+{"id":9289206906,"lat":46.6731761,"lon":6.9262151,"name":"Tamoil"}
+{"id":9303633585,"lat":46.7987465,"lon":7.1231284,"name":"Migrol"}
+{"id":9349521108,"lat":47.4611631,"lon":8.5183392,"name":"Avia"}
+{"id":9404456365,"lat":46.2220024,"lon":7.2701784,"name":"Station de V\u00e9troz"}
+{"id":9408619653,"lat":47.148369,"lon":6.8920997,"name":"G.S.H.C"}
+{"id":9420034735,"lat":47.3807486,"lon":8.6828929,"name":"Coop"}
+{"id":9424019827,"lat":46.4421373,"lon":6.8874473,"name":"Avia"}
+{"id":9424019829,"lat":46.4409746,"lon":6.8910365,"name":"tamoil"}
+{"id":9465566396,"lat":47.0005656,"lon":8.6100904,"name":"Avia"}
+{"id":9534195025,"lat":46.2368926,"lon":10.138189,"name":"Eni"}
+{"id":9597538969,"lat":47.1221867,"lon":9.3158581,"name":"Agrola"}
+{"id":9687983298,"lat":46.8328554,"lon":6.8445127,"name":"Jubin"}
+{"id":9768345585,"lat":47.4199227,"lon":9.3626561,"name":"Avia"}
+{"id":9784023917,"lat":47.1890951,"lon":7.973966,"name":"Shell Nebikon"}
+{"id":9795472545,"lat":46.6841076,"lon":7.0915588,"name":"Tamoil"}
+{"id":9822086386,"lat":47.3342316,"lon":9.4628984,"name":"Kreuzgarage Eggerstanden"}
+{"id":9823820576,"lat":47.3998966,"lon":9.3593068,"name":"Spurt"}
+{"id":9837839917,"lat":46.8153353,"lon":6.8949766,"name":"Mini Prix"}
+{"id":9846257247,"lat":46.7914507,"lon":7.160829,"name":"Tamoil"}
+{"id":9909993062,"lat":46.5212191,"lon":6.5860549,"name":"Socar"}
+{"id":9913053661,"lat":46.1465185,"lon":7.1681404,"name":"Agrola"}
+{"id":9914493267,"lat":46.0538992,"lon":6.9514708,"name":"BP"}
+{"id":9915244118,"lat":47.1548108,"lon":8.7214644,"name":"Agrola"}
+{"id":9922434457,"lat":47.4072998,"lon":9.3025813,"name":"BP Tankstelle St. Gallen West"}
+{"id":9931250917,"lat":46.7947659,"lon":9.8229588,"name":"Gredig"}
+{"id":9931694417,"lat":46.7976404,"lon":9.8277921,"name":"Coop Pronto"}
+{"id":9938824490,"lat":46.7805095,"lon":7.0875182,"name":"Coop"}
+{"id":9942407242,"lat":46.6992001,"lon":9.4523546,"name":"Ruedi R\u00fcssel gas station"}
+{"id":9949277157,"lat":47.4377167,"lon":9.3885251,"name":"Avia"}
+{"id":9949283932,"lat":47.4370362,"lon":9.3878786,"name":"Avia"}
+{"id":9950963590,"lat":47.3868161,"lon":9.5544133,"name":"Freie Tankstelle L\u00fcchingen"}
+{"id":9965475815,"lat":46.2828504,"lon":6.9444274,"name":"Migrol"}
+{"id":9967850151,"lat":47.409667,"lon":9.3334748,"name":"Tamoil"}
+{"id":9983081873,"lat":47.3319026,"lon":9.4128759,"name":"Socar Appenzell"}
+{"id":9995677989,"lat":47.3412872,"lon":7.2100952,"name":"Gisiger"}
+{"id":9997181589,"lat":46.3958224,"lon":9.2311288,"name":"ecsa"}
+{"id":10031143191,"lat":46.8153985,"lon":6.8895371,"name":"Agrola"}
+{"id":10031156992,"lat":46.8182886,"lon":6.9269308,"name":"Varo"}
+{"id":10052226162,"lat":47.3323049,"lon":7.841259,"name":"BP"}
+{"id":10052272014,"lat":47.3719364,"lon":7.9874672,"name":"Ruedi R\u00fcssel"}
+{"id":10075204701,"lat":46.3416864,"lon":8.9766634,"name":"Eni"}
+{"id":10080554886,"lat":46.682132,"lon":7.085098,"name":"Shell La Gruy\u00e8re"}
+{"id":10080554887,"lat":46.6819186,"lon":7.0852697,"name":"Shell La Gruy\u00e8re"}
+{"id":10081431035,"lat":47.6406736,"lon":9.1921632,"name":"ecostop"}
+{"id":10106228306,"lat":46.6233691,"lon":7.0564137,"name":"Migrolino"}
+{"id":10119084857,"lat":46.5189812,"lon":6.4288912,"name":"Eni"}
+{"id":10125913623,"lat":47.2654585,"lon":8.1765253,"name":"Coop"}
+{"id":10148228397,"lat":47.3551309,"lon":7.9016963,"name":"Rudi R\u00fcssel"}
+{"id":10160267814,"lat":47.516341,"lon":8.6782876,"name":"Tamoil Tankstelle"}
+{"id":10167697119,"lat":46.9903989,"lon":7.4772942,"name":"Tamoil - Grauholz Nord"}
+{"id":10178629981,"lat":46.8011975,"lon":7.1190206,"name":"Die Post"}
+{"id":10184308617,"lat":47.6842441,"lon":8.6121579,"name":"BP"}
+{"id":10225937410,"lat":47.0827914,"lon":7.3978637,"name":"GTK Garage Tankstelle Kn\u00f6rr"}
+{"id":10229045903,"lat":47.4410326,"lon":9.2549845,"name":"BP"}
+{"id":10239196021,"lat":47.0483679,"lon":8.6162866,"name":"Avia"}
+{"id":10247624431,"lat":47.6531191,"lon":9.1785581,"name":"Avia"}
+{"id":10251388827,"lat":47.4153295,"lon":9.2647917,"name":"Etzelpark Gossau Benzin"}
+{"id":10254598355,"lat":46.6441223,"lon":6.6365102,"name":"Agrola"}
+{"id":10259118070,"lat":46.9198947,"lon":9.5539178,"name":"Avia"}
+{"id":10266055340,"lat":47.4140949,"lon":9.3114861,"name":"Agrola"}
+{"id":10266055344,"lat":47.4164065,"lon":9.3114971,"name":"Avia"}
+{"id":10284494736,"lat":47.1645918,"lon":8.2842403,"name":"Eni"}
+{"id":10292982081,"lat":46.9545534,"lon":6.8483899,"name":"Centre de L'ile"}
+{"id":10297337892,"lat":46.9538117,"lon":6.8450267,"name":"Migrol"}
+{"id":10301090417,"lat":47.4136465,"lon":9.2709945,"name":"BP"}
+{"id":10301090422,"lat":47.4135001,"lon":9.2705952,"name":"Coop"}
+{"id":10302641193,"lat":47.3190444,"lon":9.1737481,"name":"Luchs Oil"}
+{"id":10539012266,"lat":47.3724409,"lon":8.0476793,"name":"Midland Tankstelle"}
+{"id":10577618898,"lat":47.5436874,"lon":8.0965348,"name":"Elektroanlagen Schraner"}
+{"id":10584053766,"lat":46.4602078,"lon":6.8485416,"name":"Station Shop 35"}
+{"id":10588981463,"lat":47.2970951,"lon":8.2305298,"name":"Migrol Tankstelle"}
+{"id":10592141971,"lat":47.3634557,"lon":9.1428257,"name":"Agrola"}
+{"id":10592396705,"lat":47.2645494,"lon":8.1741884,"name":"Agrola Tankstelle & Top Shop"}
+{"id":10594105906,"lat":47.3698458,"lon":7.969045,"name":"LPG Garage Plus"}
+{"id":10594373271,"lat":47.4279418,"lon":9.1285631,"name":"Avia"}
+{"id":10649533003,"lat":46.2069399,"lon":7.0077649,"name":"Agrola"}
+{"id":10692702753,"lat":47.5452328,"lon":9.1810113,"name":"Agrola"}
+{"id":10692840962,"lat":47.4424648,"lon":9.4129017,"name":"Sprenger AG"}
+{"id":10701492029,"lat":46.6567027,"lon":6.5536326,"name":"Varo"}
+{"id":10706845164,"lat":47.2584701,"lon":9.1412311,"name":"Avia"}
+{"id":10707802410,"lat":47.631078,"lon":8.7866392,"name":"Agrola"}
+{"id":10735410458,"lat":46.1811582,"lon":6.1435373,"name":"Jubin Station des Moraines"}
+{"id":10778337376,"lat":47.445632,"lon":9.6481918,"name":"Agrola"}
+{"id":10778637635,"lat":46.4659604,"lon":6.2586972,"name":"Mini Prix"}
+{"id":10819794959,"lat":47.4689633,"lon":8.1883313,"name":"Voegtlin-Mayer AG"}
+{"id":10853978005,"lat":46.7827906,"lon":7.0590439,"name":"Centre de Ros\u00e9"}
+{"id":10873466298,"lat":47.5738509,"lon":8.5991929,"name":"Avia"}
+{"id":10922072279,"lat":46.8733565,"lon":8.6503185,"name":"Hubrol"}
+{"id":10924914755,"lat":46.9784186,"lon":7.1969737,"name":"Avia"}
+{"id":10933576878,"lat":46.7864807,"lon":7.0792261,"name":"Migrol"}
+{"id":11011989907,"lat":46.6548239,"lon":6.901059,"name":"Mini Prix"}
+{"id":11022607283,"lat":46.8469856,"lon":9.5210285,"name":"Socar"}
+{"id":11023179026,"lat":47.0564169,"lon":7.0608198,"name":"BP"}
+{"id":11030760094,"lat":46.8461265,"lon":9.5118429,"name":"Eni"}
+{"id":11033130851,"lat":46.8484725,"lon":9.5141809,"name":"BP"}
+{"id":11042949086,"lat":46.7433135,"lon":8.994157,"name":"Shell"}
+{"id":11046161442,"lat":47.5276786,"lon":9.1956309,"name":"Avia"}
+{"id":11062916975,"lat":47.0682006,"lon":7.60261,"name":"Ruedi R\u00fcssel"}
+{"id":11069339336,"lat":46.6184772,"lon":9.9973842,"name":"BEBECO"}
+{"id":11118897541,"lat":46.7884241,"lon":10.2698346,"name":"Tankstelle Nairs"}
+{"id":11118919303,"lat":47.3829981,"lon":9.5546386,"name":"Avia"}
+{"id":11143314072,"lat":47.4752485,"lon":9.1521361,"name":"Agrola"}
+{"id":11185679536,"lat":46.2253583,"lon":7.2917323,"name":"Shell"}
+{"id":11247572502,"lat":47.2868609,"lon":8.6070774,"name":"Avia"}
+{"id":11247572508,"lat":47.2979957,"lon":8.5979311,"name":"Avia"}
+{"id":11281280991,"lat":45.8349468,"lon":9.0311046,"name":"Silo Shop"}
+{"id":11281280992,"lat":45.8348728,"lon":9.0352614,"name":"BP"}
+{"id":11295917428,"lat":47.3481465,"lon":7.3190007,"name":"Paupe Station"}
+{"id":11300071656,"lat":47.4395698,"lon":7.5360001,"name":"avia"}
+{"id":11304024244,"lat":47.5068962,"lon":7.9269273,"name":"Hassler"}
+{"id":11304024245,"lat":47.5023368,"lon":7.931026,"name":"Moesch"}
+{"id":11304024246,"lat":47.4975167,"lon":7.9316518,"name":"Agrola"}
+{"id":11323344293,"lat":47.3020303,"lon":8.8456263,"name":"AVIA"}
+{"id":11329043056,"lat":47.2556356,"lon":8.687028,"name":"Avia"}
+{"id":11382477014,"lat":46.7735179,"lon":7.1620863,"name":"Coop Pronto"}
+{"id":11387433445,"lat":46.5693523,"lon":6.5501417,"name":"Station carburant priv\u00e9e Bobst"}
+{"id":11446164240,"lat":47.4888862,"lon":8.5944169,"name":"Agrola"}
+{"id":11471042330,"lat":47.0490812,"lon":7.0351019,"name":"Miniprix"}
+{"id":11486230578,"lat":47.3998792,"lon":8.6249075,"name":"Tamoil"}
+{"id":11486230579,"lat":47.3945209,"lon":8.6548163,"name":"Gfenn Benzin"}
+{"id":11486230581,"lat":47.3823596,"lon":8.6713659,"name":"Volkiland"}
+{"id":11491797795,"lat":47.3700039,"lon":9.3414755,"name":"Avia"}
+{"id":11531578139,"lat":47.1698136,"lon":9.4592347,"name":"Agrola"}
+{"id":11577930778,"lat":46.4870875,"lon":7.2030115,"name":"Avia"}
+{"id":11660181226,"lat":47.717899,"lon":8.6613211,"name":"Agrola"}
+{"id":11662707353,"lat":46.2295727,"lon":7.4326229,"name":"Combustia"}
+{"id":11669936644,"lat":46.858436,"lon":8.6393863,"name":"Hubrol"}
+{"id":11739615586,"lat":47.4494029,"lon":7.6735575,"name":"Avia"}
+{"id":11762032006,"lat":47.1111835,"lon":7.3915985,"name":"Avia"}
+{"id":11762032008,"lat":47.1131216,"lon":7.3897048,"name":"Ruedi R\u00fcssel"}
+{"id":11780219731,"lat":47.0980001,"lon":8.2066437,"name":"Discount Benzin"}
+{"id":11842384092,"lat":47.2859651,"lon":8.617557,"name":"Agrola"}
+{"id":11860822241,"lat":47.3197266,"lon":8.0475906,"name":"Ri"}
+{"id":11930473528,"lat":47.1110336,"lon":7.3001017,"name":"Migrol"}
+{"id":11932344580,"lat":46.9684833,"lon":9.6871966,"name":"Jecklin AG"}
+{"id":11932647736,"lat":47.2689772,"lon":8.2024339,"name":"BP"}
+{"id":11954518069,"lat":47.0154959,"lon":7.0543893,"name":"Miniprix"}
+{"id":11985186821,"lat":47.2496626,"lon":8.1850667,"name":"August H\u00fcsler AG"}
+{"id":11985903267,"lat":46.6075386,"lon":6.9126746,"name":"Garage du Cr\u00eat"}
+{"id":12022643169,"lat":47.0863436,"lon":8.3099826,"name":"Agrola"}
+{"id":12027900278,"lat":46.2098077,"lon":6.1463764,"name":"Station Tamoil Thalberg"}
+{"id":12047680785,"lat":47.5073173,"lon":7.6024308,"name":"Eni"}
+{"id":12068941569,"lat":46.6204506,"lon":7.0584084,"name":"Garage Moderne"}
+{"id":12071162249,"lat":47.1967629,"lon":9.3059076,"name":"Avia"}
+{"id":12071370924,"lat":46.4669628,"lon":8.2353065,"name":"Fahrzeug Center Goms"}
+{"id":12090456797,"lat":47.1803761,"lon":6.9086736,"name":"Jubin"}
+{"id":12104188856,"lat":47.0817744,"lon":8.2831929,"name":"Avia"}
+{"id":12110187999,"lat":47.310061,"lon":8.0516207,"name":"Ruedi R\u00fcssel"}
+{"id":12119983050,"lat":47.5336642,"lon":7.9877693,"name":"Landi"}
+{"id":12122044532,"lat":46.4253771,"lon":6.2543396,"name":"Tamoil"}
+{"id":12135415478,"lat":46.8219482,"lon":6.9407194,"name":"Tamoil"}
+{"id":12144702940,"lat":46.5084492,"lon":8.7004146,"name":"SOCAR"}
+{"id":12149547301,"lat":46.6970321,"lon":9.4486163,"name":"Avia"}
+{"id":12163869425,"lat":47.5162612,"lon":8.7662624,"name":"Coop"}
+{"id":12164290896,"lat":47.360316,"lon":7.3035119,"name":"Jubin"}
+{"id":12165140846,"lat":47.0960168,"lon":9.354558,"name":"Coop Tankstelle"}
+{"id":12174322144,"lat":47.4719148,"lon":8.0525728,"name":"Ruedi R\u00fcssel"}
+{"id":12234968387,"lat":47.3759853,"lon":9.5545369,"name":"Agrola"}
+{"id":12239238293,"lat":47.424408,"lon":9.6146484,"name":"Agrola"}
+{"id":12239502112,"lat":47.4162675,"lon":9.633039,"name":"BP"}
+{"id":12239635697,"lat":47.4478331,"lon":9.6498906,"name":"Agrola"}
+{"id":12257995573,"lat":46.6998035,"lon":9.4396487,"name":"Moveri Thusis"}
+{"id":12258148702,"lat":47.0389379,"lon":8.190357,"name":"Migrol Tankstelle Touring Garage Malters"}
+{"id":12286105196,"lat":47.0648557,"lon":8.5228631,"name":"Shell"}
+{"id":12288566614,"lat":47.2693258,"lon":8.2023818,"name":"Agrola LPG"}
+{"id":12310159890,"lat":47.3362305,"lon":8.6200573,"name":"Avia"}
+{"id":12323908572,"lat":47.4137263,"lon":8.1923977,"name":"volg"}
+{"id":12328531083,"lat":46.3931329,"lon":6.2369921,"name":"Coop Pronto"}
+{"id":12330313001,"lat":47.5380095,"lon":8.289505,"name":"Avia Endingen"}
+{"id":12362263057,"lat":46.7308692,"lon":6.386927,"name":"BP"}
+{"id":12384969127,"lat":47.2820641,"lon":7.9395837,"name":"Agrola"}
+{"id":12423040642,"lat":45.8851218,"lon":8.9810923,"name":"Grenacher"}
+{"id":12441666965,"lat":47.4510858,"lon":9.1629597,"name":"Avia"}
+{"id":12442390558,"lat":46.177187,"lon":8.9972492,"name":"City"}
+{"id":12468546271,"lat":47.4333233,"lon":7.7152459,"name":"ecostop"}
+{"id":12475588078,"lat":47.5219684,"lon":8.327924,"name":"Voegtlin - Meyer AG"}
+{"id":12475588079,"lat":47.5402322,"lon":8.2900212,"name":"C\u00e4sar GmbH"}
+{"id":12475588080,"lat":47.5662231,"lon":8.2882629,"name":"Kreiseltankstelle & Shop"}
+{"id":12496851118,"lat":46.8708387,"lon":7.122643,"name":"Agrola"}
+{"id":12516786367,"lat":45.8571573,"lon":8.9671578,"name":"BP"}
+{"id":12536015546,"lat":47.4259519,"lon":7.5095582,"name":"CNG gaz energie"}
+{"id":12578528993,"lat":47.4146255,"lon":7.5017659,"name":"Agrola"}
+{"id":12620018704,"lat":46.8278125,"lon":7.1452152,"name":"Coop Pronto"}
+{"id":12643326661,"lat":46.843093,"lon":6.8544324,"name":"Migrol"}
