@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Real Estate Dashboard</h1>
+    <div class="kpis">
+        <div class="kpi">
+            <h2>Average Price</h2>
+            <p>{{ avg_price }} CHF</p>
+        </div>
+        <div class="kpi">
+            <h2>Average Area</h2>
+            <p>{{ avg_area }} m²</p>
+        </div>
+    </div>
+    <div class="chart">
+        <h2>Price Distribution</h2>
+        <img src="/static/price_distribution.png" alt="Price Distribution">
+    </div>
+    <div class="table">
+        <h2>Apartment Data</h2>
+        {{ table_data|safe }}
+    </div>
+</body>
+</html>
